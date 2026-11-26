@@ -50,29 +50,28 @@ final boardThemes = <String, ChessboardColorScheme>{
   'plum': _board(const Color(0xFFEDE4F0), const Color(0xFF9479A8)),
 };
 
-/// Color, símbolo e icono de cada clasificación. El símbolo y el nombre
+/// Color y símbolo de cada clasificación. El símbolo y el nombre
 /// acompañan siempre al color (accesibilidad).
 class ClassStyle {
-  const ClassStyle(this.color, this.symbol, this.icon);
+  const ClassStyle(this.color, this.symbol);
   final Color color;
   final String symbol;
-  final IconData icon;
 }
 
 ClassStyle classStyle(MoveClass c, {bool colorBlind = false}) {
   // Paleta daltónica: tonos de Okabe-Ito, distinguibles con deuteranopia/protanopia.
   final cb = colorBlind;
   return switch (c) {
-    MoveClass.brilliant => ClassStyle(cb ? const Color(0xFF56B4E9) : const Color(0xFF12B5CB), '!!', Icons.auto_awesome),
-    MoveClass.great => ClassStyle(cb ? const Color(0xFF0072B2) : const Color(0xFF4F7CF7), '!', Icons.bolt),
-    MoveClass.book => const ClassStyle(Color(0xFF9C7B5B), '≡', Icons.menu_book),
-    MoveClass.best => ClassStyle(cb ? const Color(0xFF009E73) : const Color(0xFF2E9E5B), '★', Icons.star),
-    MoveClass.excellent => ClassStyle(cb ? const Color(0xFF009E73) : const Color(0xFF5DB075), '✓✓', Icons.thumb_up),
-    MoveClass.good => ClassStyle(cb ? const Color(0xFF6FA88F) : const Color(0xFF8FB996), '✓', Icons.check),
-    MoveClass.inaccuracy => ClassStyle(cb ? const Color(0xFFF0E442) : const Color(0xFFE8B10C), '?!', Icons.help_outline),
-    MoveClass.miss => ClassStyle(cb ? const Color(0xFFCC79A7) : const Color(0xFFD9668B), '✗', Icons.close),
-    MoveClass.mistake => ClassStyle(cb ? const Color(0xFFE69F00) : const Color(0xFFEE8434), '?', Icons.priority_high),
-    MoveClass.blunder => ClassStyle(cb ? const Color(0xFFD55E00) : const Color(0xFFD43F3A), '??', Icons.dangerous),
-    MoveClass.forced => const ClassStyle(Color(0xFF9E9E9E), '□', Icons.lock),
+    MoveClass.brilliant => ClassStyle(cb ? const Color(0xFF56B4E9) : const Color(0xFF12B5CB), '!!'),
+    MoveClass.great => ClassStyle(cb ? const Color(0xFF0072B2) : const Color(0xFF4F7CF7), '!'),
+    MoveClass.book => const ClassStyle(Color(0xFF9C7B5B), '≡'),
+    MoveClass.best => ClassStyle(cb ? const Color(0xFF009E73) : const Color(0xFF2E9E5B), '★'),
+    MoveClass.excellent => ClassStyle(cb ? const Color(0xFF009E73) : const Color(0xFF5DB075), '✓✓'),
+    MoveClass.good => ClassStyle(cb ? const Color(0xFF6FA88F) : const Color(0xFF8FB996), '✓'),
+    MoveClass.inaccuracy => ClassStyle(cb ? const Color(0xFFF0E442) : const Color(0xFFE8B10C), '?!'),
+    MoveClass.miss => ClassStyle(cb ? const Color(0xFFCC79A7) : const Color(0xFFD9668B), '✗'),
+    MoveClass.mistake => ClassStyle(cb ? const Color(0xFFE69F00) : const Color(0xFFEE8434), '?'),
+    MoveClass.blunder => ClassStyle(cb ? const Color(0xFFD55E00) : const Color(0xFFD43F3A), '??'),
+    MoveClass.forced => const ClassStyle(Color(0xFF9E9E9E), '□'),
   };
 }

@@ -1,6 +1,6 @@
 # IraChess — Propuesta técnica (Fase 0)
 
-Estado: **pendiente de confirmación**. No se ha escrito código todavía.
+Estado: **confirmada** (D1–D5 aceptadas; sin CI por petición del usuario). Implementación y desviaciones: ver [ESTADO.md](ESTADO.md).
 Versiones y licencias de paquetes comprobadas en pub.dev el 2026-11-26.
 
 ---
