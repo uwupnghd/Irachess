@@ -23,8 +23,9 @@ Español por defecto e inglés; tema claro/oscuro; 4 tableros y 7 juegos de piez
 
 - Flutter **3.50** o superior (Dart 3.14).
 - Android: SDK de Android (la compilación descarga el NDK y la red NNUE de Stockfish).
-- Linux (escritorio): `sudo apt install libgtk-3-dev libsecret-1-dev libsqlite3-dev stockfish`.
-- Windows/macOS (escritorio): el ejecutable de Stockfish (ver abajo).
+- Linux (escritorio): `sudo apt install libgtk-3-dev libsqlite3-dev stockfish`.
+- Windows (escritorio): Visual Studio o Build Tools con «Desarrollo para el escritorio con C++», el **Modo de desarrollador** de Windows activado y el ejecutable de Stockfish (ver abajo).
+- macOS (escritorio): Xcode y el ejecutable de Stockfish.
 
 ## Ejecutar
 
@@ -39,6 +40,12 @@ flutter run -d android
 ```bash
 flutter run -d linux
 ```
+
+```bash
+flutter build windows --release
+```
+
+En Windows la app queda en `build\windows\x64\runner\Release\irachess.exe`; copia `stockfish.exe` en la subcarpeta `engine` de esa misma carpeta.
 
 ### Stockfish en escritorio
 
