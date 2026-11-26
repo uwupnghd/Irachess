@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
+import 'dart:math';
 
 import 'package:dartchess/dartchess.dart';
 import 'package:flutter/services.dart';
@@ -50,6 +51,11 @@ class _VisionScreenState extends ConsumerState<VisionScreen> {
   VisionGame? _game;
   final _watch = Stopwatch();
   Timer? _ticker;
+  int _ticks = 0;
+
+  // El cronómetro da precisión; los ticks garantizan el avance aunque el reloj
+  // del sistema no cambie (pruebas con tiempo simulado).
+  Duration get _elapsed => Duration(milliseconds: max(_watch.elapsedMilliseconds, _ticks * 100));
   bool _finished = false;
   int? _previousBest;
   (Square, bool)? _flash;
@@ -71,9 +77,11 @@ class _VisionScreenState extends ConsumerState<VisionScreen> {
     _watch
       ..reset()
       ..start();
+    _ticks = 0;
     _ticker?.cancel();
     _ticker = Timer.periodic(const Duration(milliseconds: 100), (_) {
-      if (_game!.finished(_watch.elapsed)) {
+      _ticks++;
+      if (_game!.finished(_elapsed)) {
         _finish();
       } else {
         setState(() {});
@@ -94,9 +102,9 @@ class _VisionScreenState extends ConsumerState<VisionScreen> {
       coords: _coords,
       score: g.score,
       errors: g.errors,
-      durationMs: _watch.elapsedMilliseconds,
+      durationMs: _elapsed.inMilliseconds,
       misses: jsonEncode([for (final (t, s) in g.misses) [t.name, s.name]]),
-      startedAt: DateTime.now().subtract(_watch.elapsed),
+      startedAt: DateTime.now().subtract(_elapsed),
     ));
     ref.invalidate(visionStatsProvider);
   }
@@ -111,7 +119,7 @@ class _VisionScreenState extends ConsumerState<VisionScreen> {
     Future<void>.delayed(const Duration(milliseconds: 250), () {
       if (mounted && _flash?.$1 == sq) setState(() => _flash = null);
     });
-    if (g.finished(_watch.elapsed)) _finish();
+    if (g.finished(_elapsed)) _finish();
   }
 
   @override
@@ -170,7 +178,7 @@ class _VisionScreenState extends ConsumerState<VisionScreen> {
   Widget _session(AppLocalizations l) {
     final g = _game!;
     final t = Theme.of(context).textTheme;
-    final left = _mode.seconds == null ? null : (_mode.seconds! - _watch.elapsed.inMilliseconds / 1000).clamp(0, 999);
+    final left = _mode.seconds == null ? null : (_mode.seconds! - _elapsed.inMilliseconds / 1000).clamp(0, 999);
     final header = Column(children: [
       Semantics(
         liveRegion: true,
@@ -200,7 +208,7 @@ class _VisionScreenState extends ConsumerState<VisionScreen> {
         ? const SizedBox.shrink()
         : Column(children: [
             const SizedBox(height: 12),
-            Text(l.visionResultTime((_watch.elapsedMilliseconds / 1000).toStringAsFixed(1)), style: t.titleMedium),
+            Text(l.visionResultTime((_elapsed.inMilliseconds / 1000).toStringAsFixed(1)), style: t.titleMedium),
             Text(l.visionBest(g.score > (_previousBest ?? 0) ? g.score : _previousBest ?? 0)),
             Text(g.misses.isEmpty ? l.visionNoMisses : '${l.visionMisses}: ${g.misses.map((m) => m.$1.name).toSet().join(', ')}'),
             const SizedBox(height: 12),

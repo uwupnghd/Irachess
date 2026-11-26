@@ -1,5 +1,4 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter_localizations/flutter_localizations.dart' show GlobalWidgetsLocalizations;
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:material_ui/material_ui.dart';
 
@@ -8,6 +7,9 @@ import '../core/ui/theme.dart';
 import '../l10n/gen/app_localizations.dart';
 import 'licenses.dart';
 import 'router.dart';
+
+/// Traducciones de la app + Material/Cupertino/Widgets (de material_ui).
+const appLocalizationsDelegates = [AppLocalizations.delegate, ...GlobalMaterialLocalizations.delegates];
 
 class IraChessApp extends ConsumerStatefulWidget {
   const IraChessApp({super.key});
@@ -34,11 +36,7 @@ class _IraChessAppState extends ConsumerState<IraChessApp> {
       themeMode: settings.themeMode,
       locale: settings.locale == null ? null : Locale(settings.locale!),
       supportedLocales: AppLocalizations.supportedLocales,
-      localizationsDelegates: const [
-        AppLocalizations.delegate,
-        GlobalMaterialLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-      ],
+      localizationsDelegates: appLocalizationsDelegates,
       // Español por defecto si el idioma del sistema no está soportado.
       localeResolutionCallback: (locale, supported) =>
           supported.where((l) => l.languageCode == locale?.languageCode).firstOrNull ?? const Locale('es'),
