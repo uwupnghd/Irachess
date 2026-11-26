@@ -4,7 +4,7 @@ import '../../core/ui/widgets/common.dart';
 import '../../l10n/gen/app_localizations.dart';
 
 const sourceUrl = 'https://github.com/uwupnghd/irachess';
-const appVersion = '1.0.0';
+const appVersion = '1.0.1';
 
 class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
