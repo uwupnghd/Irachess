@@ -1,11 +1,11 @@
 {
-    "name": "irachess",
-    "short_name": "irachess",
+    "name": "IraChess",
+    "short_name": "IraChess",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#3B3B98",
+    "theme_color": "#3B3B98",
+    "description": "Aprende de tus propias partidas de ajedrez.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

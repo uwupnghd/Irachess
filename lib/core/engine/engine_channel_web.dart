@@ -31,3 +31,6 @@ class _WorkerChannel implements EngineChannel {
     await _lines.close();
   }
 }
+
+/// La versión web es mono-hilo.
+int defaultEngineThreads() => 1;

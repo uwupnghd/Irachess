@@ -7,6 +7,8 @@ import 'package:path/path.dart' as p;
 
 import 'engine_channel.dart';
 
+int defaultEngineThreads() => (Platform.numberOfProcessors ~/ 2).clamp(1, 4);
+
 Future<EngineChannel> openEngineChannel() async {
   if (Platform.isAndroid || Platform.isIOS) {
     return _MobileChannel(await Stockfish.create());

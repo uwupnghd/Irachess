@@ -75,7 +75,8 @@ class UciEngine {
   Future<void> _queue = Future.value();
   int _multiPv = 0;
 
-  static Future<UciEngine> start({int threads = 2, int hashMb = 64}) async {
+  static Future<UciEngine> start({int? threads, int hashMb = 64}) async {
+    threads ??= defaultEngineThreads();
     final engine = UciEngine(await openEngineChannel());
     engine._channel.send('uci');
     engine._channel.send('setoption name Threads value $threads');

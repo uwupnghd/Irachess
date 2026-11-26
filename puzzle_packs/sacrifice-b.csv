@@ -1,0 +1,400 @@
+0OlAv,2r1k1r1/pp2pp1p/8/2P5/2bQ3N/P4P2/5KPP/2q1B2R b - - 0 29,c8d8 d4d8 e8d8 e1a5,1268,93,attraction crushing middlegame sacrifice short
+0PAxJ,8/1p6/6k1/1PP3p1/1n2p1P1/1Bp1P3/5K2/8 b - - 3 39,c3c2 b3c2 b4c2 c5c6 b7c6 b5c6 c2b4 c6c7,1469,97,advancedPawn crushing endgame sacrifice veryLong
+0PIXV,r1b2r1k/ppp1q1pp/2n5/8/1PB1p1nN/2P3P1/PBQ5/R5K1 b - - 3 20,g4e3 h4g6 h7g6 c2h2 c8h3 h2h3 e7h4 h3h4,1017,88,kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+0QIlz,r1b2rk1/3p1ppp/p3n3/1p1N3Q/2B5/4R3/PPP2qPP/1K1R4 b - - 1 21,b5c4 d5e7 g8h8 h5h7 h8h7 e3h3 f2h4 h3h4,1393,93,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+0RPHo,4k2Q/1q1n1p2/1p2p3/6r1/P5p1/6P1/1PP2P1P/3R2K1 b - - 1 36,d7f8 d1d8 e8d8 h8f8,1325,87,advantage attraction deflection endgame sacrifice short
+0Ryig,2kr3r/ppp2ppp/8/8/6b1/q1PB2B1/P1PK1QPP/R6R w - - 1 17,f2f4 d8d3 d2d3 h8d8,1413,94,attraction crushing middlegame sacrifice short
+0SPDT,3r2k1/1q4pp/p1b1r3/1p2p3/2P2Q2/P1B5/B1P3PP/4R1RK w - - 0 29,e1e5 c6g2 g1g2 d8d1 c3e1 d1e1 e5e1 e6e1 f4f1 e1f1,1201,87,kingsideAttack mate mateIn5 middlegame sacrifice veryLong xRayAttack
+0TvRg,3kr2r/3p1R2/1p1Qp3/p3P1p1/P2P4/2P3P1/1P3R1P/3q2K1 w - - 1 32,g1g2 h8h2 g2h2 e8h8 f7h7 h8h7 h2g2 d1h1,1365,98,attraction endgame mate mateIn4 sacrifice veryLong
+0UEtW,1r1r2k1/1B3p1p/1P1pbqp1/p7/P1PR4/2Q3P1/1B3P1P/6K1 b - - 2 29,b8b7 d4d6 f6c3 d6d8 g8g7 b2c3,1436,100,crushing intermezzo long middlegame sacrifice
+0UtyW,3r1r1k/pR5p/4qp2/5n2/3p4/P1P1PQ1P/5P2/2B1K1R1 b - - 1 27,d4e3 b7h7 h8h7 f3h5 f5h6 h5g6 h7h8 g6h6,1479,97,attraction deflection mate mateIn4 middlegame sacrifice veryLong
+0VHFU,8/5k2/4r3/1pB2qp1/3Pb2p/4Q2P/6P1/3R2K1 w - - 0 35,d1f1 f5f1 g1f1 e4g2,1478,93,attraction crushing endgame sacrifice short
+0WlCN,8/5p2/3rp3/1PN1nk2/8/8/1KP1R3/8 b - - 0 45,d6b6 e2e5 f5e5 c5d7,1494,96,advantage attraction endgame sacrifice short
+0Xpbs,3r1rk1/pp3ppp/4P3/2bp4/8/1P1n3B/P2N2PP/3R1R1K b - - 0 22,d3f2 f1f2 c5f2 e6e7,1429,94,advancedPawn advantage middlegame sacrifice short
+0XqVF,r2q1rk1/4bpnp/p3p1p1/6P1/1pPB1P2/4PR1Q/3P3P/RN4K1 b - - 0 21,g7f5 h3h7 g8h7 f3h3 f5h4 h3h4 h7g8 h4h8,1255,88,attraction kingsideAttack mate mateIn4 middlegame operaMate sacrifice veryLong
+0YbO3,5rk1/4R2p/3Q2p1/2nP1r2/P2q1P2/1P1p2P1/6B1/3R1K2 w - - 6 33,d6c7 f5f4 g3f4 f8f4 c7f4 d4f4,1342,96,crushing exposedKing long middlegame sacrifice
+0YrQV,1k1r3r/ppp1ppb1/3p2p1/1P2P3/Q1PP1n2/P1N2NPq/5P1P/R5RK w - - 4 20,a4d1 h3h2 f3h2 h8h2 h1h2 d8h8 d1h5 h8h5,1452,90,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+0ZadC,8/3k4/6n1/4PK2/1p1N4/1P5p/8/8 w - - 0 56,d4f3 g6h4 f3h4 h3h2,1467,94,advancedPawn crushing endgame knightEndgame sacrifice short
+0a7ao,6r1/pp1k4/3qpp2/7p/2pP2rP/P1P1Q1P1/1P3P2/3RR1K1 w - - 4 24,e3f3 g4g3 f2g3 g8g3,1038,97,advantage endgame kingsideAttack sacrifice short
+0aP0U,r1bq1rk1/p3b1pB/2p5/3pp1P1/5B2/2P5/P1P2P1P/R2QK2R b KQ - 0 15,g8h7 d1h5 h7g8 g5g6 f8f4 h5h7 g8f8 h7h8,1444,94,mate mateIn4 middlegame sacrifice veryLong
+0bDEG,1r4k1/5pP1/5n1p/4R3/q2p4/1pnP1B1P/1Q3PP1/4R1K1 w - - 5 32,e1a1 a4a1 b2a1 b3b2 a1a3 b2b1q,1374,92,advancedPawn advantage long middlegame promotion sacrifice
+0bRIA,2kr1b1r/pppbq1pp/2n5/1B2Pp2/8/2N5/PPP1QPPP/R1B2RK1 b - - 3 11,e7e5 b5c6 e5e2 c6d7 d8d7 c3e2,1459,93,advantage long opening queensideAttack sacrifice
+0bgc1,r1b3k1/2q1brpp/p1p1p1n1/3pPp2/1P3N2/P2BB1Q1/2P2PPP/R3R1K1 b - - 12 22,c7e5 f4g6 e5g3 g6e7,1424,93,crushing kingsideAttack middlegame sacrifice short
+0d6I4,4b3/2k5/1p2p1p1/pP2PpNp/P4P1P/5KP1/8/8 w - - 33 64,g5h3 e8b5 a4b5 a5a4 h3g1 a4a3,1381,95,crushing endgame long quietMove sacrifice
+0eFlv,2kr3r/ppp2qp1/1bp2p2/4p3/1PQ1Pnp1/2P1N3/P2P1PPN/R1B2RK1 w - - 2 16,c4f7 f4e2 g1h1 h8h2 h1h2 d8h8 f7h5 h8h5,1382,88,anastasiaMate attraction kingsideAttack master mate mateIn4 middlegame sacrifice veryLong
+0eKtd,4k3/8/4P1Np/p5pP/6P1/r2B1K2/2P5/8 w - - 3 49,e6e7 a3d3 c2d3 a5a4 f3e4 a4a3 g6e5 a3a2,1181,94,advancedPawn crushing endgame quietMove sacrifice veryLong
+0eRZV,3Q1bk1/5p2/P3pBp1/4Pn1p/4r3/8/3K4/8 b - - 6 53,e4d4 d8d4 f5d4 a6a7,1234,87,advancedPawn crushing endgame sacrifice short
+0eyBj,5r1k/pp2R1pp/2p4r/4R3/1P4qP/P3QpP1/2P2P1K/8 w - - 1 31,e7e8 h6h4 h2g1 h4h1 g1h1 g4h3 h1g1 h3g2,1317,100,attraction endgame mate mateIn4 sacrifice veryLong
+0ftTD,r3k2r/1p3ppp/5Nb1/2p1b1B1/1pP1P3/3Q1P1P/qP3P2/2KR2R1 b kq - 0 18,g7f6 d3d7 e8f8 g5h6 f8g8 d7d8 a8d8 d1d8,1439,94,mate mateIn4 middlegame pillsburysMate sacrifice veryLong
+0ge7u,8/8/5p1p/R1k1bPp1/2ppK1P1/7P/8/8 b - - 3 45,c5b4 a5e5 f6e5 f5f6 b4b3 f6f7 c4c3 f7f8q,1420,100,advancedPawn crushing endgame promotion sacrifice veryLong
+0hIck,r5k1/3Q2pp/p4p2/1p2p3/2b5/Pr5P/5PP1/2R3K1 b - - 1 29,b3a3 c1c4 a3a1 g1h2 b5c4 d7d5,1230,87,advantage endgame long sacrifice
+0hycs,r3qrk1/ppp3pb/2n1p2p/b2pN3/B2P2P1/2P1BP1P/PP1Q4/R3K2R w KQ - 1 18,g4g5 c6e5 a4e8 e5f3,1457,93,advantage middlegame sacrifice short
+0iGti,r2q1rk1/2p1bpp1/p2p1n1p/1p2P2b/5B2/2PQ1N2/PPB2PPP/R3R1K1 b - - 0 15,h5g6 e5f6 g6d3 f6e7,1499,89,advancedPawn advantage middlegame sacrifice short
+0iiot,6k1/p1q2ppp/3p4/1P4P1/rnP2P2/3P3P/1P1Q4/1K1R3R w - - 1 26,h1e1 a4a1 b1a1 c7a5 a1b1 a5a2 b1c1 a2a1,1402,94,attraction endgame mate mateIn4 queensideAttack sacrifice veryLong
+0jEoV,r5k1/2p2ppp/2Np2n1/2nP1q1P/r4P2/PpQ3P1/1P2B3/1K1RR3 w - - 1 28,b1a1 a4a3 b2a3 a8a3 a1b2 a3a2,1278,93,crushing long middlegame sacrifice
+0jTgr,4r2k/p1q3bp/1p1p2p1/3Qn3/2PB4/1P5P/P3BRP1/6K1 b - - 3 26,c7c6 d4e5 c6d5 e5g7 h8g7 c4d5,1481,88,crushing kingsideAttack long middlegame sacrifice
+0kBjC,r1b1r1k1/pp1nppb1/1q1p2Bp/2pP4/2P2BnP/1P3N2/P2NQPP1/R3R1K1 b - - 0 15,g7a1 g6f7 g8f7 e2e6,1487,100,advantage attraction kingsideAttack middlegame sacrifice short
+0kRJr,r4rk1/ppp2ppp/1b1pn3/3N4/P1B1P3/3K1P2/1PP2q2/R2Q3R b - - 5 19,c7c6 d5e7 g8h8 h1h7 h8h7 d1h1 f2h4 h1h4,1368,92,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+0kopw,2k5/pp3p2/1q2ppp1/1N5r/2P5/4PQ1P/P1n2PBb/3R1K2 w - - 0 28,f3f6 c2e3 f2e3 h5f5,1456,95,crushing middlegame sacrifice short
+0l6f5,r4rk1/5ppp/p1nb2n1/1p1p1B2/5qP1/2P2N2/PPQN1P2/R1B2R1K w - - 3 18,h1g2 g6h4 f3h4 f4h2,1219,89,advantage middlegame sacrifice short
+0lYNX,5rk1/1p3pp1/p6p/3p4/3P2Q1/3PR1R1/PP3qPK/2r5 b - - 3 29,g7g5 g4g5 h6g5 g3g5 g8h7 e3h3 f2h4 h3h4,1105,94,endgame mate mateIn4 sacrifice veryLong
+0lhMR,1kr5/3R2p1/Qpq5/8/PP3P2/6Pp/7P/3R3K w - - 1 38,d7d5 c6d5 d1d5 c8c1 d5d1 c1d1 a6f1 d1f1,1235,97,clearance endgame mate mateIn4 sacrifice veryLong
+0lrU2,k6r/1pqn4/p1p2pb1/2Pp1n2/P2P4/1Q2PPp1/3BB1P1/R3K1N1 w Q - 0 27,g1h3 h8h3 g2h3 g3g2,1372,91,advancedPawn crushing middlegame sacrifice short
+0mGdd,8/7p/p1kP1p2/2Bp1p2/1P5P/5rP1/3K1P2/8 b - - 10 51,f3a3 b4b5 c6c5 d6d7,1439,87,advancedPawn crushing endgame sacrifice short
+0nHA9,5rk1/pp3ppp/q7/3P2P1/8/3r4/P4QP1/2R2RK1 b - - 2 29,d3d5 f2f7 f8f7 c1c8 d5d8 c8d8 f7f8 f1f8,1376,94,endgame mate mateIn4 sacrifice veryLong
+0nOMA,2k1r3/1ppq2pp/p4p2/5P2/1QP1p1P1/3rB2P/PP2K1R1/R7 w - - 5 28,g2g1 d3e3 e2e3 d7d3 e3f2 d3f3,1416,91,attraction crushing exposedKing long middlegame sacrifice
+0ngpk,6k1/5p1p/p3b1p1/1p1r4/1P4PP/P1K2P2/4B3/5R2 w - - 4 31,e2d3 d5d3 c3d3 e6c4,1035,90,attraction crushing endgame sacrifice short
+0nkwj,rq2k2r/3n1p2/p1Q1p1pb/6Np/3P3P/8/PPP2PP1/1K2R2R b kq - 3 22,b8c8 e1e6 f7e6 c6e6 e8d8 g5f7,1194,88,advantage long middlegame sacrifice
+0ooyF,5r1k/pp2b2p/2p1b3/q3N3/3PQP2/P1P1K3/1P5P/6R1 b - - 0 30,a5d5 e5g6 h7g6 e4g6,1450,93,crushing master middlegame sacrifice short
+0pmAe,1r3r1k/2p3p1/1pb3Pp/p2pqP2/4P3/3PQ2R/PPP4P/1R4K1 b - - 0 26,d5e4 h3h6 h8g8 h6h8 g8h8 e3h3 h8g8 h3h7,1395,92,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+0pt4z,8/3b1pk1/1q1P2p1/4P2p/rpp1B3/5RQP/6P1/7K b - - 2 37,b6d4 f3f7 g7f7 g3g6,1305,92,attraction crushing endgame sacrifice short
+0qUjB,r4r1k/2qbb1p1/1n2p1P1/p2pP3/2pP2P1/P7/3pB1K1/2Q4R b - - 1 28,h8g8 h1h8 g8h8 c1h1 e7h4 h1h4 h8g8 h4h7,1268,98,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+0qiVn,Qnk1r2r/6p1/pB2p3/3pnp2/6pq/2P3NP/1P3PP1/R4RK1 w - - 0 24,a1a6 e5f3 g2f3 h4h3 a8b8 c8b8,1275,95,crushing deflection long middlegame sacrifice
+0rNYz,5rk1/Q4ppp/6r1/8/3n4/4q1B1/P5PP/2R2R1K b - - 0 23,g6g3 a7f7 f8f7 c1c8 e3e8 c8e8 f7f8 f1f8,1416,96,mate mateIn4 middlegame sacrifice veryLong
+0rWcA,2kr3r/ppq1b3/5n2/2p3pp/N2p4/1P6/P1P2PPP/R1BQR1K1 w - - 0 18,c1g5 f6g4 g5e7 c7h2,1255,94,crushing kingsideAttack middlegame sacrifice short
+0t6tb,8/8/8/2Kp1k1P/5p2/2P1nN2/8/8 b - - 4 62,f5g4 h5h6 g4f3 h6h7,1332,97,advancedPawn crushing endgame knightEndgame sacrifice short
+0tyXR,r1r3k1/5p1p/3R3P/6P1/1p2PQ2/1P6/PB4q1/1K2R3 w - - 11 44,e1f1 g2c2 b1a1 a8a2 a1a2 c8a8 d6a6 a8a6,1411,96,attraction mate mateIn4 middlegame sacrifice veryLong
+0uUXB,r4rk1/ppp2ppp/3b4/2nNB3/8/P7/8/1K1R3R b - - 0 22,d6e5 d5e7 g8h8 h1h7 h8h7 d1h1 e5h2 h1h2,1267,98,anastasiaMate attraction mate mateIn4 middlegame sacrifice veryLong
+0uqAc,2kr4/pppnr3/8/8/8/2q1P2Q/P5PP/3R1RK1 b - - 0 28,e7e3 h3d7 d8d7 f1f8 e3e8 f8e8 d7d8 d1d8,1456,93,mate mateIn4 middlegame sacrifice veryLong
+0vHOL,5rk1/pQ3ppp/8/2q1r3/8/7P/PPP3P1/3R1R1K b - - 0 23,c5c2 b7f7 f8f7 d1d8 e5e8 d8e8 f7f8 f1f8,1476,89,endgame mate mateIn4 sacrifice veryLong
+0wq06,3r1rk1/7p/2p3p1/p1q1p3/Pn2P1R1/1P1PP3/1P5Q/1K4R1 b - - 1 30,c5e3 g4g6 h7g6 g1g6 g8f7 h2h7 f7e8 g6e6,1118,88,epauletteMate mate mateIn4 middlegame sacrifice veryLong
+0wzk9,4r1k1/p2r1pp1/q7/7p/PR1P3P/4pPP1/1Q2P1K1/3R4 w - - 5 33,d1d3 a6d3 e2d3 e3e2,1292,90,advancedPawn crushing endgame master sacrifice short
+0xFzg,3r1rk1/pb3p1p/1p1q1npQ/2pp4/2P3N1/2N4R/PP3PPP/R5K1 b - - 5 23,f6h5 h3h5 g6h5 g4f6 d6f6 h6f6,1389,93,crushing kingsideAttack long middlegame sacrifice
+0xYWr,r4rk1/1p3p1p/1p3Bp1/3pP2Q/4q1R1/5n2/PP3P1P/R4K2 b - - 3 24,f3h2 h5h2 e4g4 h2h6 g4h3 h6h3,1325,93,crushing long middlegame sacrifice
+0xd8L,5r1k/p5pp/7r/2P1Q3/1P1P2qP/PB3pP1/5P1K/4R3 w - - 1 33,e5e8 h6h4 h2g1 h4h1 g1h1 g4h3 h1g1 h3g2,1440,94,attraction endgame mate mateIn4 sacrifice veryLong
+0yDzy,8/3B4/3K4/8/2k2B2/1p6/4r3/8 w - - 0 80,d7e6 e2e6 d6e6 b3b2,1350,100,advancedPawn crushing endgame sacrifice short
+0yb7v,5rk1/2q2ppp/p2p4/P2P4/2R2Q2/2P5/1r4PP/5R1K b - - 0 29,c7a5 f4f7 f8f7 c4c8 a5d8 c8d8 f7f8 f1f8,1251,93,endgame mate mateIn4 sacrifice veryLong
+0zBuM,8/5pkp/p1B2p2/1P6/8/r2b3P/1R3PP1/6K1 b - - 2 30,a3c3 b5b6 c3c6 b6b7,1401,94,advancedPawn crushing endgame sacrifice short
+0zNUA,r5k1/ppp3q1/4p1p1/3p1b2/8/3PQ1R1/PPP3K1/5R2 b - - 3 27,b7b6 f1f5 e6f5 e3e6 g8f8 g3g6 g7g6 e6g6,1321,94,advantage endgame exposedKing sacrifice veryLong
+0zlBa,2r3k1/1p4p1/p3q2p/3pr3/3R4/PP2pP1P/2P1Q1P1/3R3K w - - 3 33,d1d3 c8c2 e2c2 e3e2,1198,92,advancedPawn advantage endgame sacrifice short
+101rx,6k1/1p2qppp/7r/1Q6/4Pn2/1B3P2/P5PP/6RK w - - 3 32,b5f5 h6h2 h1h2 e7h4 f5h3 f4h3,1345,97,attraction crushing endgame long sacrifice
+10NLM,4r1k1/pp2qpp1/2pb1n1p/3p4/3P2Q1/3B2NP/PPP2PP1/R5K1 w - - 4 18,g3f5 e7e1 a1e1 e8e1,1133,88,crushing kingsideAttack middlegame sacrifice short
+122RJ,5r1k/5p1P/5R1N/4p3/4P2K/5PRB/5q2/q7 b - - 1 40,h8h7 h3f5 h7h8 h6f7 f8f7 f6h6 f7h7 h6h7,1493,100,exposedKing mate mateIn4 middlegame sacrifice veryLong
+12b30,3r1r1k/1Qp3pp/p1p5/4p3/8/8/PPq2PPP/4RRK1 w - - 0 21,e1e5 c2f2 f1f2 d8d1 e5e1 d1e1 f2f1 e1f1,1398,94,endgame mate mateIn4 sacrifice veryLong
+12kmb,8/2kbR3/6p1/p1K2p2/P1pp1P1P/2P2B2/3r4/8 w - - 0 58,c3d4 c4c3 f3c6 c3c2 e7d7 c7c8 c5b6 c2c1q,1422,94,advancedPawn advantage endgame promotion sacrifice veryLong
+12uEC,6k1/p1p3pp/3br3/2p1q3/4p3/1NP1BrP1/PP2Q2P/R3R1K1 w - - 3 20,e1f1 f3g3 h2g3 e5g3 e2g2 g3e3,1368,93,advantage deflection kingsideAttack long middlegame sacrifice
+13A8M,7r/5p2/R1b1pp1p/2k5/8/3B1P2/2P2K1P/8 b - - 0 33,h8a8 a6c6 c5c6 d3e4,1391,96,advantage attraction endgame master sacrifice short
+13M4a,2rq1rk1/5p2/2n1pn1Q/pp1p4/3P4/2P2NPP/PP4P1/R3R1K1 b - - 0 18,f6e4 e1e4 d5e4 f3g5 d8g5 h6g5,1428,93,crushing kingsideAttack long middlegame sacrifice
+14Rzf,5r1k/7r/p3pn2/1p1N2Q1/3q4/5PR1/PP3P1P/2R1K3 b - - 0 27,d4d5 g5f6 f8f6 c1c8 d5d8 c8d8 f6f8 d8f8,1495,89,exposedKing mate mateIn4 middlegame sacrifice veryLong
+1538H,1R6/8/4p3/2KpPb2/2pB1P2/k1Pr4/8/8 w - - 27 56,c5d6 d3d4 c3d4 c4c3,1365,94,crushing endgame sacrifice short
+157QP,r6r/2pq1k2/1p1p1pnp/p2PpN1Q/4P3/P5PP/1P3P1K/R3R3 w - - 2 26,f5h6 h8h6 h5h6 a8h8 h6h8 g6h8,1463,100,advantage clearance long middlegame sacrifice
+15P7n,5rk1/3R1ppp/p3p3/2q1P2Q/8/8/Pr4PP/5R1K b - - 1 23,c5c6 h5f7 f8f7 d7d8 c6e8 d8e8 f7f8 f1f8,1451,92,endgame mate mateIn4 sacrifice veryLong
+1703W,5rk1/5ppp/8/1R2p3/2n3q1/1Q6/6PP/5RK1 b - - 2 34,c4d2 b3f7 f8f7 b5b8 g4c8 b8c8 f7f8 f1f8,1300,96,endgame mate mateIn4 sacrifice veryLong
+17MdR,1r3rk1/p1Q3p1/4p2p/8/2R5/4P3/q4PPP/5RK1 w - - 0 21,c4g4 a2f2 f1f2 b8b1 c7c1 b1c1 f2f1 c1f1,1483,99,endgame mate mateIn4 sacrifice veryLong
+18AWl,5rk1/R5pp/4p3/3p1q2/8/8/P1rQ1PPP/5RK1 w - - 0 23,d2b4 f5f2 f1f2 c2c1 b4e1 c1e1 f2f1 e1f1,1405,95,endgame mate mateIn4 sacrifice veryLong
+18POo,8/6Kp/3n1P2/p7/8/1k2N1P1/7P/8 w - - 1 42,f6f7 d6f7 g7f7 a5a4 e3d5 a4a3,1292,94,advantage endgame knightEndgame long master quietMove sacrifice
+18sCT,2kr3r/pp3pp1/2p5/2b2p2/8/6P1/P2B2PP/R2QR1K1 w - - 0 21,g1h1 h8h2 h1h2 d8h8 d2h6 h8h6 d1h5 h6h5,1148,93,attraction mate mateIn4 middlegame pillsburysMate sacrifice veryLong
+19aW5,5r1k/1p4pp/1R6/8/3q4/1Q6/rP3PPP/5RK1 w - - 0 27,b6b7 d4f2 f1f2 a2a1 b3d1 a1d1 f2f1 d1f1,1465,91,endgame mate mateIn4 sacrifice veryLong
+19gn8,5rk1/5rpp/8/1p1Qpb2/7q/8/P5P1/2R2RK1 b - - 4 33,f5e4 d5f7 f8f7 c1c8 h4d8 c8d8 f7f8 f1f8,1389,94,mate mateIn4 middlegame sacrifice veryLong
+1BSWE,8/1B6/p7/1p6/1P3N2/2k1K1p1/5r2/8 w - - 0 75,b7a6 f2f4 e3f4 g3g2,1311,94,advancedPawn crushing endgame sacrifice short
+1C73u,r6k/pp4pp/1q6/3QNr2/8/2P5/5PPP/RN4K1 w - - 1 23,e5f7 f5f7 d5f7 b6b2,1471,93,crushing middlegame sacrifice short
+1DfGj,1k3r2/1pr3p1/p1q1p1Qp/3pP3/8/4P3/PPPR2P1/1KR5 w - - 12 33,d2d3 c6c2 c1c2 f8f1 d3d1 f1d1 c2c1 d1c1,1229,93,endgame master mate mateIn4 queensideAttack sacrifice veryLong
+1DfmF,5r2/1p1k3r/p2p4/4p1Q1/3nP3/3P4/PPP2PPP/R4RK1 w - - 7 23,c2c3 d4e2 g1h1 h7h2 h1h2 f8h8 g5h6 h8h6,1134,88,anastasiaMate attraction endgame kingsideAttack mate mateIn4 sacrifice veryLong
+1E1u9,5r2/p1p2ppk/4n2p/1pq1p2Q/4P2N/1PP4P/1P1r2PK/2R2R2 b - - 2 22,g7g6 f1f7 f8f7 h5g6,1397,94,crushing middlegame sacrifice short
+1FbsU,8/8/1P1n3p/4k1p1/4p3/2N4P/5P2/5K2 b - - 0 40,e5d4 c3b5 d6b5 b6b7,1350,86,advancedPawn crushing endgame knightEndgame master sacrifice short
+1FdX5,5rk1/Q4ppp/2R1p3/3rq3/1P6/P6P/6P1/5R1K b - - 0 27,e5e2 a7f7 f8f7 c6c8 d5d8 c8d8 f7f8 f1f8,1412,93,endgame mate mateIn4 sacrifice veryLong
+1FxXk,8/8/3k1p1p/p5p1/P1BP2P1/4PK1P/1r3P2/8 w - - 1 34,c4b5 b2b5 a4b5 a5a4,1272,90,crushing defensiveMove endgame master sacrifice short
+1GqHL,1n1k3r/1Q3ppp/2pb4/8/3Pq3/2P4b/P4PPP/1R2NR1K w - - 2 22,e1f3 h3g2 h1g2 e4g4 g2h1 g4f3,1242,100,attraction crushing deflection kingsideAttack long middlegame sacrifice
+1HkfS,r1b1r3/pp2qppk/8/3pp1N1/3P4/P7/1PP2QP1/R4K1R b - - 1 20,h7g8 h1h8 g8h8 f2h4 h8g8 h4h7 g8f8 h7h8,1437,94,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1I0Rx,rn5r/p2kq2p/2p1bp2/2pp3Q/8/8/PPPB1PPP/R3R1K1 b - - 5 19,b8a6 e1e6 e7e6 a1e1,1424,100,advantage clearance middlegame sacrifice short
+1IR6X,8/1pp3pk/p2pPr2/3Qp2p/4P2r/2P2PqP/PP3RP1/5R1K w - - 1 29,e6e7 h4h3 g2h3 g3h3 h1g1 f6g6 f2g2 h3g2,1166,96,endgame kingsideAttack mate mateIn4 sacrifice veryLong
+1JGxq,5rrk/7p/pR1p3b/4p2q/P1P2p2/1Q1P1N1P/5PPK/5R2 w - - 7 30,b6d6 g8g2 h2g2 f8g8 g2h2 h5f3,1300,92,advantage attraction deflection long middlegame sacrifice
+1JJNl,r4rk1/p4p1p/bqp1pQp1/2ppP1P1/3n4/3P2N1/PPP3PP/R1B2R1K b - - 10 16,d4c2 g3h5 g6h5 g5g6 f7g6 f6e6,1420,90,crushing deflection kingsideAttack long middlegame quietMove sacrifice
+1JOx8,r2q2k1/1bpp1p1n/p1n3rB/1p2P3/3P4/1BP4Q/P4PPP/R3R1K1 b - - 4 18,c6a5 b3f7 g8f7 h3f5 f7e7 f5g6,1438,96,attraction crushing deflection kingsideAttack long middlegame sacrifice
+1K4tJ,3r3k/3r2pp/4Q3/1p3pq1/p2P2P1/6RR/5P2/6K1 b - - 3 34,d7e7 h3h7 h8h7 g3h3 g5h6 h3h6 g7h6 e6e7,1434,98,attraction crushing endgame sacrifice veryLong
+1KO4s,8/5p2/1p3Pp1/p1p1k1Pp/P1P4P/1P3K2/8/8 b - - 7 60,e5d4 f3f4 d4c3 f4e5 c3b3 e5d6 b3c4 d6e7,1170,93,crushing endgame pawnEndgame sacrifice veryLong zugzwang
+1KY0c,r4r1k/1b4pp/p1npBb2/1pq5/3NP3/2NR3Q/PPP4P/1K4R1 b - - 4 21,c6d4 h3h7 h8h7 d3h3 f6h4 h3h4 c5h5 h4h5,1380,94,attraction kingsideAttack mate mateIn4 middlegame pillsburysMate sacrifice veryLong
+1KjDx,r1b1r1k1/1p1q1pp1/p2b3p/2p5/2P1N2B/P2B3P/1P3QP1/5R1K b - - 1 23,d6f8 e4f6 g7f6 f2g3,1465,100,crushing master middlegame sacrifice short
+1LRK8,k1r2b1r/pq4pp/1p3p2/2p5/5B2/2P5/2Q2PPP/R4RK1 b - - 3 23,c5c4 a1a7 a8a7 f1a1 f8a3 a1a3,1418,93,attraction crushing long middlegame queensideAttack sacrifice
+1LWEQ,4nr1k/r1b1NBpp/pp6/2p5/4P3/1Q1K1P2/P6q/1R4R1 b - - 0 33,h2f4 e7g6 h7g6 g1h1 f4h6 h1h6,1241,97,advantage kingsideAttack long middlegame sacrifice
+1Lg0i,2r2rk1/pR3ppp/8/3pPQP1/8/4q3/P6P/5R1K b - - 1 23,c8c1 f5f7 f8f7 b7b8 c1c8 b8c8 f7f8 f1f8,1335,93,endgame mate mateIn4 sacrifice veryLong
+1Ma8d,8/8/3n2k1/6P1/p4PK1/1pP1N3/1P6/8 w - - 0 61,f4f5 d6f5 e3f5 a4a3 b2a3 b3b2,1017,91,advancedPawn crushing endgame knightEndgame long sacrifice
+1NNfb,5rk1/4q2p/p5bP/1r1p1pR1/P2QpP2/2P5/1PK3P1/7R b - - 0 30,b5c5 g5g6 h7g6 h6h7 e7h7 h1h7,1186,94,advancedPawn crushing kingsideAttack long middlegame sacrifice
+1OQZy,8/8/pR1pk3/8/1P6/4rp2/1KB5/8 w - - 0 46,c2b3 e3b3 b2b3 f3f2 b6a6 f2f1q,1394,97,advancedPawn crushing endgame long promotion sacrifice
+1OTAs,5r1k/p1p3pq/4Q1Rp/7P/3P4/4P1PK/8/8 b - - 0 34,h7g8 g6h6 g7h6 e6h6 g8h7 h6f8,1167,95,crushing deflection endgame long master sacrifice
+1QFR4,8/5k2/p1P1pr1p/4Rpp1/5n1r/5P2/5P2/2R3K1 b - - 4 36,f4d5 e5d5 e6d5 c6c7 h4c4 c1c4 d5c4 c7c8q,1479,96,advancedPawn advantage endgame promotion sacrifice veryLong
+1QIs9,5rk1/5ppp/p3p3/1p2P3/8/5Q2/Pq1r2PP/2R2R1K b - - 1 25,b2e5 f3f7 f8f7 c1c8 d2d8 c8d8 f7f8 f1f8,1300,92,endgame mate mateIn4 sacrifice veryLong
+1QLdp,rnb1k2r/pp3p2/2p1p3/3pP1q1/2PP1n2/3B2p1/PP1B2PP/R2QNR1K w kq - 0 16,d2f4 h8h2 h1g1 h2h1 g1h1 g5h4 h1g1 h4h2,1479,94,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1QMo6,5rk1/6p1/p3R1pq/1p1p1r2/3P4/2PQ1N2/PP3PPb/R4K2 w - - 3 24,a1e1 f5f3 g2f3 h6h3 f1e2 h3e6,1345,100,advantage interference long middlegame sacrifice
+1QlPF,2r5/p3k2p/1p2b3/2p5/4R3/P3KB2/2P3PP/8 b - - 1 30,e7f6 e4e6 f6e6 f3g4,1497,96,attraction crushing endgame master sacrifice short
+1R86j,r4rbk/p3R1Rp/1q1p1ppP/8/4Q3/3B1P2/6PK/8 b - - 7 33,b6c5 g7h7 g8h7 e7h7 h8h7 e4g6 h7h8 g6g7,1492,95,attraction mate mateIn4 middlegame sacrifice veryLong
+1RIQR,3rr1k1/1R4pn/5p2/p2pp3/2p2qPQ/P4N1P/5PK1/1R6 b - - 1 32,e5e4 b7g7 g8g7 b1b7 e8e7 b7e7,1188,92,advantage attraction kingsideAttack long middlegame sacrifice
+1RadK,1r3r2/6k1/p2p1p2/1ppB1Pq1/8/4b2Q/PPP3PP/R4R1K w - - 2 25,d5e6 f8h8 h3f3 h8h2 h1h2 b8h8,1472,92,advantage attraction long middlegame sacrifice
+1Rcpq,1r2r3/5pkp/p5p1/8/3Qb3/PqN5/1PR3PP/3R2K1 b - - 1 29,g7g8 c3e4 b3c2 e4f6,1305,93,crushing master middlegame sacrifice short
+1SOwM,2B5/8/7p/5P2/3b1k2/4p3/4K2P/8 w - - 1 44,e2d3 f4f3 d3d4 e3e2 f5f6 e2e1q,1379,93,advancedPawn bishopEndgame crushing endgame long promotion sacrifice
+1Suzt,6rr/4k3/2R5/p2nPp2/1p1P4/5QP1/PP1q1PK1/2R5 w - - 0 28,f3d5 h8h2 g2h2 d2f2 d5g2 g8h8 c6h6 h8h6,1467,95,attraction deflection endgame mate mateIn4 sacrifice veryLong
+1TUFq,8/6pp/R7/1n1Pkp2/2K2p2/8/8/8 b - - 1 38,b5c7 d5d6 c7a6 d6d7 f4f3 d7d8q,1365,100,advancedPawn crushing endgame long promotion sacrifice
+1UOc6,6k1/1br2p1p/p3nBp1/8/3p4/Pq1B1P2/1P1Q2PP/3R2K1 b - - 5 30,h7h5 d2h6 b3d1 d3f1,1387,98,crushing master middlegame sacrifice short
+1V7r6,8/8/1k1b4/1P1P3p/2KNpp1P/8/8/8 w - - 0 50,d4f5 f4f3 f5d6 f3f2 d6e4 f2f1q,1313,100,advancedPawn crushing endgame long promotion sacrifice
+1VRCZ,8/8/1p3k1p/pB6/P2Pp1P1/1r2P3/5PKP/8 w - - 1 51,h2h4 b3b5 a4b5 a5a4,1348,93,crushing defensiveMove endgame sacrifice short
+1WdHj,6k1/6p1/7p/R2Pr3/4p3/6K1/P5P1/8 w - - 1 37,g3f4 e4e3 f4e5 e3e2,1280,94,advancedPawn advantage endgame master rookEndgame sacrifice short
+1Whr6,2r3rk/1p4pp/p3Pp2/1P1N1P2/P1nP2q1/5b2/5K1Q/1BR2R2 b - - 4 37,f3d5 h2h7 h8h7 f1h1 d5h1 c1h1 g4h3 h1h3,1275,93,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1WslB,r1b1kb1r/1pqnpp1p/p2p1p2/8/2BN4/4P3/PPPN1PPP/R2QK2R b KQkq - 3 9,b7b5 c4f7 e8f7 d1h5,1204,100,attackingF2F7 attraction crushing opening sacrifice short
+1XTRX,5rk1/p1p2ppp/2b5/2p1P3/3r2q1/8/PPP1NQPP/3R1RK1 b - - 8 22,d4e4 f2f7 f8f7 d1d8 c6e8 d8e8 f7f8 f1f8,1421,92,kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1XkVj,rn3rk1/ppp2ppp/4p3/3p4/3P2Pq/2PB1P1n/PPQN1P1K/R6R b - - 3 15,h3f2 h2g2 f2h1 a1h1 h4h1 g2h1,1361,88,advantage long middlegame sacrifice
+1XnBR,3r2rk/6p1/p3P2p/2Pp4/1P2qP2/P1B1P3/3K4/3Q2R1 w - - 1 35,d1h5 d5d4 c3d4 d8d4 e3d4 e4d4,1088,93,advantage endgame long sacrifice
+1ZRqU,1r2q1k1/p3r1b1/2p3R1/2Pp4/3P4/4P3/P1Q2P2/2K4R b - - 0 26,e7e3 g6g7 g8g7 c2h7,1316,94,attraction crushing master middlegame sacrifice short
+1ZXZC,r2q1rk1/pb1nbppp/4p3/2ppP3/5P2/1P1B1R2/PBPN2PP/R2Q2K1 b - - 1 13,d8b6 d3h7 g8h7 f3h3 h7g8 d1h5,1284,91,advantage attraction clearance kingsideAttack long middlegame sacrifice
+1a0k7,2k1r3/1ppr1p1p/p4Bp1/2b1P3/3n1PP1/2N4P/PPP5/R1KnR3 w - - 0 20,e1d1 d4e2 c3e2 c5e3,1340,100,clearance crushing middlegame queensideAttack sacrifice short
+1aQ7l,4r3/1k3r1p/p7/1bp3B1/2P3PR/3Q4/PP1KNq2/R7 w - - 0 29,c4b5 e8e2 d3e2 f7d7 d2c3 f2e2,1335,91,crushing deflection exposedKing long middlegame sacrifice
+1aXxW,2r4r/4kqbQ/1p1ppp2/p1p5/4PN2/3P3P/1PP3P1/4RR1K w - - 8 32,f4g6 e7d7 g6h8 c8h8 h7h8 g7h8,1475,98,advantage defensiveMove long middlegame sacrifice trappedPiece
+1b7Oz,8/8/4k1pp/B7/1p2K1P1/5P2/P7/4b3 w - - 0 43,a2a3 b4b3 a5e1 b3b2,1497,96,advancedPawn bishopEndgame crushing endgame sacrifice short
+1bTvl,r4r2/pp3pk1/2bqp1p1/4R2Q/8/3B4/PPP5/1K4R1 b - - 0 36,f8h8 g1g6 f7g6 h5g6,1161,99,advantage middlegame sacrifice short
+1bW4N,5rk1/2p2ppp/3p4/R2Pq3/8/P3PQP1/1r1B1RKP/8 b - - 3 23,b2d2 f3f7 f8f7 a5a8 e5e8 a8e8 f7f8 e8f8,1394,96,endgame mate mateIn4 sacrifice veryLong
+1bco2,4Rrk1/6pp/b2N4/2nP4/2p5/1r6/5PPP/1B1R2K1 w - - 3 31,b1h7 g8h7 e8f8 c4c3,1392,100,advantage middlegame sacrifice short
+1bfft,r1b3k1/p5pp/5r2/n1bp4/4Pp1q/2N5/PPPPB1PP/R1BQ1R1K w - - 1 18,d1e1 h4h2 h1h2 f6h6 e2h5 h6h5 e1h4 h5h4,1435,92,attraction kingsideAttack mate mateIn4 middlegame pillsburysMate sacrifice veryLong
+1dB3I,8/8/1P1N4/2n4p/6k1/6P1/2K5/8 b - - 6 63,g4g3 d6e4 c5e4 b6b7,1410,100,advancedPawn crushing endgame knightEndgame sacrifice short
+1dLXG,2r3k1/5pp1/p7/q2p1N2/2r3P1/1RpRB3/PbQ5/K7 w - - 2 30,a1b1 a5a2 b1a2 c4a4 b3a3 a4a3 a2b1 a3a1,1146,91,attraction mate mateIn4 middlegame operaMate queensideAttack sacrifice veryLong
+1dn1m,8/5k2/4r2p/8/2P4R/4pP1P/P3K1P1/1b6 w - - 1 42,a2a3 b1d3 e2d3 e3e2,1021,94,advancedPawn crushing endgame sacrifice short
+1ePgy,3b4/8/2N5/1K1p3p/3Pk1p1/2P4P/P4P2/8 w - - 0 45,h3g4 h5h4 c6d8 h4h3 a2a4 h3h2,1299,95,advancedPawn advantage endgame long quietMove sacrifice
+1gZMa,r1b2rk1/pp3pp1/1q2p2p/1B1p3N/3b4/6Q1/PPP3PP/2KR1R2 b - - 3 17,b6b5 d1d4 b5f1 d4d1,1497,87,advantage middlegame sacrifice short
+1hglU,2r3k1/pp1b1p1p/4pRpQ/8/3qBB2/2r5/P5PP/R6K w - - 4 22,f6f7 c3c1 a1c1 c8c1 f4c1 d4d1 f7f1 d1f1,1072,98,mate mateIn4 middlegame sacrifice veryLong
+1hpD0,1r5r/3knQ1p/4p3/p2pP2P/Nq3P2/1P6/P5P1/1KR4R b - - 1 23,b4a4 c1c7 d7c7 f7e7,1162,96,attraction crushing deflection middlegame sacrifice short
+1hyvI,4rr1k/ppp3pp/3p1n2/4Pp2/3B1P1q/2P2P2/P2RQ2P/5R1K b - - 0 23,h4f4 e5f6 e8e2 f6g7,1498,96,advancedPawn advantage kingsideAttack middlegame sacrifice short
+1iuKM,2r5/8/8/5kpp/3K4/1p2P1PP/1Np5/2R5 w - - 1 49,b2c4 c8c4 d4c4 b3b2 c1c2 b2b1q,1396,95,advancedPawn crushing endgame long promotion sacrifice
+1jQyF,8/8/8/2R5/1p4pk/1Pb5/P2pK3/8 w - - 2 54,a2a3 b4a3 c5c3 a3a2 e2d2 a2a1q,1379,100,advancedPawn crushing endgame long promotion sacrifice
+1joDz,3r1rk1/4ppb1/2p3pR/p1N1P3/Pq1P1Q2/1p4P1/1P3PK1/7R b - - 0 30,d8d4 h6h8 g7h8 f4h6 d4h4 h1h4,1459,98,clearance crushing long middlegame sacrifice
+1jsRa,2kr3r/p1pp1pp1/1pb1p3/3P2p1/2P2n2/P7/1BB2PPP/1R3RK1 w - - 0 18,d5c6 f4e2 g1h1 h8h2 h1h2 d8h8 c2h7 h8h7,1398,93,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1kmo6,2rr2k1/1b2bppp/p3pn2/qp2P3/8/P1NBB3/1PPQ2PP/3R1R1K b - - 2 19,f6d5 c3d5 a5d2 d5e7,1494,93,crushing kingsideAttack middlegame sacrifice short
+1kto1,8/8/8/8/6k1/5Rpp/2r1B3/5K2 w - - 2 56,f3c3 c2e2 f1e2 h3h2,1462,96,advancedPawn crushing endgame master sacrifice short
+1kuk8,4k3/2r2r2/Q2p2pR/4p3/4q3/8/PPP5/1KR5 w - - 0 28,a6d6 e4c2 c1c2 f7f1 d6d1 f1d1 c2c1 d1c1,1403,90,endgame mate mateIn4 sacrifice veryLong
+1lxvq,5rk1/p1p3pp/2p1R1b1/8/3P4/1NPq3P/PP3rPK/2Q1R3 w - - 1 25,b3c5 f2g2 h2g2 d3f3 g2h2 f3f2,1453,87,advantage attraction long master middlegame sacrifice
+1m81J,8/1N6/4Rp1p/8/5n2/1Pkb4/r6P/4R2K w - - 8 43,e6d6 d3e4 e1e4 a2a1 d6d1 a1d1 e4e1 d1e1,1110,89,endgame mate mateIn4 sacrifice veryLong
+1mDLf,8/8/4b1kp/2p1p3/p1PpP2K/P2P1PN1/8/8 w - - 0 50,g3h5 e6c4 d3c4 d4d3 h5g3 d3d2,1330,94,advancedPawn crushing endgame long master sacrifice
+1mdNn,r6r/pp2kp2/1q1pbNp1/3P2p1/8/5QP1/PPP4P/R4RK1 w - - 1 20,g1h1 h8h2 h1h2 a8h8 f6h5 h8h5 f3h5 g6h5,1458,92,advantage attraction kingsideAttack middlegame sacrifice veryLong
+1n1yr,r7/P2R3p/4p3/8/8/3p1P2/2k3PP/5K2 w - - 5 47,f1e1 a8a7 d7a7 d3d2 e1f2 d2d1q,1478,96,advancedPawn advantage deflection endgame exposedKing long promotion rookEndgame sacrifice
+1nQZR,3k4/8/1N1P4/p7/1p1NK3/2p3P1/P2r4/8 w - - 4 46,e4e3 d2d4 e3d4 c3c2,1415,92,advancedPawn crushing endgame sacrifice short
+1nraB,4r1k1/p2p1ppp/1prP2q1/3Q4/2P5/8/P4PPP/2RR2K1 b - - 0 24,e8e6 d5c6 d7c6 d6d7,1169,94,advancedPawn crushing endgame sacrifice short
+1o6DZ,7k/2p1r3/p1p4p/5P2/4NKP1/P2p4/1P2p3/4R3 w - - 0 38,f4f3 e7e4 f3e4 d3d2 e1e2 d2d1q,1431,98,advancedPawn crushing endgame long promotion sacrifice
+1pDhS,3Q4/5pkp/4p1pr/P3q3/3b4/6P1/2R1BPKP/8 b - - 12 36,e5e4 e2f3 e4c2 d8d4 e6e5 d4e5,1156,95,crushing defensiveMove endgame long sacrifice
+1pMvA,1r4k1/R1p2p1p/4nBp1/3pP3/3P1P2/5P2/4r2P/R5K1 b - - 0 28,b8b2 a7a8 e6f8 a8f8 g8f8 a1a8 b2b8 a8b8,1228,91,attraction endgame mate mateIn4 pillsburysMate sacrifice veryLong
+1pSaE,5rk1/1p2b1pp/p3p1r1/3pP1q1/1PpN4/P1P4P/2Q1RPPK/5R2 w - - 7 28,g2g3 f8f2 e2f2 g5g3 h2h1 g3h3 f2h2 h3f1,1382,96,deflection mate mateIn4 middlegame sacrifice veryLong
+1pT0D,1k3r2/pppn1q2/7p/1PPR4/P1QPp1pP/4r1B1/7P/2R3K1 w - - 0 30,c5c6 e3g3 h2g3 f7f2,1434,100,crushing kingsideAttack middlegame sacrifice short
+1pr2W,1k5r/p1q2pp1/Ppp3p1/3P4/3P4/1Q4r1/1P1B2B1/R1R3K1 w - - 0 25,b3c4 g3g2 g1g2 c7h2,1382,97,advantage attraction kingsideAttack middlegame sacrifice short
+1rhtq,8/p3k3/8/8/2p1N1P1/1P2n2P/P2b1K2/8 w - - 0 41,e4d2 c4c3 f2e3 c3c2 e3d3 c2c1q,1422,93,advancedPawn advantage endgame knightEndgame long promotion sacrifice
+1rt0e,8/8/PK5b/7P/6P1/3p1P2/2k5/8 w - - 0 51,a6a7 h6e3 b6b7 e3a7 b7a7 d3d2 h5h6 d2d1q,1451,92,advancedPawn bishopEndgame crushing endgame promotion sacrifice veryLong
+1s9Ou,k1r3r1/P5bp/2qp2p1/8/1QP1p3/1P5P/5PP1/4RRK1 b - - 1 28,a8a7 e1a1 g7a1 f1a1,1269,93,crushing middlegame sacrifice short
+1sBfi,r1bq3r/pp2n1b1/2Pp1k2/2P1p3/1P2Ppn1/1QNN1B2/P4BP1/R4RK1 w - - 1 22,c5d6 h8h1 g1h1 d8h8 f2h4 h8h4 h1g1 h4h2,1496,93,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1sQQH,r5k1/pp3ppp/2q4r/2p5/4NPn1/2P3P1/PP2RQP1/4R1K1 w - - 2 24,f2f3 h6h1 g1h1 c6h6 h1g1 h6h2 g1f1 h2h1,1380,94,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1sr3Q,1r3k2/3b1p2/p1pP3q/2P2P2/1p1QP3/2KB4/PP6/6R1 w - - 0 33,c3c4 d7e6 f5e6 h6e6 d4d5 c6d5,1394,93,crushing endgame long sacrifice
+1syoN,rnbq1r2/pp3Q1p/2pb1np1/1k1p1p2/P7/1B1PBN2/2P2PPP/RN2K2R b KQ - 0 17,b5a6 b3c4 d5c4 f7c4 b7b5 a4b5,1414,93,advantage discoveredCheck doubleCheck exposedKing long middlegame sacrifice xRayAttack
+1uZ3m,2kr3r/pp4pp/1b2q3/1N2pn2/PP2B1b1/2P2N2/4Q1PP/R4R1K w - - 1 19,a4a5 f5g3 h2g3 e6h6 f3h4 g4e2,1210,97,advantage kingsideAttack long middlegame sacrifice
+1ucfD,1r1r2k1/8/p1q1p2p/5pp1/1PPb4/6PN/4QP1P/1R1R2K1 b - - 1 28,g8g7 d1d4 d8d4 e2e5,1192,90,crushing master masterVsMaster middlegame sacrifice short
+1v3ow,8/pkp2p1Q/1pp3p1/4r3/2P5/Pqr3N1/1P4PP/RKB2R2 w - - 0 27,f1f2 c3c1 b1c1 e5e1,1455,94,attraction crushing middlegame queensideAttack sacrifice short
+1w60X,r2qkb1r/pp1b2pp/1nn1p3/4p3/8/2NB1P2/PPQ3PP/R1B1K1NR b KQkq - 3 12,c6b4 d3g6 h7g6 c2g6 e8e7 c1g5,1272,93,advantage exposedKing long master opening sacrifice
+1wVGv,6k1/p4p2/1pn3p1/1N1r3p/P2p3P/1P3PP1/4PK2/3R4 w - - 2 41,b5c3 d4c3 d1d5 c3c2,1160,96,advancedPawn advantage endgame master sacrifice short
+1wnY5,r4rk1/1pq1bpp1/p1p1p1p1/2Pn2N1/3P2QR/7P/PP3PP1/R1B3K1 b - - 4 18,f8d8 h4h8 g8h8 g4h4 h8g8 h4h7 g8f8 h7h8,1401,97,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1wyit,r2q1bkr/p4b1p/3P2p1/8/4Q3/8/PPP2PPP/R1B2RK1 w - - 1 16,c1g5 d8g5 e4a8 f7d5 a8d5 g5d5,1233,93,advantage long middlegame sacrifice
+1y1An,8/B1knp2p/P5p1/2p2p2/2Pb4/5BP1/R3K2P/1r6 b - - 0 26,b1b2 a2b2 d4b2 a7c5 d7c5 a6a7,1370,96,advancedPawn crushing endgame long sacrifice
+1y2wA,kr5q/1b6/p3rp2/3n2p1/2NP1n2/Q1P1N3/P1B2PPP/1R3RK1 w - - 7 28,e3d5 f4e2 g1h1 h8h2 h1h2 b8h8 c2h7 h8h7,1471,91,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+1yKTj,8/p2P4/1pBr3p/1Pk1K3/8/7P/8/8 b - - 8 55,a7a5 b5a6 c5c6 a6a7 c6d7 a7a8q,1438,94,advancedPawn crushing enPassant endgame long master promotion sacrifice
+1yUR7,1rb1k2r/p2pppbp/6n1/q1pP2NQ/4P2p/2P1P3/pP1KB1PP/R2N1R2 w k - 2 17,f1f7 b8b2 d1b2 a5c3,1422,95,crushing deflection master middlegame sacrifice short
+1yul6,2r3k1/1p1q1p2/4p1pB/pP1pb3/Q5P1/7P/2R2P2/6K1 b - - 0 33,e5c3 c2c3 c8c3 a4d4 f7f5 d4c3,1358,90,advantage attraction endgame long master sacrifice
+1zBhp,6k1/1p1q1Npp/pb2p3/n2pP3/P2P4/1P2r1PP/6P1/3Q1RK1 b - - 0 24,a5b3 f7h6 g7h6 d1g4 d7g7 g4e6,1430,92,advantage deflection kingsideAttack long middlegame sacrifice
+1zBsU,1r4k1/3q1ppp/2nP4/1B6/Pp6/2b2Q2/5PPP/3R2K1 b - - 2 25,b8c8 b5c6 c8c6 f3c6 d7c6 d6d7 g7g6 d7d8q,1127,92,advancedPawn crushing middlegame promotion sacrifice veryLong
+1zJ4q,5rk1/3Q2p1/p1R1p2p/1r6/3P4/4P3/1q3PPP/5RK1 w - - 0 23,c6c7 b2f2 f1f2 b5b1 c7c1 b1c1 f2f1 c1f1,1349,90,clearance endgame mate mateIn4 sacrifice veryLong
+1zK9s,5rk1/1p1n1pp1/4p1p1/3pn1N1/8/1Prq2P1/P4PK1/R3Q2R b - - 7 29,e5f3 h1h8 g8h8 e1h1 f3h2 h1h2 h8g8 h2h7,1455,93,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+20IH4,8/6k1/4K3/8/1n3P2/p1N5/8/8 w - - 2 48,e6e7 b4d5 c3d5 a3a2 d5e3 a2a1q,1383,96,advancedPawn crushing endgame knightEndgame long promotion sacrifice
+20YPY,3r1rk1/p4ppp/1q2p3/1p1nN2Q/3p2R1/2P4P/PP3PP1/2R3K1 b - - 3 21,d5f6 g4g7 g8g7 h5g5 g7h8 g5f6,1385,92,attraction crushing deflection kingsideAttack long middlegame sacrifice
+211gp,6k1/1q2p2p/p2rPrP1/1pppQp2/2P2P2/1P1P1P2/P5K1/3RR3 b - - 0 26,h7g6 e5f6 e7f6 e6e7 b7e7 e1e7,1467,100,advancedPawn crushing endgame long sacrifice
+2150t,r3q1k1/p5bp/1ppBr1p1/2P5/8/1Q3RP1/PP5P/5RK1 b - - 3 26,g8h8 f3f8 g7f8 f1f8,1073,98,advantage kingsideAttack middlegame sacrifice short
+21Fnv,r1b2rk1/5ppp/2p5/ppq1N3/4P3/1P3Q1P/P1B3P1/3R1R1K b - - 0 22,c5e5 f3f7 f8f7 d1d8 e5e8 d8e8 f7f8 f1f8,1369,97,kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+21XVj,4r1k1/r3q1p1/1p2PpPR/p2p4/3p1Q2/P2BR3/1P4PP/6K1 b - - 0 34,d4e3 h6h8 g8h8 f4h4 h8g8 h4h7 g8f8 h7h8,1272,94,attraction endgame kingsideAttack mate mateIn4 sacrifice veryLong
+21wuM,3r1bk1/Q1Rn1ppp/4p3/p7/1p1PB3/4B2P/P4PPK/3q4 b - - 7 27,f8d6 g2g3 d6c7 a7c7 d8f8 c7d7,1191,99,advantage defensiveMove long master middlegame sacrifice
+21wuv,4rnk1/4qNp1/p3p2p/1ppp3Q/6P1/P2P4/1PP4P/5R1K b - - 0 25,f8h7 f7h6 g7h6 h5g6 g8h8 f1f7 e7f7 g6f7,1493,94,advantage endgame kingsideAttack sacrifice veryLong
+22npI,r6r/2pbk1bQ/pp1p1q2/3P1p2/2P2N1p/4PP2/PPB3P1/1R2R1K1 w - - 6 38,f4g6 e7f7 g6h8 a8h8 h7h8 g7h8,1475,99,advantage defensiveMove long middlegame sacrifice trappedPiece
+22o6J,5rk1/2q2ppp/p3p3/1p2b3/4P3/3P1QP1/7P/2R2R1K b - - 2 34,c7b6 f3f7 f8f7 c1c8 b6d8 c8d8 f7f8 f1f8,1283,87,endgame mate mateIn4 sacrifice veryLong
+242Ww,1r4k1/pP3pp1/r3p2p/3n4/8/4P2P/P1R1KPP1/1R6 b - - 3 23,d5b6 b1b6 a6b6 c2c8 b8c8 b7c8q,1421,94,advancedPawn crushing endgame long promotion sacrifice
+243EP,2rq1rk1/3bp2p/3p2p1/3P4/ppBQ4/5P2/PPP3P1/2KR3R b - - 1 19,d8c7 h1h7 g8h7 d1h1,1477,92,attraction crushing middlegame sacrifice short
+24rNx,8/4k3/2P1p2p/2KnP3/4N3/5p1P/8/8 w - - 0 48,c5b5 d5c3 e4c3 f3f2,1395,86,advancedPawn crushing endgame knightEndgame master masterVsMaster sacrifice short
+25XCh,4r1k1/1p5p/p1p2p2/6p1/1Pb1R1P1/P4K1P/3R4/8 b - - 0 35,c4d5 d2d5 e8e4 d5d8 g8f7 f3e4,1415,96,crushing endgame intermezzo long sacrifice
+272qE,5rk1/p1p2ppp/8/1R2nQ2/P5N1/2q4P/4r1P1/5R1K b - - 6 23,e5g4 f5f7 f8f7 b5b8 e2e8 b8e8 f7f8 f1f8,1393,96,mate mateIn4 middlegame sacrifice veryLong
+27VnE,4k3/6R1/3p4/3P4/2Pr4/3B1p2/5Kb1/8 w - - 12 55,f2e3 d4d3 e3d3 f3f2,1166,95,advancedPawn crushing endgame master sacrifice short
+28GHH,4r1k1/2B2pp1/3P3p/1Q6/2n5/2P5/4qPPP/5RK1 w - - 1 28,d6d7 e2f1 g1f1 c4d2 f1g1 e8e1 b5f1 e1f1,1427,91,attraction endgame mate mateIn4 sacrifice veryLong
+29Bri,6r1/p1pqkp2/P2p1p2/2pPp1rp/3P1n2/5B1P/2PQ1PPK/R5R1 w - - 0 26,d4c5 g5g2 f3g2 g8g2 g1g2 d7h3 h2g1 h3g2,1470,92,attraction mate mateIn4 middlegame sacrifice veryLong
+29WZ6,8/Rn4pp/2p2pk1/1r6/1BpP4/2P4P/P4PP1/6K1 w - - 1 28,a2a4 b5b4 c3b4 c4c3,1018,92,crushing endgame sacrifice short
+2A38X,5k2/5p2/pPbpp1p1/2n4p/2PBP3/5P2/2B3PP/6K1 b - - 0 31,f8e8 d4c5 d6c5 c2a4 c6a4 b6b7,1343,93,advancedPawn crushing endgame long sacrifice
+2Ass0,r1bq1rk1/7p/p1pp2p1/4b1P1/2B1Pp2/2N5/PPPQ4/R3K2R b KQ - 1 18,g8g7 h1h7 g7h7 d2h2 c8h3 h2h3 h7g7 h3h6,1253,96,attraction mate mateIn4 middlegame sacrifice veryLong
+2AvPi,3r1rk1/ppp1q1pp/2n2n2/5bB1/2P5/P1Q1PN2/4BPPP/R3K2R w KQ - 3 15,e1g1 f6e4 g5e7 e4c3 e7d8 c3e2,1456,91,advantage long middlegame sacrifice
+2BOvA,5rk1/5ppp/R1p3q1/8/7P/2n2Q2/2r3P1/5R1K b - - 4 27,g6e4 f3f7 f8f7 a6a8 e4e8 a8e8 f7f8 f1f8,1230,99,mate mateIn4 middlegame sacrifice veryLong
+2BtsB,3r2k1/2p2p1p/7p/2bN4/6n1/P1P2NPq/5P1P/R1B2RK1 w - - 3 27,d5f4 c5f2 f1f2 d8d1 f3e1 d1e1 f2f1 h3f1,1432,93,kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+2Bvo0,2rq1r1k/3nb1p1/b3ppQN/p2p4/Ppp2P2/1P1PPR2/1BP3PP/4R1K1 b - - 2 23,d8e8 h6f7 f8f7 f3h3 h8g8 g6h7 g8f8 h7h8,1220,100,kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+2C2GT,4k3/7R/8/p1r1P3/2p1K3/6P1/P6P/8 w - - 2 43,e4d4 c4c3 d4c5 c3c2 c5d6 c2c1q,1191,94,advancedPawn advantage endgame long promotion rookEndgame sacrifice
+2CJ8p,8/5K2/2P1n2k/8/3pB3/8/8/8 b - - 0 50,e6g5 f7e7 g5e4 c6c7,1478,95,advancedPawn crushing defensiveMove endgame sacrifice short
+2D7l6,r2qr1k1/ppp2ppp/3b1n2/5b2/2PPp3/1N6/PP3PPP/R1BQRBK1 w - - 1 14,c4c5 d6h2 g1h2 f6g4 h2g1 d8h4,1314,93,advantage attraction clearance kingsideAttack long opening sacrifice
+2DofH,r3k2r/p4p2/1p2ppp1/3Q4/2PP4/8/P4PPq/R3RK2 b kq - 0 21,a8d8 e1e6 f7e6 d5e6 e8f8 e6f6,1485,95,crushing endgame long sacrifice
+2EQRg,2r2r1k/pp4pp/3Q4/6N1/8/8/q4PPP/1R3RK1 w - - 0 23,b1b7 a2f2 f1f2 c8c1 d6d1 c1d1 f2f1 d1f1,1319,92,mate mateIn4 middlegame sacrifice veryLong
+2FTRB,5rk1/1p3ppp/r3p3/p1B1P3/q3n3/5Q2/PP4PP/3R1RK1 b - - 0 24,e4c5 f3f7 f8f7 d1d8 a4e8 d8e8 f7f8 f1f8,1366,93,kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+2FcOI,2r5/p4rpk/1p1P1p1p/8/6R1/3Q3P/qB3PP1/6K1 b - - 1 32,f6f5 g4g7 f7g7 d3f5,1390,93,crushing deflection endgame sacrifice short
+2FpCj,3r4/6kp/8/8/2P4Q/8/P3p1PP/3q2RK w - - 1 38,c4c5 d1g1 h1g1 d8d1 h4e1 d1e1,1312,87,attraction crushing endgame long sacrifice
+2GH8m,4r1k1/p4rp1/2p4p/2p5/2P3Q1/7P/q4pP1/1RB2R1K w - - 0 27,c1h6 a2b1 f1b1 e8e1 b1e1 f2e1q,1414,96,advancedPawn crushing long middlegame promotion sacrifice
+2Gosk,5rk1/1pp1q1p1/1b2p2p/pN2B3/5n2/P6P/1PP1QPP1/5RK1 w - - 3 21,e2c4 f4h3 g2h3 e7g5,1413,93,crushing kingsideAttack middlegame sacrifice short
+2GthU,4r3/R7/6kp/1P6/4pP2/3pK1P1/P1rB3P/8 w - - 1 33,b5b6 c2d2 e3d2 e4e3 d2d3 e3e2,1175,96,advancedPawn attraction crushing endgame long sacrifice
+2H9o6,2r3k1/pp4p1/2p4p/3pqN2/4p3/7R/PP3QPP/6K1 b - - 1 24,c8f8 f5h6 g7h6 h3g3,1273,100,advantage endgame sacrifice short
+2HPSo,4r1k1/q4p2/p4Pp1/1p4B1/2pbNQ2/P2n3P/1P4P1/3R3K w - - 8 30,f4h4 e8e4 h4e4 d3f2,1421,91,crushing kingsideAttack middlegame sacrifice short
+2HoWm,1r6/p2bkp2/1r2p2R/q1ppP3/5Pp1/P1N3P1/1PP2QP1/2K4R w - - 1 23,c3d1 b6b2 d1b2 a5a3,1331,92,advantage capturingDefender master middlegame sacrifice short
+2Ib0l,3rqrk1/ppp3pp/2p5/2b1pP2/4n3/3P1N2/PPP3PP/R1BQ1R1K w - - 0 14,d1e2 e4g3 h2g3 e8h5 f3h2 h5e2,1386,95,crushing kingsideAttack long middlegame sacrifice
+2IgEx,5rk1/p1Q2ppp/4p3/4P3/3q4/8/Pr4PP/2R2R1K b - - 0 20,d4d2 c7f7 f8f7 c1c8 d2d8 c8d8 f7f8 f1f8,1448,96,clearance endgame mate mateIn4 sacrifice veryLong
+2Im5d,r2q1r1k/4Np1p/p2p2pN/1bp5/4Pp1Q/1P1P4/2P3PP/R6K b - - 2 27,f7f6 e7g6 h7g6 h6f7 h8g7 f7d8,1370,94,advantage discoveredCheck doubleCheck kingsideAttack long middlegame sacrifice
+2JZL3,8/5ppp/p1b2k2/P1P1b3/7P/6P1/4KP2/1R6 b - - 1 36,c6b5 b1b5 a6b5 a5a6 e5b8 c5c6,1363,95,advantage endgame long sacrifice
+2K1AT,1k6/pP6/3pB3/P3p1b1/4P2q/3P2p1/2P1Q3/6K1 w - - 1 32,a5a6 g5e3 e2e3 h4h2 g1f1 g3g2,1434,98,advancedPawn crushing endgame exposedKing long sacrifice
+2Knhj,r1b3k1/p1p1q1b1/r5P1/1p1pNp2/P2p1P2/1P1P3Q/2P1P1R1/2K4R b - - 1 27,b5a4 h3h7 g8f8 h7h8 g7h8 h1h8 f8g7 h8h7,1231,93,crushing exposedKing kingsideAttack middlegame sacrifice veryLong
+2LVBC,3r1rk1/ppp5/4p3/6p1/4Pq2/2Q3R1/PP3NPP/R5K1 w - - 2 27,a1f1 f4f2 f1f2 d8d1 c3e1 d1e1 f2f1 e1f1,1366,100,mate mateIn4 middlegame sacrifice veryLong
+2LYg5,8/2R3p1/2P2pkp/8/2p3P1/8/5PKP/2r5 b - - 0 38,c4c3 c7g7 g6g7 c6c7,1218,94,advancedPawn crushing endgame rookEndgame sacrifice short
+2LxDB,8/5pkp/4p3/P1P5/Np6/3r2P1/1K3P1P/8 b - - 0 39,d3a3 c5c6 a3a4 c6c7 a4a5 c7c8q,1461,93,advancedPawn crushing endgame long master masterVsMaster promotion sacrifice
+2ONzB,3r2k1/4b1pp/p3Pp2/8/2rNQR2/4B3/P5PK/q7 b - - 5 33,e7d6 e6e7 d6f4 e3f4,1317,95,advancedPawn advantage middlegame sacrifice short
+2PDU3,r3k2r/1b3ppp/p2b1n2/1p1p4/2pP2q1/PPN1P3/2B2PPP/R1BQK2R w KQkq - 1 14,e1g1 d6h2 g1h2 g4h4 h2g1 f6g4 d1g4 h4g4,1225,95,advantage attraction kingsideAttack middlegame sacrifice veryLong
+2PiLI,5r2/1k3pp1/p7/1b1Pp1P1/2n1P1Q1/1RP5/q1P5/1R2K3 b - - 3 31,b7a7 b3b5 a6b5 g4d7,1279,93,crushing middlegame sacrifice short
+2PjYy,2r2bk1/r1PR3p/1p3pp1/8/5P2/P7/1P4PP/2R3K1 b - - 2 27,f8c5 c1c5 b6c5 d7d8 g8g7 d8c8,1386,94,crushing endgame long sacrifice
+2RUa9,5k2/8/3p1KP1/p1pPp3/2P2p2/1P3P2/P7/8 w - - 5 59,f6e6 e5e4 f3e4 f4f3 e6d6 f3f2 e4e5 f2f1q,1348,96,advancedPawn crushing endgame pawnEndgame promotion sacrifice veryLong
+2ReIs,2k3r1/pp1q4/1pn2n2/1B1pp3/PP6/2PPB1pr/6P1/R2Q1RK1 w - - 0 23,g2h3 d7h3 f1f6 h3h2 g1f1 g3g2,1369,100,advancedPawn advantage exposedKing kingsideAttack long middlegame sacrifice
+2RkOH,1Q6/1p1r1kp1/p2Pbp1p/2p5/8/6B1/1Pq2PP1/4R1K1 b - - 5 33,c2b2 e1e6 f7e6 b8e8 e6d5 e8d7,1281,100,attraction crushing deflection endgame long sacrifice
+2Sptp,5rk1/1Q3ppp/R3p3/8/3P4/1P2P1P1/2rpq1PP/5RK1 b - - 0 28,d2d1q b7f7 f8f7 a6a8 c2c8 a8c8 f7f8 c8f8,1396,98,mate mateIn4 middlegame sacrifice veryLong
+2TY5X,4r3/ppq2p1k/2p1rPp1/6Qp/8/7R/PPP3PP/5R1K b - - 1 28,e6e1 h3h5 h7g8 h5h8 g8h8 g5h6 h8g8 h6g7,1481,91,attraction endgame mate mateIn4 sacrifice veryLong
+2ULlB,8/4kpp1/7p/P2B4/8/6Pb/5P2/6K1 b - - 0 34,e7d6 a5a6 d6d5 a6a7,1429,94,advancedPawn bishopEndgame crushing endgame sacrifice short
+2Uetq,3r1r1k/p1R3pp/4Pq2/1p1Q4/8/P7/5PPP/5RK1 w - - 2 25,d5e4 f6f2 f1f2 d8d1 e4e1 d1e1 f2f1 e1f1,1251,94,endgame mate mateIn4 sacrifice veryLong
+2Umaz,Q7/1p3k2/2b5/1pP2p2/6p1/3Pr3/1B3qPP/1R3B1K w - - 0 40,a8h8 c6g2 f1g2 e3e1 b1e1 f2e1 g2f1 e1f1,1456,96,mate mateIn4 middlegame sacrifice veryLong
+2VNTe,8/8/p2B2K1/Pk5p/1P2n3/8/8/8 w - - 1 63,d6f8 h5h4 g6f5 h4h3 f5e4 h3h2 f8d6 h2h1q,1314,93,advancedPawn crushing endgame promotion quietMove sacrifice veryLong
+2VpDQ,3r2k1/1p2r1p1/p1q2pB1/3pp2R/3P3P/2P3P1/PP4K1/3Q4 b - - 3 30,e5d4 h5h8 g8h8 d1h5 h8g8 h5h7 g8f8 h7h8,1442,95,attraction endgame mate mateIn4 sacrifice veryLong
+2WQzb,2r3k1/R2N2pp/5p2/1n1p4/2pP4/4P3/5PPP/5K2 w - - 4 26,a7b7 c4c3 b7b5 c3c2,1354,93,advancedPawn crushing endgame master sacrifice short
+2WRn1,1R3bk1/5ppp/q7/3p4/3N4/4B1P1/4PPKP/8 b - - 3 27,a6a7 b8f8 g8f8 d4e6,1378,96,attraction crushing endgame master sacrifice short
+2Wk61,r3k2r/4bpp1/p2p4/qpn1p1P1/4P3/1bN1BP2/PPPQ4/2KR2R1 w kq - 0 19,a2b3 a5a1 c3b1 c5b3 c2b3 a8c8,1092,94,advantage intermezzo long master middlegame queensideAttack sacrifice
+2X5z1,1Q2R2r/p4pk1/1p3q2/1B5p/2P3rP/P4Ppb/3P2P1/1RB3K1 w - - 1 27,e8h8 f6d4 g1h1 h3g2 h1g2 d4f2 g2h3 f2f1,1141,95,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+2XcpL,6k1/pp2Rp2/5Pp1/3p3p/q7/4Q2P/6PK/3r4 b - - 7 34,a4d4 e7e8 g8h7 e8h8 h7h8 e3h6 h8g8 h6g7,1385,95,attraction endgame mate mateIn4 sacrifice veryLong
+2Xg6J,r2qk2r/pp1n1pp1/2pbp1p1/8/2PP4/4PN2/PPQ2PPP/R1B2RK1 w kq - 0 12,c4c5 d6h2 f3h2 d8h4 f2f3 h4h2,1284,94,advantage kingsideAttack long middlegame sacrifice
+2a5BI,r4rk1/1pp2pp1/p1np4/5Nn1/2Bp2P1/8/PP3PK1/R4R2 b - - 2 22,c6e5 f5e7 g8h8 f1h1 g5h7 h1h7 h8h7 a1h1,1461,90,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+2aMEi,r2r2k1/pb2qp2/1p2pb1p/3p4/5PQ1/P1N1P1P1/1PP3P1/2KR3R b - - 1 21,g8h7 h1h6 h7h6 d1h1,1160,95,advantage attraction middlegame sacrifice short
+2apxT,1k6/1pp5/2r5/p4p1P/3n4/P4bP1/1P3P1R/1K2R3 b - - 2 27,f3e4 e1e4 f5e4 h5h6 c6h6 h2h6,1469,92,advantage endgame long sacrifice
+2auGD,r1b2bk1/pp4p1/1n1qpnQB/7P/2Pp4/3N4/PP3PP1/R3K2R b KQ - 2 18,b6c4 h6g7 f8g7 h5h6,1383,91,advantage middlegame sacrifice short
+2d1wG,4r1k1/pp3pbp/3p2p1/1N2n3/2P4q/1P2BP1b/P5P1/1R1QR1K1 w - - 1 21,d1d2 e5f3 g2f3 h4g3 g1h1 g3f3,1461,90,advantage kingsideAttack long middlegame sacrifice
+2dpsL,r4r1k/p3qpp1/4pn1p/2p5/1pB4R/3P3Q/PPP3PP/5R1K b - - 5 24,f6d5 h4h6 g7h6 h3h6 h8g8 f1f3,1491,85,advantage kingsideAttack long middlegame sacrifice
+2g9T7,2r3k1/1p2p1bp/1q1p2p1/3P2P1/4PQ1N/pPr5/P7/1KN2R2 b - - 1 29,b6d4 f4f7 g8h8 h4g6 h7g6 f1h1 c3h3 h1h3 g7h6 h3h6,1401,99,kingsideAttack mate mateIn5 middlegame sacrifice veryLong
+2gATC,rq2k2r/pp1b1ppp/4p3/3pP3/1n3B2/bP1B1N2/P2R1PPP/3Q1RK1 b kq - 10 17,e8g8 d3h7 g8h7 f3g5,1091,93,attraction crushing kingsideAttack middlegame sacrifice short
+2gBmh,8/8/7P/2b2N2/1p6/1P1kp3/6K1/8 w - - 0 51,g2f1 e3e2 f1e1 c5f2 e1f2 d3d2 f2f3 e2e1q,1360,98,advancedPawn crushing endgame exposedKing promotion sacrifice veryLong
+2gOKZ,1k4r1/p1p5/npBqp3/1P3p2/8/5RP1/Q5K1/8 b - - 1 37,a6c5 a2a7 b8a7 f3a3 c5a6 a3a6 a7b8 a6a8,1466,96,attraction endgame mate mateIn4 operaMate sacrifice veryLong
+2gQde,r4rk1/pp3pp1/8/4b1qp/2B1p1b1/P3P1N1/1P3PPP/R2Q1RK1 w - - 2 17,g3e4 e5h2 g1h2 g5h4 h2g1 g4d1,1399,95,attraction crushing kingsideAttack long master middlegame sacrifice
+2gXqH,2Bn2k1/1p4pp/4p3/P3p3/6P1/7P/5PK1/8 b - - 4 40,g8f8 c8b7 d8b7 a5a6 b7d8 a6a7,1283,94,advancedPawn crushing endgame long master masterVsMaster sacrifice
+2gfOC,8/3q1k2/1p1Pr1p1/2pQp2p/8/1P6/6PP/3R2K1 b - - 1 43,f7g7 d5e6 d7e6 d6d7 e6b3 d7d8q,1060,94,advancedPawn crushing endgame long master masterVsMaster promotion sacrifice
+2h3qa,6k1/3q1pp1/7p/p2N3n/2pPP3/Pr2b2b/1PQ1N1P1/3R1R1K w - - 0 27,c2c4 h3g2 h1g2 d7g4,1256,87,attraction crushing kingsideAttack middlegame sacrifice short
+2h6iT,2r2rk1/pp1R1ppp/8/8/4q3/1P5P/P4QP1/5R1K b - - 2 25,c8c2 f2f7 f8f7 d7d8 e4e8 d8e8 f7f8 f1f8,1333,97,endgame mate mateIn4 sacrifice veryLong
+2hSqC,2r3k1/1pq2pp1/6r1/7p/pPPNp3/P1QbP1PP/5P2/R1R3K1 w - - 1 28,c4c5 g6g3 f2g3 c7g3 g1h1 g3h3,1075,91,advantage kingsideAttack long middlegame sacrifice
+2haQB,2r2r1k/p5pp/1p6/7Q/8/4R3/Pq3PPP/5RK1 w - - 0 26,e3h3 b2f2 f1f2 c8c1 h5d1 c1d1 f2f1 d1f1,1446,94,endgame mate mateIn4 sacrifice veryLong
+2iOU5,r1br2k1/pp2npp1/q4b1p/3B4/N3Q3/5N2/PP3PPP/3R1RK1 w - - 7 18,d5f7 g8f7 d1d8 c8f5 d8a8 f5e4,1395,88,advantage long middlegame sacrifice
+2kFyd,r4rk1/pp1bq1p1/4p1PR/2b5/8/1P6/P2NQ3/B2K1B2 b - - 0 20,f8f2 h6h8 g8h8 e2h5 h8g8 h5h7 g8f8 h7h8,1423,94,attraction mate mateIn4 middlegame sacrifice veryLong
+2kjm6,2r3k1/2q2p1p/5Qp1/p2p1PP1/1p3r1P/8/PPPR4/1KR5 w - - 1 27,d2d5 c7c2 c1c2 f4f1 d5d1 f1d1 c2c1 d1c1,1343,94,endgame mate mateIn4 queensideAttack sacrifice veryLong
+2l44A,5k2/5p1p/8/8/pp1PPP2/3b2P1/1P3KBP/8 w - - 0 41,f2e3 a4a3 b2a3 b4a3 e3d3 a3a2,1131,94,advancedPawn advantage bishopEndgame endgame long sacrifice
+2mKxM,k2r3r/1b4p1/pP6/1p5p/4q3/6Q1/R5PP/R6K b - - 3 34,h8e8 a2a6 b7a6 a1a6 a8b7 g3c7 b7a6 c7a7,1432,96,exposedKing mate mateIn4 middlegame sacrifice veryLong
+2mgbH,5rk1/2Q2ppp/1p1R4/p7/2P1r3/7P/Pq4P1/5R1K b - - 0 26,b2a2 c7f7 f8f7 d6d8 e4e8 d8e8 f7f8 f1f8,1432,93,endgame mate mateIn4 sacrifice veryLong
+2ouwU,5rk1/R6p/3p2p1/2pP4/P1P5/4Q3/1rq2PPP/5RK1 w - - 1 25,e3e7 c2f2 f1f2 b2b1 e7e1 b1e1 f2f1 e1f1,1380,96,endgame mate mateIn4 sacrifice veryLong
+2oxOm,5rk1/p4ppp/2p1p3/2Pn2q1/P2p4/5Q2/6PP/1R3R1K b - - 4 26,e6e5 f3f7 f8f7 b1b8 g5d8 b8d8 f7f8 f1f8,1418,100,endgame mate mateIn4 sacrifice veryLong
+2p305,6k1/2q2p2/prPr2p1/4p1Pp/3b3P/5Q2/P1R3B1/5R1K b - - 4 40,g8g7 f3f7 c7f7 f1f7 g7f7 c6c7,1488,94,advancedPawn advantage long master middlegame sacrifice
+2p7ET,r2B3r/pppk1p2/1bnp4/8/Q3Pn2/8/PP3PPP/R4RK1 w - - 1 17,d8g5 f4e2 g1h1 h8h2 h1h2 a8h8 g5h6 h8h6,1413,92,anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+2pByS,rnb2rk1/pppnqppp/4p3/3pP3/3P4/2NB3N/PPP2PPP/R2QK2R b KQ - 3 8,c7c5 d3h7 g8h7 d1h5 h7g8 h3g5 e7g5 h5g5,1459,93,advantage attraction kingsideAttack opening sacrifice veryLong
+2ttml,8/8/1b6/1P1pkP2/6B1/4p3/4K3/8 b - - 3 73,e5f4 f5f6 f4g4 f6f7 b6c5 b5b6 d5d4 b6b7,1228,88,advancedPawn bishopEndgame crushing endgame sacrifice veryLong
+2v0vd,r4r1k/3bb1pp/p1qp1p2/4pP2/2p4N/P1B3QP/1PP3P1/3R1RK1 b - - 3 23,d6d5 h4g6 h7g6 g3h4 h8g8 f5g6,1159,96,advantage clearance intermezzo kingsideAttack long middlegame sacrifice
+2wl7R,8/7k/5n2/4P1R1/8/5PPp/6r1/7K b - - 0 53,h7h6 e5f6 h6g5 f6f7,1351,96,advancedPawn crushing endgame sacrifice short
+2x1vX,6k1/2b1rpp1/5q1p/8/P2r4/7P/1RQ2PP1/1R3K2 b - - 1 42,c7g3 b2b8 g3b8 b1b8 d4d8 b8d8 e7e8 d8e8,1180,95,mate mateIn4 middlegame sacrifice veryLong
+2xZbK,2r3k1/pp3p2/3p1b1r/2p1n3/2P2Npq/PP2P3/3Q1PP1/2RRNK2 w - - 2 29,g2g3 h4h1 f1e2 h1f3 e1f3 g4f3 e2e1 h6h1,1371,94,mate mateIn4 middlegame sacrifice veryLong
+2zLX6,rnb2rk1/pp3ppp/1q2p3/6Q1/4B3/5N2/PPP2PPP/R4RK1 b - - 2 13,b8c6 e4h7 g8h7 g5h5 h7g8 f3g5,1267,91,attraction crushing kingsideAttack long middlegame sacrifice
+3156p,1r6/6pp/3k1p2/8/2KP4/p3P2P/Np3P2/1R6 w - - 10 45,a2b4 b8b4 c4b4 a3a2 b1b2 a2a1q,1415,96,advancedPawn advantage endgame long promotion sacrifice
+3197C,3r2k1/1R3pp1/2r1b2p/5p2/R2P4/1N2P1P1/5P1P/6K1 w - - 0 30,b3c5 c6c5 d4c5 d8d1 g1g2 e6d5,1042,92,advantage endgame long sacrifice
+32vtR,rn3rk1/pbp1q1p1/1p1pp1P1/8/3P4/2P1PP2/P1P1Q3/R1B1K2R b KQ - 0 16,f8f6 h1h8 g8h8 e2h2 h8g8 h2h7 g8f8 h7h8,1297,94,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+33EJ7,7r/5pb1/1qp1k1p1/1p1pPp1r/p4B2/P1P1P1RP/1P2QP2/2K3R1 b - - 3 23,g7h6 g3g6 f7g6 g1g6 e6e7 e2h5,1384,93,crushing long middlegame sacrifice
+33fsU,rn3rk1/pp1bnppp/4p3/q1ppP3/P2P4/2PB1N2/2PB1PPP/R2QK2R b KQ - 6 10,c5c4 d3h7 g8h7 f3g5 h7g8 d1h5,1034,97,attraction clearance crushing kingsideAttack long opening sacrifice
+34UFW,8/k4P2/3P1R2/1pb1K3/8/8/8/5r2 b - - 2 69,c5d4 e5d4 f1f6 d6d7 f6f7 d7d8q,1289,95,advancedPawn crushing endgame long promotion sacrifice
+34nMb,8/2k5/5p1p/1B2nK2/P1p5/7P/6P1/8 w - - 0 46,f5f6 c4c3 f6e5 c3c2,1256,95,advancedPawn crushing endgame master sacrifice short
+34rs6,3r1rk1/pR3ppp/8/4p3/8/1Q1P3q/8/5RK1 b - - 1 26,d8d3 b3f7 f8f7 b7b8 h3c8 b8c8 d3d8 c8d8 f7f8 d8f8,1315,90,endgame mate mateIn5 sacrifice veryLong
+34xQh,5rk1/1p3ppp/6q1/p1nN4/P3P3/KP4P1/8/R6R b - - 1 31,g6g3 d5e7 g8h8 h1h7 h8h7 a1h1 g3h2 h1h2,1355,95,anastasiaMate attraction endgame mate mateIn4 sacrifice veryLong
+36yJv,8/4pk2/2P3pp/3R1p2/3N4/b4P1P/3r4/K7 b - - 0 42,a3d6 d5d6 e7d6 c6c7 d2d4 c7c8q,1342,92,advancedPawn crushing endgame long master promotion sacrifice
+37U6A,8/8/8/8/P1PP1Kpk/1P4N1/8/4r3 w - - 7 49,g3e4 e1e4 f4e4 g4g3 c4c5 g3g2,1404,95,advancedPawn crushing endgame long sacrifice
+37or1,5q1k/p4Pp1/bp5p/2p1P3/2Pr4/4R2P/P1B3P1/5RK1 b - - 0 36,a6c4 e5e6 c4f1 e6e7,1391,93,advancedPawn advantage endgame sacrifice short
+3834k,8/3R1pk1/5p2/8/2p2r1p/3p1N1P/6PK/8 w - - 0 39,d7c7 f4f3 g2f3 d3d2 c7d7 c4c3,1262,91,advancedPawn crushing endgame long sacrifice
+38drp,r4rk1/pp3pp1/4p2p/3n4/3PN3/1P1Q3P/q1R2PP1/4R1K1 b - - 3 22,d5b4 e4f6 g7f6 d3g3 g8h8 c2a2,1458,94,crushing long middlegame sacrifice
+38j1R,8/5k2/P1R1n3/2b1p1p1/5p2/8/6PK/8 b - - 0 37,f7e7 c6c5 e6c5 a6a7,1451,89,advancedPawn advantage endgame sacrifice short
+393XK,3r3k/6qp/6p1/2b2pP1/2Br4/1P3Q1R/3p3P/3R3K b - - 1 41,g7e5 h3h7 h8h7 f3h3 d4h4 h3h4 h7g7 h4h6,1147,94,attraction mate mateIn4 middlegame sacrifice veryLong
+3AG3C,r1bqr1k1/pp3pn1/3b4/2pnNPp1/3P2P1/3BPQ2/PP5B/R4RK1 w - - 0 20,f3d5 d6e5 d5d8 e5h2 g1h2 e8d8,1473,94,advantage exposedKing long master masterVsMaster middlegame sacrifice
+3AaKm,r4k2/5p2/3p1Bp1/q2p1b1r/p1pP3P/1P2QP2/P1P1R3/1K1R4 b - - 0 27,a4b3 e3e7 f8g8 e7e8 a8e8 e2e8 g8h7 e8h8,1184,97,mate mateIn4 middlegame operaMate sacrifice veryLong
+3AmAm,r1b3n1/ppp2kbQ/6p1/8/2p2K2/2Nq4/PP3PPP/R3R3 b - - 2 18,g8f6 e1e7 f7e7 h7g7 e7d6 g7f6,1325,93,attraction crushing deflection long middlegame sacrifice
+3ApNG,5rn1/2p2p1k/2pqb1pp/p3P3/P4Q1N/3r2NP/1P3RPK/5R2 b - - 0 27,d6d4 f4f7 e6f7 f2f7 f8f7 f1f7 h7h8 h4g6,1163,96,cornerMate mate mateIn4 middlegame sacrifice veryLong
+3BCb8,8/pQ3pkp/2p1b1p1/q6n/3bP3/3B4/2P3PP/5RNK w - - 1 27,b7c6 h5g3 h2g3 a5h5 g1h3 e6h3,1232,91,clearance crushing long middlegame sacrifice
+3BR1A,3r1rk1/pp3pp1/2ppb2p/8/P3Pq2/1B1R2RP/1PQ2PP1/6K1 b - - 4 23,f4e4 g3g7 g8g7 d3g3,1389,95,advantage attraction kingsideAttack middlegame sacrifice short
+3BaYX,8/pkp3rp/1pR5/5P2/8/6P1/r6P/2R3K1 b - - 0 29,a7a5 f5f6 g7f7 c6c7 f7c7 c1c7 b7c7 f6f7,1356,99,advancedPawn advantage endgame rookEndgame sacrifice veryLong
+3CblG,2b2r1k/4Nppp/2p5/p7/nr6/6P1/2P2PP1/2K1R2R b - - 0 24,c8e6 h1h7 h8h7 e1h1 e6h3 h1h3 b4h4 h3h4,1494,88,anastasiaMate attraction mate mateIn4 middlegame sacrifice veryLong
+3CdkJ,8/7k/3P1pbp/p3p3/Pp5P/1B6/6P1/7K b - - 0 35,g6f5 b3c2 f5c2 d6d7,1310,99,advancedPawn bishopEndgame crushing endgame sacrifice short
+3DORk,5r1k/4R1pp/p2pB3/2qpn3/8/1Qr5/P4PPP/5RK1 w - - 0 27,b3d5 c5f2 f1f2 c3c1 d5d1 c1d1 f2f1 d1f1,1420,94,mate mateIn4 middlegame sacrifice veryLong
+3DZCM,rq3rk1/6pp/p3p3/1pN2nB1/8/2P2P2/PP2QP1b/R2R2K1 w - - 0 18,g1f1 f5g3 f2g3 b8g3 e2e6 g8h8,1412,92,advantage long middlegame sacrifice
+3Dek0,1r3r2/ppq4k/2p3bp/2Pp2p1/5PP1/2QnP1K1/PP2N1B1/5R1R b - - 4 27,b8e8 h1h6 h7h6 f1h1,1169,95,attraction crushing middlegame sacrifice short
+3DqlD,6k1/1r3p1p/6p1/3p4/3P1N2/7P/2pQ2P1/1q3R1K w - - 2 40,h1g1 b1f1 g1f1 b7b1 f1e2 c2c1q d2c1 b1c1,1312,87,advancedPawn attraction crushing endgame promotion sacrifice veryLong
+3E8Qr,5rk1/6pp/5q2/3R4/4Q3/P3P3/2rB1PPP/5RK1 w - - 1 27,d2b4 f6f2 f1f2 c2c1 d5d1 c1d1 b4e1 d1e1 f2f1 e1f1,1165,87,mate mateIn5 middlegame sacrifice veryLong
+3ESr0,2rqk2r/p2n1ppp/2n1p3/3pP3/1b1P4/1P3N1P/2B2PP1/R1BQ1NK1 b k - 0 16,e8g8 c2h7 g8h7 f3g5 h7g8 d1h5,1484,95,advantage attraction clearance kingsideAttack long middlegame sacrifice
+3Evza,3r2k1/p1rn1p1p/1pp3p1/5n2/B1P1N3/P4R1P/3R1PP1/6K1 b - - 3 28,d8e8 d2d7 c7d7 e4f6,1333,92,advantage master middlegame sacrifice short
+3FFav,r4r1k/2p3pp/1pp5/8/3B4/1Q4P1/PP3P1q/2KR4 b - - 0 22,c6c5 d4g7 h8g7 d1d7 g7f6 b3f3,1445,91,attraction crushing endgame long sacrifice
+3Fv5h,r3kr2/pp3p1Q/2p3p1/q1n1pb2/2P5/2N5/PP2PPPP/2KR1B1R w q - 1 16,h7h4 c5b3 a2b3 a5a1 c1d2 a1b2 d2e1 b2c3,1442,95,crushing deflection middlegame queensideAttack sacrifice veryLong
+3G9zN,5rk1/1Q3ppp/p2q4/2r5/2p5/8/PP4PP/3R1R1K b - - 0 28,d6c6 b7f7 f8f7 d1d8 c6e8 d8e8 f7f8 f1f8,1219,100,endgame master mate mateIn4 sacrifice veryLong
+3GC2X,2r2rk1/pp3ppp/q3p3/3pQ3/8/P3P2P/1PP2RP1/5RK1 b - - 2 22,c8c4 f2f7 f8f7 e5b8 c4c8 b8c8 f7f8 f1f8,1258,95,endgame kingsideAttack mate mateIn4 sacrifice veryLong
+3H5yC,5r2/p3bq1k/1p5p/2pR1pp1/2Q5/1P2P3/PB3PPP/6K1 b - - 0 28,f8d8 d5d8 f7c4 d8h8,1460,94,crushing endgame sacrifice short
+3HJEI,3r2k1/5p2/p3b1n1/2r5/7P/P2p2Q1/4BPP1/3R2K1 w - - 0 29,h4h5 d3e2 d1d8 g8g7 f2f3 c5c1,1494,98,advancedPawn advantage long middlegame sacrifice
+3Has5,1r3rk1/3b2bp/p2p2p1/3Q4/1qp1P1P1/4BP2/PP2N3/2KR3R b - - 0 21,g8h8 h1h7 h8h7 d1h1,1391,93,advantage attraction kingsideAttack master middlegame sacrifice short
+3I9e9,r3kb1r/1p3pp1/pn2p3/2p1q1N1/2Pp4/1P1P1Rp1/PBN1B1P1/R2Q2K1 w kq - 0 18,g5f7 h8h1 g1h1 e5h5 h1g1 h5h2 g1f1 h2h1,1393,96,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+3IWgR,3rr1k1/ppp2ppp/2q2Pb1/2p5/2P4P/1P4R1/PB3QP1/R5K1 b - - 2 24,h7h5 g3g6 f7g6 f6f7,1388,94,advancedPawn crushing kingsideAttack master middlegame sacrifice short
+3JCVw,8/2P4p/8/1P1Nk3/8/5pP1/2r2P2/6K1 b - - 0 55,e5d6 b5b6 d6d5 b6b7 c2c7 b7b8q,1419,86,advancedPawn crushing endgame long promotion sacrifice
+3JNcg,4rr2/pbqnbpk1/1p1pp1pp/4PPN1/3P3Q/2PB4/P2B2PP/4RRK1 b - - 0 18,e6f5 g5e6 f7e6 h4h6,1367,89,crushing master middlegame sacrifice short
+3JQS7,2r4r/1p2kpp1/pq2pbp1/4n3/P3N3/6N1/BP4PP/R2Q1R1K w - - 2 22,d1e2 h8h2 h1h2 c8h8 g3h5 h8h5,1421,90,advantage attraction kingsideAttack long middlegame sacrifice
+3K1tj,6k1/pN4pp/1p5r/2pP1q2/P3p3/1P2P1Pr/R3QPKP/5N2 w - - 9 32,a2d2 h3h2 f1h2 f5h3 g2g1 h3h2 g1f1 h2h1,1311,93,clearance mate mateIn4 middlegame sacrifice veryLong
+3KSrZ,2kr1bnr/pppq2pp/8/4B3/2p1p1b1/1P2P3/P1QN1PPP/R3KB1R w KQ - 0 12,d2c4 f8b4 e5c3 b4c3 c2c3 d7d1 a1d1 d8d1,1388,97,mate mateIn4 opening operaMate sacrifice veryLong
+3KfT6,8/8/8/R3pk1p/1P1p3P/P3P1P1/1r1K4/8 w - - 1 45,d2c1 d4e3 c1b2 e3e2 a5c5 e2e1q,1348,100,advancedPawn crushing endgame long promotion rookEndgame sacrifice
+3KjFi,5rk1/5ppp/p2R4/q3p3/P1r1P3/4PQ2/6PP/5RK1 b - - 0 22,a5a4 f3f7 f8f7 d6d8 a4e8 d8e8 f7f8 f1f8,1083,90,endgame mate mateIn4 sacrifice veryLong
+3Le03,1r3q2/5k1p/p3Rbp1/3p1p2/P2p1P2/1P1P4/2PBQ2P/7K b - - 2 31,b8b7 e6f6 f7f6 e2e5 f6f7 e5d5,1352,93,attraction crushing endgame long sacrifice
+3Lyix,r3k2r/1b3p2/pp2p2p/4P1p1/Pq1PB3/1P4P1/4QP2/R4KR1 b kq - 5 22,b4d4 e4b7 d4a1 f1g2 a1c3 b7a8,1263,92,crushing long master middlegame sacrifice
+3MApw,2kr3r/p1n1bnp1/1pp1pp2/3P3p/P2P4/1PPqNQ1P/3B1PP1/RN2K2R b KQ - 0 17,c7d5 e3d5 d3f3 d5e7 c8d7 g2f3,1437,92,crushing exposedKing long middlegame sacrifice
+3Mp2A,3r1rk1/p4p1p/4p1p1/2p4Q/4Pq2/2P5/PP3P2/1K4RR b - - 4 23,h7h6 g1g6 f7g6 h5g6 g8h8 h1h6 f4h6 g6h6,1296,96,advantage endgame master masterVsMaster sacrifice veryLong
+3MtUi,6rk/ppp1Q1pp/8/5b1q/1P6/5r2/P4P1P/3R2RK b - - 5 25,f3h3 e7g7 g8g7 d1d8 h5e8 d8e8 g7g8 g1g8,1450,100,mate mateIn4 middlegame sacrifice veryLong
+3Mtjj,8/1p6/8/1PPkB3/3p2p1/3Kb1P1/8/8 b - - 2 39,e3f2 c5c6 b7c6 b5b6 d5e5 b6b7 e5d5 b7b8q,1495,96,advancedPawn bishopEndgame crushing endgame promotion sacrifice veryLong
+3MvIM,8/p1p3pk/3br2p/3p1p2/1P1P1P1q/P3P1rP/4RQP1/2B2R1K w - - 12 36,c1d2 g3h3 g2h3 h4h3 h1g1 e6g6,1189,90,advantage kingsideAttack long middlegame sacrifice
+3Nt2Q,r5k1/1p3pp1/5q2/3p2pP/8/1PPR4/PKQR2P1/5r2 w - - 8 38,d3d5 a8a2 b2a2 f6a6 d5a5 a6a5 a2b2 a5a1,1186,95,attraction endgame mate mateIn4 sacrifice veryLong
+3O2ss,3r4/8/1p1P1nkp/p1p1Q1p1/P1P5/1P6/8/6K1 b - - 4 52,d8e8 e5e8 f6e8 d6d7 e8g7 d7d8q,1172,94,advancedPawn crushing endgame long promotion sacrifice
+3Ofdy,b3r1rk/5R1p/p7/8/1pPp4/1P1P4/1P1Q2PP/6RK w - - 1 28,d2h6 a8g2 g1g2 e8e1 f7f1 e1f1 g2g1 f1g1,1256,89,endgame mate mateIn4 sacrifice veryLong
+3P2tk,8/4b3/p1p3P1/4kp2/1PK5/P7/3B4/8 b - - 0 39,e5f6 d2g5 f6g5 g6g7,1407,98,advancedPawn bishopEndgame crushing endgame sacrifice short
+3P4LE,5rk1/5q1p/1Q2R1p1/2pp4/8/2P2N2/rP3PPP/5RK1 w - - 1 23,f3g5 f7f2 f1f2 a2a1 e6e1 a1e1 f2f1 e1f1,1277,93,mate mateIn4 middlegame sacrifice veryLong
+3P7FK,3rr1k1/1pp2pp1/5q1p/2Q5/1pPp4/3P2Pb/PP2BP2/R3R1K1 w - - 0 22,c5b4 e8e2 e1e2 f6f3,1434,93,crushing middlegame sacrifice short
+3P95N,8/8/1p4p1/p1pk1pP1/5K2/P7/2B5/8 b - - 1 51,d5d4 c2f5 g6f5 g5g6 c5c4 g6g7 c4c3 g7g8q,1496,95,advancedPawn bishopEndgame crushing endgame promotion sacrifice veryLong
+3PRkp,1rn2rk1/p4pp1/1p1Np2p/2n1P1q1/4B3/5P2/PPQ2P1P/3R1R1K b - - 1 22,g5e5 e4h7 g8h8 d6f7 f8f7 d1d8 f7f8 d8f8,1057,88,clearance deflection kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+3PU8G,r5k1/3PR2p/p4pp1/3b1p2/1p1p4/3B4/P5PP/6K1 b - - 0 38,d5f7 d3c4 f7c4 e7e8 a8e8 d7e8q,1447,98,advancedPawn advantage endgame long promotion sacrifice
+3PbIq,r1b1kb1r/pp1p1ppp/3p4/3Qp1N1/4K3/4BP2/PPP4P/R3q3 b kq - 3 14,e1a1 d5f7 e8d8 g5e6 d7e6 e3g5 f8e7 f7e7,1252,93,attackingF2F7 clearance mate mateIn4 middlegame sacrifice veryLong
+3QsHD,8/6kp/5bp1/3Qr3/2PpP2q/1P1P3P/5PK1/2B2R2 w - - 3 32,d5d4 e5g5 c1g5 h4g5,1280,94,crushing endgame sacrifice short
+3RM4I,2kr3r/p1qn4/2p2p2/2b1p1p1/2P1Q3/2B3P1/PP4BP/R4R1K w - - 3 24,e4c6 h8h2 h1h2 d8h8,1390,95,attraction crushing kingsideAttack middlegame sacrifice short
+3RhMg,3r2r1/p6k/1p4qb/2pPp3/P1Q1P1p1/3P1P2/3B1RK1/1R6 w - - 0 30,b1h1 g4f3 g2f1 g6g2 f2g2 f3g2,1311,93,advancedPawn crushing discoveredCheck doubleCheck long master masterVsMaster middlegame sacrifice
+3SIfb,8/2R2p1p/2P1pkp1/p7/5P2/2P2P2/r6P/6K1 b - - 0 31,a5a4 c7f7 f6f7 c6c7 a4a3 c7c8q,1477,93,advancedPawn advantage endgame long promotion rookEndgame sacrifice
+3Ss0D,r5rk/5p1p/p1p1p2p/3pPb2/2pP3q/5R1P/PPP1NPPK/R2Q4 w - - 3 19,f3f4 g8g2 h2g2 h4h3 g2g1 a8g8 e2g3 g8g3 f2g3 h3g3,1451,89,advantage attraction middlegame sacrifice veryLong
+3Sw2k,1r4k1/5p1p/2p1p1p1/p7/PqPQ4/1P1R1P2/1K4PP/8 b - - 8 30,b4a4 d4d8 b8d8 d3d8 g8g7 b3a4,1102,98,crushing endgame long sacrifice
+3T5s0,6k1/Bbp2ppp/4pn2/4r3/8/1PN3P1/P2r1P1P/R4RK1 w - - 3 22,a7e3 e5e3 f2e3 d2g2,1243,94,crushing kingsideAttack master middlegame sacrifice short
+3TEfM,1r1Q1rk1/5ppp/3p4/3Pp1PP/8/1Pq2P2/2P5/1KNR3R w - - 1 28,c1a2 b8b3 c2b3 c3b3 b1a1 f8d8,1169,96,advantage long master middlegame queensideAttack sacrifice
+3TdhQ,2r4k/pbN4p/1p4q1/3p1pN1/5Q2/7R/Pb3PPP/6K1 b - - 3 28,h7h6 h3h6 g6h6 g5f7,1409,91,crushing master middlegame sacrifice short
+3V5yp,rn3b1k/1bp3pp/pp1q4/4n3/P1B5/1QN1B3/1P3PPP/R4RK1 w - - 0 18,a1d1 e5f3 g2f3 d6g6 e3g5 g6g5 g1h1 b7f3,1141,95,kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+3VBEu,2r2rk1/1b4pp/p2p2R1/1pq3pQ/8/5P1P/PPB3PK/2R5 b - - 0 26,b7f3 g6g7 g8g7 h5h7,1427,89,advantage attraction kingsideAttack middlegame sacrifice short
+3VMv4,r4rk1/1p3pp1/5b2/p2N2n1/6P1/P7/1PP3K1/R4R2 b - - 0 26,f6b2 d5e7 g8h8 f1h1 g5h7 h1h7 h8h7 a1h1,1050,88,anastasiaMate attraction mate mateIn4 middlegame sacrifice veryLong
+3ViBX,6k1/3n1pp1/1p2p2p/PN1p4/1P6/6P1/1r3P1P/R4K2 b - - 0 36,b2b4 a5a6 b4b5 a6a7,1330,91,advancedPawn advantage endgame sacrifice short
+3WM6x,r2r2k1/1b3pp1/p1q1p2p/1p2R2Q/6R1/P2B4/1PP3PP/7K w - - 3 23,h5h6 c6g2 g4g2 b7g2 h1g2 g7h6,1405,94,advantage kingsideAttack long middlegame sacrifice
+3XJot,8/8/1p3k2/p4p1P/3p1K2/1PrBp3/P2R4/8 w - - 0 42,d2d1 c3d3 d1d3 e3e2 d3d4 e2e1q,1253,95,advancedPawn crushing endgame long promotion sacrifice
+3XYXO,8/3b1k2/2p1qbpQ/1pPpp3/1P1PpP1P/4P1P1/r5B1/B3R1K1 w - - 6 30,d4e5 a2g2 g1g2 e6h3 g2g1 h3g3,1270,94,attraction crushing deflection exposedKing kingsideAttack long middlegame sacrifice
+3Xhrx,3r1r2/1p3pkp/5Pp1/2R1P3/p6Q/Pq1p4/1P4PP/3R2K1 b - - 0 33,g7g8 h4h6 b3d1 g1f2 d1e2 f2g3,1271,92,crushing endgame long sacrifice
+3Xpv1,2knR3/pppnp3/4Q3/6q1/5pr1/3P2P1/PP3PK1/7R b - - 1 37,f4g3 e8d8 c8d8 h1h8,1386,93,attraction crushing middlegame queensideAttack sacrifice short
+3Y9kC,5bk1/1p1r1pp1/2rP3p/8/2pQN3/q5BP/5PP1/4R1K1 b - - 1 33,c4c3 e4f6 g7f6 d4g4,1399,92,advantage clearance master middlegame sacrifice short
+3YTcK,8/8/5p1k/1P3P2/p1n2K2/P1pB4/8/8 b - - 3 55,c4a3 b5b6 c3c2 d3c2 a3c2 b6b7,1112,98,advancedPawn crushing endgame long sacrifice
+3Yvby,r4rk1/ppp2p2/3p4/3PbPpp/2P1Pp1q/2N2Q1P/PP3PRK/6R1 b - - 3 19,g5g4 g2g4 h5g4 g1g4,1135,95,crushing kingsideAttack middlegame sacrifice short
+3aAZq,r2q3r/4ppk1/2pp2p1/pp2n1P1/3PP1n1/2N5/PPP1QPP1/R3R1K1 w - - 1 20,d4e5 h8h1 g1h1 d8h8 h1g1 h8h2 g1f1 h2h1,1340,94,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+3avLE,5r1k/1p4p1/p2pBq1p/2pPp2P/3n2Qb/2N5/PP3PR1/3R1K2 w - - 15 33,g4g6 f6f2 g2f2 f8f2 f1g1 d4f3 g1h1 f2h2,1477,94,arabianMate mate mateIn4 middlegame sacrifice veryLong
+3b0cl,1r4k1/p1p2pp1/1r6/7R/3p4/qb1B2Pp/P1PQ3P/1K3R2 w - - 0 26,c2b3 b6b3 a2b3 b8b3,1384,90,advantage master middlegame queensideAttack sacrifice short
+3bk4k,8/5p2/2p5/P2p3b/3P1P1p/4K1k1/8/6N1 b - - 0 38,g3g2 a5a6 g2g1 a6a7 h4h3 a7a8q,1399,94,advancedPawn advantage endgame long promotion sacrifice
+3ckqy,7R/1p1krp2/p2p2b1/2pP4/Q1P5/1P2Pq2/PK3P2/8 b - - 1 29,d7c7 a4a5 b7b6 a5a6 f3f6 b2a3 f6h8 a6a7,1270,93,advantage deflection endgame sacrifice veryLong
+3d9zW,8/5b2/3k2p1/2p2p2/1pP1pP2/pP2P3/P2K2P1/5N2 w - - 3 36,f1h2 f7c4 b3c4 b4b3 a2b3 a3a2,1368,100,advancedPawn crushing endgame long sacrifice
+3dgQh,r1bq3r/p3ppk1/1p1p2p1/2pP4/P3PPn1/2N5/1PPQB1P1/R3R1K1 w - - 1 20,c3b5 h8h1 g1h1 d8h8 h1g1 h8h2 g1f1 h2h1,1354,96,attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong
+3duUu,1Q2R3/1b1r1ppk/6qp/5R2/3r4/1P4NP/6P1/7K b - - 16 40,g6c6 e8h8 h7g6 h8h6 g6h6 b8h8 h6g6 h8h5,1413,95,attraction mate mateIn4 middlegame sacrifice triangleMate veryLong
+3eBkC,r3k2r/pp2bppp/5n2/1q6/N2Q4/1P6/P1P2PPP/1R2R1K1 b kq - 2 17,a8d8 e1e7 e8e7 b1e1 e7f8 d4d8,1428,96,attraction crushing deflection long middlegame sacrifice
+3eCyj,2k1r3/5p2/p1p1P1p1/1p3p2/3P3r/1PP2PR1/PK2R3/8 b - - 2 27,h4h6 e6f7 e8e2 b2a3 h6h8 g3g6,1331,94,advancedPawn advantage endgame long rookEndgame sacrifice
+3er3q,k2r3r/5R2/1Q1p2p1/2p1p3/3pP1p1/1P1P2P1/P1P1R2P/2q3K1 w - - 3 27,g1g2 h8h2 g2h2 d8h8 f7h7 h8h7 h2g2 c1h1 g2f2 h7f7,1489,92,attraction endgame mate mateIn5 sacrifice veryLong
+3fIB5,2r2b1k/4r1P1/1q3p1p/4pP2/3pP2Q/2nP2P1/1p2BK1R/7R b - - 0 39,f8g7 h4h6 g7h6 h2h6 e7h7 h6h7 h8g8 h7h8 g8f7 h1h7,1363,93,exposedKing kingsideAttack mate mateIn5 middlegame sacrifice veryLong
+3hIH7,1r1r2k1/7p/b1p1p1p1/p1p1Np2/q6P/1P1P1QP1/2P2P2/1K1R3R w - - 0 26,e5c6 b8b3 c2b3 a4b3,1253,93,crushing middlegame queensideAttack sacrifice short
+3hUIU,5rk1/p4ppp/1p1q4/3R4/8/5Q2/r5PP/5R1K b - - 0 26,d6c6 f3f7 f8f7 d5d8 c6e8 d8e8 f7f8 f1f8,1141,94,endgame mate mateIn4 sacrifice veryLong
+3i4nO,1r3b1r/k4ppp/Pp6/2qpQ3/2b5/5P2/2P3PP/R3R2K b - - 1 25,f7f6 e5b8 a7b8 a6a7 b8c7 a7a8q,1390,100,advancedPawn attraction crushing deflection long middlegame promotion sacrifice
+3j5AS,3Rk3/Qp2r1p1/1Pnqp3/5p2/2RP2p1/6P1/5PP1/1N4K1 b - - 0 30,d6d8 c4c6 b7c6 b6b7 e7b7 a7b7,1369,93,advancedPawn advantage endgame long sacrifice

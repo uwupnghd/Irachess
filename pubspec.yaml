@@ -32,6 +32,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   web: ^1.1.2
+  flutter_secure_storage: ^11.2.0
 
 dev_dependencies:
   flutter_test:
@@ -40,6 +41,7 @@ dev_dependencies:
   flutter_lints: ^6.0.0
   drift_dev: ^2.35.3
   build_runner: ^2.17.1
+  flutter_launcher_icons: ^0.14.4
 
 flutter:
   uses-material-design: true
@@ -47,3 +49,31 @@ flutter:
   assets:
     - assets/openings.tsv
     - assets/puzzles/
+    - assets/logo.png
+
+hooks:
+  user_defines:
+    sqlite3:
+      # Linux usa la libsqlite3 del sistema; el resto descarga su binario.
+      source:
+        linux: system
+        default: sqlite3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/logo.png
+  remove_alpha_ios: true
+  adaptive_icon_background: "#3B3B98"
+  adaptive_icon_foreground: assets/brand/foreground.png
+  web:
+    generate: true
+    image_path: assets/logo.png
+    background_color: "#3B3B98"
+    theme_color: "#3B3B98"
+  windows:
+    generate: true
+    image_path: assets/logo.png
+  macos:
+    generate: true
+    image_path: assets/logo.png

@@ -1,0 +1,847 @@
+{
+  "@@locale": "es",
+  "appTitle": "IraChess",
+  "navAnalyze": "Analizar",
+  "navPuzzles": "Problemas",
+  "navVision": "Visión",
+  "navProgress": "Progreso",
+  "navSettings": "Ajustes",
+  "cancel": "Cancelar",
+  "close": "Cerrar",
+  "retry": "Reintentar",
+  "delete": "Borrar",
+  "ok": "Aceptar",
+  "next": "Siguiente",
+  "share": "Compartir",
+  "loading": "Cargando…",
+  "errorGeneric": "Algo salió mal: {error}",
+  "@errorGeneric": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "gamesTitle": "Mis partidas",
+  "gamesEmptyTitle": "Aún no hay partidas",
+  "gamesEmptyBody": "Pega un PGN, importa tus partidas o juega contra el motor para empezar a aprender de ellas.",
+  "actionPastePgn": "Pegar PGN",
+  "actionOpenFile": "Abrir archivo PGN",
+  "actionImportOnline": "Importar de Lichess / Chess.com",
+  "actionPlayEngine": "Jugar contra el motor",
+  "gameVs": "{white} vs {black}",
+  "@gameVs": {
+    "placeholders": {
+      "white": {
+        "type": "String"
+      },
+      "black": {
+        "type": "String"
+      }
+    }
+  },
+  "notAnalyzed": "Sin analizar",
+  "accuracyShort": "Precisión {value} %",
+  "@accuracyShort": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteGameConfirm": "¿Borrar esta partida y su análisis?",
+  "importTitle": "Importar PGN",
+  "importHint": "Pega aquí el PGN de tu partida…",
+  "importButton": "Importar",
+  "importWhichSide": "¿Con qué color jugabas?",
+  "sideWhite": "Blancas",
+  "sideBlack": "Negras",
+  "sideUnknown": "No lo sé",
+  "importErrorEmpty": "El PGN está vacío.",
+  "importErrorTooLarge": "El PGN es demasiado grande (máximo 2 MB).",
+  "importErrorNoMoves": "No se encontraron jugadas en el PGN.",
+  "importErrorTooManyGames": "Demasiadas partidas en un solo archivo (máximo 500).",
+  "importErrorIllegal": "Jugada ilegal «{san}» en la partida {game}, jugada {move}.",
+  "@importErrorIllegal": {
+    "placeholders": {
+      "san": {
+        "type": "String"
+      },
+      "game": {
+        "type": "int"
+      },
+      "move": {
+        "type": "int"
+      }
+    }
+  },
+  "importErrorBadFen": "La posición inicial (FEN) no es válida o es de una variante no soportada.",
+  "importErrorTooLong": "La partida es demasiado larga (máximo 300 jugadas).",
+  "importedCount": "{count, plural, =0{No había partidas nuevas} =1{1 partida importada} other{{count} partidas importadas}}",
+  "@importedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "analyzeButton": "Analizar partida",
+  "analyzing": "Analizando… {done}/{total}",
+  "@analyzing": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "engineUnavailable": "No se pudo iniciar el motor: {error}",
+  "@engineUnavailable": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "tabMoves": "Jugadas",
+  "tabSummary": "Resumen",
+  "bestMoveWas": "Mejor: {san}",
+  "@bestMoveWas": {
+    "placeholders": {
+      "san": {
+        "type": "String"
+      }
+    }
+  },
+  "alternatives": "Alternativas del motor",
+  "tryIt": "Pruébalo tú",
+  "tryItPrompt": "Busca la mejor jugada para {side}",
+  "@tryItPrompt": {
+    "placeholders": {
+      "side": {
+        "type": "String"
+      }
+    }
+  },
+  "tryItCorrect": "¡Correcto! {san} era la mejor.",
+  "@tryItCorrect": {
+    "placeholders": {
+      "san": {
+        "type": "String"
+      }
+    }
+  },
+  "tryItWrong": "{san} no es la mejor. Inténtalo otra vez.",
+  "@tryItWrong": {
+    "placeholders": {
+      "san": {
+        "type": "String"
+      }
+    }
+  },
+  "tryItReveal": "Ver solución",
+  "startPosition": "Posición inicial",
+  "flipBoard": "Girar tablero",
+  "firstMove": "Primera jugada",
+  "prevMove": "Jugada anterior",
+  "nextMove": "Jugada siguiente",
+  "lastMove": "Última jugada",
+  "evalGraph": "Ventaja",
+  "moveOf": "{number}. {san}",
+  "@moveOf": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "san": {
+        "type": "String"
+      }
+    }
+  },
+  "moveOfBlack": "{number}… {san}",
+  "@moveOfBlack": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "san": {
+        "type": "String"
+      }
+    }
+  },
+  "clsBrilliant": "Brillante",
+  "clsGreat": "Genial",
+  "clsBook": "Teoría",
+  "clsBest": "Mejor",
+  "clsExcellent": "Excelente",
+  "clsGood": "Buena",
+  "clsInaccuracy": "Imprecisión",
+  "clsMiss": "Omisión",
+  "clsMistake": "Error",
+  "clsBlunder": "Error grave",
+  "clsForced": "Forzada",
+  "pieceName": "{piece, select, pawn{peón} knight{caballo} bishop{alfil} rook{torre} queen{dama} king{rey} other{pieza}}",
+  "@pieceName": {
+    "placeholders": {
+      "piece": {
+        "type": "String"
+      }
+    }
+  },
+  "explForced": "Era la única jugada legal.",
+  "explBook": "Jugada de teoría ({opening}).",
+  "@explBook": {
+    "placeholders": {
+      "opening": {
+        "type": "String"
+      }
+    }
+  },
+  "explBookPlain": "Jugada de teoría.",
+  "explBrilliant": "¡Brillante! Entregas material a cambio de una ventaja mayor.",
+  "explGreat": "La única buena jugada en esta posición. ¡Bien visto!",
+  "explBest": "La mejor jugada según el motor.",
+  "explGoodAlt": "Buena jugada. El motor prefería {best}.",
+  "@explGoodAlt": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      }
+    }
+  },
+  "explMiss": "Tu rival acababa de cometer un error y no lo aprovechaste.",
+  "explAllowsMate": "Esto permite mate en {n}: {line}.",
+  "@explAllowsMate": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      },
+      "line": {
+        "type": "String"
+      }
+    }
+  },
+  "explHanging": "{reply} gana tu {piece, select, pawn{peón} knight{caballo} bishop{alfil} rook{torre} queen{dama} king{rey} other{pieza}} de {square}, que había quedado sin defensa.",
+  "@explHanging": {
+    "placeholders": {
+      "reply": {
+        "type": "String"
+      },
+      "piece": {
+        "type": "String"
+      },
+      "square": {
+        "type": "String"
+      }
+    }
+  },
+  "explFork": "Tras tu jugada, {reply} es una horquilla: ataca a la vez tu {piece1, select, pawn{peón} knight{caballo} bishop{alfil} rook{torre} queen{dama} king{rey} other{pieza}} y tu {piece2, select, pawn{peón} knight{caballo} bishop{alfil} rook{torre} queen{dama} king{rey} other{pieza}}.",
+  "@explFork": {
+    "placeholders": {
+      "reply": {
+        "type": "String"
+      },
+      "piece1": {
+        "type": "String"
+      },
+      "piece2": {
+        "type": "String"
+      }
+    }
+  },
+  "explPin": "{reply} clava tu {piece, select, pawn{peón} knight{caballo} bishop{alfil} rook{torre} queen{dama} king{rey} other{pieza}} de {square} contra tu {behind, select, pawn{peón} knight{caballo} bishop{alfil} rook{torre} queen{dama} king{rey} other{pieza}}.",
+  "@explPin": {
+    "placeholders": {
+      "reply": {
+        "type": "String"
+      },
+      "piece": {
+        "type": "String"
+      },
+      "square": {
+        "type": "String"
+      },
+      "behind": {
+        "type": "String"
+      }
+    }
+  },
+  "explDiscovered": "{reply} descubre un ataque contra tu {piece, select, pawn{peón} knight{caballo} bishop{alfil} rook{torre} queen{dama} king{rey} other{pieza}}.",
+  "@explDiscovered": {
+    "placeholders": {
+      "reply": {
+        "type": "String"
+      },
+      "piece": {
+        "type": "String"
+      }
+    }
+  },
+  "explLosesMaterial": "Pierdes {n} puntos de material tras {line}.",
+  "@explLosesMaterial": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      },
+      "line": {
+        "type": "String"
+      }
+    }
+  },
+  "explEvalDrop": "Tu evaluación pasa de {before} a {after}.",
+  "@explEvalDrop": {
+    "placeholders": {
+      "before": {
+        "type": "String"
+      },
+      "after": {
+        "type": "String"
+      }
+    }
+  },
+  "explMissedMate": "Tenías mate en {n} empezando con {best}.",
+  "@explMissedMate": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      },
+      "best": {
+        "type": "String"
+      }
+    }
+  },
+  "explBestWins": "Era mejor {best}: ganabas {piece, select, pawn{un peón} knight{un caballo} bishop{un alfil} rook{una torre} queen{la dama} king{el rey} other{material}}.",
+  "@explBestWins": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      },
+      "piece": {
+        "type": "String"
+      }
+    }
+  },
+  "explBestFork": "Era mejor {best}: una horquilla que ataca {piece1, select, pawn{el peón} knight{el caballo} bishop{el alfil} rook{la torre} queen{la dama} king{el rey} other{la pieza}} y {piece2, select, pawn{el peón} knight{el caballo} bishop{el alfil} rook{la torre} queen{la dama} king{el rey} other{la pieza}} del rival.",
+  "@explBestFork": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      },
+      "piece1": {
+        "type": "String"
+      },
+      "piece2": {
+        "type": "String"
+      }
+    }
+  },
+  "explBestPin": "Era mejor {best}, que clava {piece, select, pawn{el peón} knight{el caballo} bishop{el alfil} rook{la torre} queen{la dama} king{el rey} other{la pieza}} rival.",
+  "@explBestPin": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      },
+      "piece": {
+        "type": "String"
+      }
+    }
+  },
+  "explBestDiscovered": "Era mejor {best}, con un ataque descubierto contra {piece, select, pawn{el peón} knight{el caballo} bishop{el alfil} rook{la torre} queen{la dama} king{el rey} other{la pieza}} rival.",
+  "@explBestDiscovered": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      },
+      "piece": {
+        "type": "String"
+      }
+    }
+  },
+  "explBestCheck": "Era mejor {best}: un jaque que mantiene la iniciativa.",
+  "@explBestCheck": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      }
+    }
+  },
+  "explBestCastle": "Era mejor {best}: poner el rey a salvo enrocando.",
+  "@explBestCastle": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      }
+    }
+  },
+  "explBestGeneric": "Era mejor {best}.",
+  "@explBestGeneric": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      }
+    }
+  },
+  "recHanging": "Antes de cada jugada, comprueba qué piezas quedan sin defensa. Practica problemas de «pieza colgada».",
+  "recFork": "Practica problemas de horquillas: aparecieron en tus errores.",
+  "recPin": "Repasa clavadas y ataques descubiertos con problemas de esos temas.",
+  "recMate": "Entrena patrones de mate (mate en 1 y en 2): hubo mates que se te escaparon o que permitiste.",
+  "recOpening": "Repasa la apertura {opening}: varios errores llegaron pronto.",
+  "@recOpening": {
+    "placeholders": {
+      "opening": {
+        "type": "String"
+      }
+    }
+  },
+  "recOpeningPlain": "Repasa tus aperturas: varios errores llegaron pronto.",
+  "recEndgame": "Practica finales: cometiste errores cuando quedaban pocas piezas.",
+  "recMiss": "Cuando tu rival se equivoque, busca jaques, capturas y amenazas para castigarlo.",
+  "recKeepGoing": "¡Buena partida! Sigue analizando partidas para descubrir tus patrones.",
+  "summaryAccuracy": "Precisión",
+  "summaryOpening": "Apertura",
+  "summaryLeftBook": "Saliste de la teoría en la jugada {move} ({san}). Jugadas de libro: {book}.",
+  "@summaryLeftBook": {
+    "placeholders": {
+      "move": {
+        "type": "int"
+      },
+      "san": {
+        "type": "String"
+      },
+      "book": {
+        "type": "String"
+      }
+    }
+  },
+  "summaryOpponentLeftBook": "Tu rival salió de la teoría en la jugada {move} ({san}).",
+  "@summaryOpponentLeftBook": {
+    "placeholders": {
+      "move": {
+        "type": "int"
+      },
+      "san": {
+        "type": "String"
+      }
+    }
+  },
+  "summaryInBook": "Toda la partida siguió la teoría.",
+  "summaryNoOpening": "Apertura sin nombre o posición inicial no estándar.",
+  "summaryPhases": "Rendimiento por fase",
+  "phaseOpening": "Apertura",
+  "phaseMiddlegame": "Medio juego",
+  "phaseEndgame": "Final",
+  "summaryWorstPhase": "Donde más fallaste: {phase}",
+  "@summaryWorstPhase": {
+    "placeholders": {
+      "phase": {
+        "type": "String"
+      }
+    }
+  },
+  "summaryPhaseLine": "{moves} jugadas · precisión {acc} % · {errors} errores",
+  "@summaryPhaseLine": {
+    "placeholders": {
+      "moves": {
+        "type": "int"
+      },
+      "acc": {
+        "type": "String"
+      },
+      "errors": {
+        "type": "int"
+      }
+    }
+  },
+  "summaryCritical": "Momentos críticos",
+  "summaryRecommendations": "Qué practicar",
+  "summaryCounts": "Clasificación de jugadas",
+  "tableNumber": "N.º",
+  "tableEval": "Eval.",
+  "tableBest": "Mejor",
+  "tableTime": "Tiempo",
+  "filterAll": "Todas",
+  "filterMyErrors": "Mis errores",
+  "filterBlunders": "Errores graves",
+  "exportPgn": "Exportar PGN anotado",
+  "puzzlesTitle": "Problemas",
+  "puzzleRating": "Rating {rating}",
+  "@puzzleRating": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleStreak": "Racha: {n}",
+  "@puzzleStreak": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "puzzleStart": "Empezar",
+  "puzzleThemes": "Temas",
+  "themeName": "{theme, select, mateIn1{Mate en 1} mateIn2{Mate en 2} mateIn3{Mate en 3} fork{Horquilla} pin{Clavada} skewer{Enfilada} discoveredAttack{Ataque descubierto} hangingPiece{Pieza colgada} sacrifice{Sacrificio} backRankMate{Mate del pasillo} trappedPiece{Pieza atrapada} doubleCheck{Jaque doble} endgame{Finales} promotion{Coronación} mix{Mezcla} own{Mis errores} other{Otro}}",
+  "@themeName": {
+    "placeholders": {
+      "theme": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleMyErrorsEmpty": "Analiza partidas para generar problemas con tus propios errores.",
+  "puzzleYourTurn": "Juegan {side}: encuentra la mejor jugada",
+  "@puzzleYourTurn": {
+    "placeholders": {
+      "side": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleCorrect": "¡Correcto! Sigue.",
+  "puzzleWrong": "No es la jugada. Prueba otra vez.",
+  "puzzleSolved": "¡Resuelto!",
+  "puzzleFailed": "No resuelto. Mira la solución y sigue practicando.",
+  "puzzleHint": "Pista",
+  "puzzleHintText": "Mueve {piece, select, pawn{el peón} knight{el caballo} bishop{el alfil} rook{la torre} queen{la dama} king{el rey} other{la pieza}} de {square}.",
+  "@puzzleHintText": {
+    "placeholders": {
+      "piece": {
+        "type": "String"
+      },
+      "square": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleSolution": "Solución",
+  "puzzleNoMore": "No hay más problemas con estos filtros. Descarga paquetes o cambia de tema.",
+  "puzzleFromGame": "De tu partida contra {opponent}",
+  "@puzzleFromGame": {
+    "placeholders": {
+      "opponent": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleExplainOwn": "En la partida jugaste {played}. La mejor era {best}.",
+  "@puzzleExplainOwn": {
+    "placeholders": {
+      "played": {
+        "type": "String"
+      },
+      "best": {
+        "type": "String"
+      }
+    }
+  },
+  "puzzleRatingChange": "Rating: {rating} ({delta})",
+  "@puzzleRatingChange": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      },
+      "delta": {
+        "type": "String"
+      }
+    }
+  },
+  "packsTitle": "Paquetes sin conexión",
+  "packsUsed": "Espacio usado: {size}",
+  "@packsUsed": {
+    "placeholders": {
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "packDownload": "Descargar",
+  "packDownloaded": "Descargado",
+  "packCount": "{count} problemas · {min}–{max}",
+  "@packCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "packError": "No se pudo descargar: {error}",
+  "@packError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "packsOfflineNote": "Los problemas descargados funcionan en modo avión. Ya incluyes {count} problemas de base.",
+  "@packsOfflineNote": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "packsIndexError": "No se pudo obtener la lista de paquetes. Comprueba tu conexión.",
+  "visionTitle": "Visión",
+  "visionIntro": "Aparece el nombre de una casilla: tócala lo más rápido posible.",
+  "visionSide": "Ver el tablero desde",
+  "visionCoords": "Mostrar coordenadas",
+  "visionMode": "Sesión",
+  "visionMode30": "30 s",
+  "visionMode60": "60 s",
+  "visionModeHits": "20 aciertos",
+  "visionStart": "Empezar",
+  "visionScore": "Aciertos: {n}",
+  "@visionScore": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "visionErrors": "Fallos: {n}",
+  "@visionErrors": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "visionTime": "{seconds} s",
+  "@visionTime": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "visionBest": "Récord: {n}",
+  "@visionBest": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "visionNewRecord": "¡Nuevo récord!",
+  "visionMisses": "Casillas que más fallas",
+  "visionAgain": "Otra vez",
+  "visionTapSquare": "Toca la casilla {square}",
+  "@visionTapSquare": {
+    "placeholders": {
+      "square": {
+        "type": "String"
+      }
+    }
+  },
+  "visionResultTime": "Tiempo: {time} s",
+  "@visionResultTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "visionNoMisses": "¡Sin fallos!",
+  "progressTitle": "Progreso",
+  "progressAccuracy": "Tu precisión por partida",
+  "progressPuzzleRating": "Rating de problemas",
+  "progressOpenings": "Tus aperturas",
+  "progressErrorTypes": "Tipos de error más frecuentes",
+  "errTactical": "Tácticos",
+  "errOpening": "De apertura",
+  "errEndgame": "De finales",
+  "errOther": "Otros",
+  "progressStreak": "{n, plural, =1{Racha diaria: 1 día} other{Racha diaria: {n} días}}",
+  "@progressStreak": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "progressDailyGoal": "Objetivo de hoy: {done}/{goal} problemas",
+  "@progressDailyGoal": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "goal": {
+        "type": "int"
+      }
+    }
+  },
+  "progressEmpty": "Aún no hay datos. Analiza partidas y resuelve problemas.",
+  "progressVision": "Visión: récord {best} · {sessions} sesiones",
+  "@progressVision": {
+    "placeholders": {
+      "best": {
+        "type": "String"
+      },
+      "sessions": {
+        "type": "int"
+      }
+    }
+  },
+  "openingStats": "{games} partidas · {win} % V · {draw} % T · {loss} % D",
+  "@openingStats": {
+    "placeholders": {
+      "games": {
+        "type": "int"
+      },
+      "win": {
+        "type": "int"
+      },
+      "draw": {
+        "type": "int"
+      },
+      "loss": {
+        "type": "int"
+      }
+    }
+  },
+  "openingAcc": "precisión media {acc} %",
+  "@openingAcc": {
+    "placeholders": {
+      "acc": {
+        "type": "String"
+      }
+    }
+  },
+  "onlineTitle": "Importar partidas",
+  "onlineUsername": "Nombre de usuario",
+  "onlineMax": "Cuántas partidas recientes",
+  "onlineImport": "Importar",
+  "onlineNotFound": "No existe el usuario «{user}».",
+  "@onlineNotFound": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "onlineRateLimited": "Demasiadas peticiones. Espera un minuto y vuelve a intentarlo.",
+  "onlineNetwork": "Sin conexión o el servidor no responde.",
+  "onlinePrivacy": "Solo se leen datos públicos. IraChess nunca te pedirá tu contraseña.",
+  "onlineProgress": "Descargando… {n} partidas",
+  "@onlineProgress": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "playTitle": "Jugar contra el motor",
+  "playLevel": "Nivel {level}",
+  "@playLevel": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "playColor": "Tu color",
+  "playRandom": "Al azar",
+  "playStart": "Empezar partida",
+  "playResign": "Rendirse",
+  "playAnalyze": "Analizar partida",
+  "playYouWin": "¡Ganaste!",
+  "playYouLose": "Perdiste",
+  "playDraw": "Tablas",
+  "playThinking": "El motor piensa…",
+  "playYourMove": "Tu turno",
+  "resultCheckmate": "Jaque mate",
+  "resultStalemate": "Tablas por ahogado",
+  "resultRepetition": "Tablas por triple repetición",
+  "resultFiftyMoves": "Tablas por la regla de los 50 movimientos",
+  "resultMaterial": "Tablas por material insuficiente",
+  "resultResigned": "Abandono",
+  "engineName": "IraChess (motor)",
+  "you": "Tú",
+  "settingsTitle": "Ajustes",
+  "settingsLanguage": "Idioma",
+  "languageSystem": "Del sistema",
+  "settingsTheme": "Tema",
+  "themeSystem": "Del sistema",
+  "themeLight": "Claro",
+  "themeDark": "Oscuro",
+  "settingsBoard": "Tablero",
+  "settingsPieces": "Piezas",
+  "settingsCoordinates": "Mostrar coordenadas en el tablero",
+  "settingsSound": "Sonidos de movimiento",
+  "settingsHaptics": "Vibración",
+  "settingsColorBlind": "Modo daltónico",
+  "settingsColorBlindHint": "Usa colores distinguibles para todas las clasificaciones.",
+  "settingsEngine": "Profundidad de análisis",
+  "presetFast": "Rápido",
+  "presetNormal": "Normal",
+  "presetDeep": "Profundo",
+  "presetHint": "Más profundo = más preciso, pero más lento y gasta más batería.",
+  "settingsDailyGoal": "Objetivo diario de problemas",
+  "settingsUsernames": "Tus usuarios",
+  "settingsLevel": "Tu nivel",
+  "settingsData": "Tus datos",
+  "exportData": "Exportar todo (JSON)",
+  "deleteAll": "Borrar todos mis datos",
+  "deleteAllConfirm": "Se borrarán todas tus partidas, análisis y progreso de este dispositivo. No se puede deshacer.",
+  "deletedAll": "Datos borrados",
+  "settingsAccount": "Cuenta y sincronización (opcional)",
+  "accountNotConfigured": "La sincronización no está configurada en esta compilación. Todo se guarda solo en este dispositivo.",
+  "accountEmail": "Email",
+  "accountSendCode": "Enviar código",
+  "accountCode": "Código recibido",
+  "accountVerify": "Verificar",
+  "accountSignedIn": "Conectado como {email}",
+  "@accountSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "accountSignOut": "Cerrar sesión",
+  "accountSyncNow": "Sincronizar ahora",
+  "accountSynced": "Sincronizado: {up} enviados, {down} recibidos",
+  "@accountSynced": {
+    "placeholders": {
+      "up": {
+        "type": "int"
+      },
+      "down": {
+        "type": "int"
+      }
+    }
+  },
+  "settingsAbout": "Acerca de IraChess",
+  "aboutBody": "IraChess es software libre bajo la licencia GPL-3.0. Usa Stockfish (GPL-3.0), dartchess y chessground de Lichess (GPL-3.0), el libro de aperturas y los problemas de Lichess (CC0). Este programa se ofrece SIN NINGUNA GARANTÍA.",
+  "sourceCode": "Código fuente",
+  "licenses": "Licencias de terceros",
+  "privacy": "Privacidad",
+  "privacyBody": "IraChess guarda tus datos solo en este dispositivo. Solo se conecta a internet para importar partidas públicas de Lichess o Chess.com, descargar paquetes de problemas y, si activas una cuenta, sincronizar tu progreso. No hay anuncios ni analíticas. Puedes exportar o borrar todo en cualquier momento.",
+  "onboardWelcome": "Bienvenido a IraChess",
+  "onboardBody": "Aprende de tus propias partidas: te explicamos cada error en lenguaje sencillo y qué jugada era mejor. También tienes problemas sin conexión y un entrenador de visión del tablero.",
+  "onboardLevel": "¿Cuál es tu nivel?",
+  "levelBeginner": "Empezando (menos de 800)",
+  "levelNovice": "Aficionado (800–1200)",
+  "levelIntermediate": "Intermedio (1200–1600)",
+  "levelAdvanced": "Avanzado (1600 o más)",
+  "onboardStart": "Empezar",
+  "onboardHowTo": "Pega un PGN en «Analizar», elige con qué color jugabas y pulsa «Analizar partida».",
+  "boardThemeName": "{theme, select, slate{Pizarra} sand{Arena} sage{Salvia} plum{Ciruela} other{Tablero}}",
+  "@boardThemeName": {
+    "placeholders": {
+      "theme": {
+        "type": "String"
+      }
+    }
+  }
+}

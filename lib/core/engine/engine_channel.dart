@@ -12,3 +12,6 @@ abstract interface class EngineChannel {
 
 /// Abre el motor adecuado para la plataforma actual.
 Future<EngineChannel> openEngineChannel() => impl.openEngineChannel();
+
+/// Hilos recomendados: la mitad de los núcleos (máx. 4) para cuidar la batería.
+int defaultEngineThreads() => impl.defaultEngineThreads();
