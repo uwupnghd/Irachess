@@ -1,0 +1,400 @@
+05rib,1k1r3r/2p2pp1/Qp2p1n1/7p/Pq1b2nP/5NP1/5PB1/R1B1R1K1 w - - 1 20,f3d4 b4e1 a6f1 e1f1,1529,93,crushing hangingPiece kingsideAttack middlegame short
+05t9I,4bk2/p1p2p2/1pP5/5N1p/n2B1n2/5P2/2B3PP/7K b - - 1 37,f4e6 c2a4 e6d4 f5d4,1569,91,advantage endgame hangingPiece short
+06O8g,r2q1rk1/1pp1b1p1/p1n2n1p/3pN3/1P5B/2NP4/P1P2PPP/R2QR1K1 w - - 1 15,c3d5 f6d5 e5c6 b7c6 h4e7 d5e7,1665,96,advantage hangingPiece long opening
+06XlC,6k1/1p4P1/5K2/2P1n3/p7/4N3/8/8 b - - 5 56,a4a3 f6e5 a3a2 e3c2 a2a1q c2a1,1763,95,crushing endgame hangingPiece knightEndgame long quietMove
+06ZHc,3Q1bk1/3n1ppp/1p4q1/8/8/B4B1P/1P3PP1/6K1 b - - 5 31,h7h5 d8d7 f8a3 b2a3,1708,93,crushing endgame hangingPiece short
+06cAQ,r7/4R3/1pkp4/p1pn4/5B2/2Nb4/P5PP/2R3K1 w - - 2 28,f4g3 d5e7 c1d1 c5c4,1602,93,advantage defensiveMove hangingPiece middlegame short
+06nNY,r2q1bnr/pp4k1/2pp1Nb1/4p2p/B3P2P/3P1Q2/PPP2P2/R3K1R1 w Q - 5 20,g1g6 g7g6 f3f5 g6g7,2069,92,advantage hangingPiece middlegame short
+06nTK,r1b2r1k/ppp3pp/1qn2p2/2b5/2BN4/2P1B3/PP3PPP/R2Q1RK1 w - - 5 16,d4f5 c8f5 e3c5 b6c5,1538,88,advantage hangingPiece opening short
+06vF7,rn2k1nr/1pp2p1p/p2pb1q1/7Q/2BPPp2/2N5/PPP3P1/R1B2K1R w kq - 1 12,h5g6 e6c4 f1g1 f7g6,1592,89,advantage hangingPiece intermezzo opening short
+06yUK,r4rk1/1p2bppp/p1bp1n2/3Np3/P1P1P3/1q1Q2P1/1B3PBP/R2R2K1 b - - 1 17,b3d3 d5e7 g8h8 d1d3,1582,89,crushing hangingPiece intermezzo middlegame short
+06z05,r1b1r1k1/ppp2p1p/5Bp1/4P2q/5R2/2P1Q3/Pn4PP/RN4K1 b - - 0 19,b2c4 f4c4 h5d1 g1f2,1683,88,crushing hangingPiece middlegame short
+073LS,R4bk1/8/6P1/1pr2N2/5K2/p7/8/8 b - - 6 47,c5f5 f4f5 b5b4 f5f6 a3a2 a8a2,2058,93,crushing endgame hangingPiece long master
+07CGX,2r5/3K3p/k2P2p1/R4p2/1P6/2p3P1/7r/8 b - - 3 36,a6b6 d7c8 c3c2 a5c5 c2c1b c5c1,1653,94,advantage endgame hangingPiece long rookEndgame
+07HUa,r4rk1/1b2qpp1/p3p3/1p2N2p/1P1PNn2/P3nB1P/3Q2P1/2R2RK1 b - - 5 30,e3f1 d2f4 b7e4 f3e4,1651,94,advantage hangingPiece middlegame short
+07JLL,rn1qk2r/pp3pp1/3pbb1p/4pN2/4P3/3B4/PPP2PPP/RN1QK2R w KQkq - 0 10,f5d6 d8d6 d3b5 e8e7,1705,93,crushing defensiveMove hangingPiece opening short
+07R2h,3q2k1/1Q2rpb1/3Pn2p/2P3p1/8/P5P1/1P4BP/3R2K1 w - - 1 36,d6e7 d8d1 g2f1 g7d4 g1g2 e6f4 g3f4 d1g4 g2h1 g4g1,2061,96,endgame hangingPiece mate mateIn5 veryLong
+07h4W,3r2k1/4qp1p/6p1/p4bP1/1pRN1P1P/1P1pP3/P2Q4/1K6 b - - 2 38,e7e3 d2e3 d3d2 d4f5 d2d1q c4c1,1634,94,crushing endgame hangingPiece long
+07ybB,1r5r/1q3pkp/5bp1/1B6/P7/R6b/5Q1P/1R4K1 b - - 0 31,f6d4 f2d4 f7f6 a3h3,1621,93,advantage hangingPiece middlegame short
+080U6,7R/p4k2/1p3B2/3p1nP1/3P1K1P/P4P2/7r/5b2 b - - 6 53,h2h4 f4f5 h4h8 f6h8 f1g2 f3f4 g2e4 f5e5,2061,88,crushing endgame hangingPiece quietMove veryLong
+08COQ,7k/R1R3p1/6r1/5p1p/3rb2P/1B4P1/PP5K/8 w - - 0 34,a7a8 e4a8 c7c8 h8h7,1682,92,crushing endgame hangingPiece short
+08KDw,2r4k/6p1/3p3p/p2qpQ2/8/P1P3PK/1r3R1P/5R2 b - - 3 33,b2f2 f5c8 d5g8 c8g8 h8g8 f1f2,1529,100,crushing endgame hangingPiece long
+08QZq,r1b2rk1/1p3pbp/1q2p1p1/pN2Pn2/P1B5/1P6/5PPP/R1BQR1K1 b - - 0 15,c8d7 d1d7 a8d8 d7c7 b6c7 b5c7,1561,88,advantage hangingPiece long middlegame
+08uBQ,5rk1/4q2p/4pppP/1p1b4/pNrQ1P2/3B2P1/PKP5/3R4 w - - 4 30,d3c4 e7b4 c4b3 b4d4 d1d4 a4b3,1765,96,advantage hangingPiece long master middlegame
+08uis,8/8/4p1p1/3kP1P1/1p3P2/3K2b1/4N3/8 b - - 3 49,b4b3 e2g3 b3b2 d3c2 b2b1q c2b1,1576,92,crushing endgame hangingPiece long
+08xX1,1k5r/ppqbbpp1/2p2n1r/4p1Q1/4P3/2N3PP/PPP2PB1/3R1RNK b - - 2 20,f6e4 g5e7 d7h3 e7c7,1645,94,advantage hangingPiece middlegame queensideAttack short
+09CJh,rn2kb1r/p4ppp/2p2q2/3p4/3Q2b1/5N2/PPP2PPP/RNB1K2R b KQkq - 0 9,f8e7 d4g4 f6e6 g4e6,1854,91,advantage hangingPiece opening short
+09VPj,1r3rk1/p1q3bp/1p2p1p1/5p2/2N1R1N1/2P2P2/PPQ3PP/3R2K1 w - - 0 23,e4e6 c7c4 c2e2 c4e2 e6e2 f5g4,1915,92,advantage hangingPiece long middlegame
+09XB5,r1b2rk1/ppp3pp/2n5/2bn4/4p2q/P1P1B2P/1P2BPPN/RN1Q1RK1 b - - 3 12,c5e3 d1d5 g8h8 f2e3,1510,96,advantage hangingPiece intermezzo opening short
+09Xpo,2b1r1k1/4pp1p/3p1npB/3q2P1/2Q5/5Pr1/1P2B2K/1R3R2 b - - 2 29,d5f5 h2g3 f5h3 g3f2,1738,93,advantage hangingPiece middlegame short
+09hUj,r3kb1r/pp2pp1p/2pq1np1/8/2BP2b1/2N2N2/PPP2PPP/R2Q1RK1 w kq - 0 10,c4f7 e8f7 f3e5 d6e5 d4e5 g4d1,1798,93,advantage hangingPiece long opening
+09o3s,3r2k1/1p3ppp/p2Nr3/2pQ4/4P1q1/4K3/PP3PP1/R1BR4 w - - 5 24,d5c5 g4d1 c1d2 d1a1,2039,88,crushing hangingPiece middlegame short
+0A9YO,rn2k1nr/pQp2pbp/6p1/2q5/8/4P3/PP3PPP/RNB1K1NR w KQkq - 1 10,b7a8 c5c1 e1e2 c1b2,1559,96,advantage hangingPiece opening short
+0AByB,rn2k2r/pQ3ppp/3qpn2/1p6/1P6/P2B3P/2P2PP1/R4RK1 b kq - 0 17,e8g8 b7a8 b8c6 a8b7,1503,96,advantage hangingPiece middlegame short
+0AL2v,2r3k1/6Pp/8/2P2p2/p2Bp3/Pr1bP3/3K1PP1/2R4R w - - 4 32,h1h7 g8h7 c1h1 h7g6 h1h8 b3b8,1769,95,advantage defensiveMove endgame hangingPiece long
+0ASbW,8/4B3/6p1/5b1p/1P5P/R2k1r2/8/3K4 b - - 0 74,d3c4 a3f3 f5g4 d1e2 c4d4 e2f2,1827,92,crushing defensiveMove endgame hangingPiece long master
+0Ag9s,rr4k1/2p1q2p/2Qp2p1/1NpPpp2/2P1P3/P4P2/6PP/4R1K1 b - - 0 26,b8b5 c6a8 g8g7 c4b5,1599,92,crushing endgame hangingPiece intermezzo master short
+0Ak5t,3kr2r/pp1n2pp/q1p1R3/8/1nNP1p1N/3Q4/PPP2PPP/4R1K1 w - - 3 24,d3f5 a6c4 e6e8 h8e8 f5g5 d7f6 e1e8 d8e8,1588,96,advantage hangingPiece middlegame veryLong
+0AkKC,5r2/4Npkn/pqbp2p1/4p1b1/2P5/4NPP1/PP2PK2/R2Q3R w - - 2 25,h1h7 g7h7 d1b3 b6b3 a2b3 g5e7,1838,92,advantage hangingPiece long middlegame
+0AxI1,2br1qk1/ppN1rpbp/2nN2p1/5p2/3P4/1PP3P1/P4PBP/R2Q1RK1 w - - 1 18,d6c8 e7c7 c8a7 c6a7,1573,93,advantage hangingPiece middlegame short trappedPiece
+0B0ve,4Q3/kb1R4/p1q3p1/1p5p/8/P5bP/2P2rP1/3R3K w - - 0 34,d7b7 a7b7 e8c6 b7c6,1939,91,crushing endgame hangingPiece short
+0B6s8,r4r2/1ppqnp1k/p2p1n1p/4pNp1/P3P2N/2PP2R1/2Q2PPP/R5K1 w - - 0 19,f5e7 g5h4 g3h3 d7e7,1693,95,advantage hangingPiece intermezzo middlegame short
+0BbQS,r4rk1/pppq2pp/2np4/3Npn2/5P1N/1P1P4/1PP3PP/R2Q1RK1 w - - 0 15,f4e5 f5h4 f1f8 a8f8,1734,91,crushing hangingPiece middlegame short
+0BbXb,2k1r3/ppp3pp/5p2/8/3rN1n1/5QP1/PPP1KPP1/R2R3q b - - 13 21,d4d1 f3g4 c8b8 a1d1,1980,93,advantage hangingPiece intermezzo middlegame short
+0BcqE,r2r4/BR4pk/2p2pp1/4n3/P1P5/2b2BP1/5P1P/3R2K1 w - - 2 29,d1d8 e5f3 g1g2 f3e1 g2f1 a8d8,1927,92,advantage hangingPiece long middlegame
+0BfnJ,6k1/3PK3/8/4P3/8/p2r1Rpp/8/8 b - - 1 47,d3d7 e7d7 g3g2 f3g3 g8h7 g3h3 h7g6 h3g3 g6f5 g3g2,1993,93,crushing endgame exposedKing hangingPiece master rookEndgame veryLong
+0BpJx,3rr1k1/pQ3ppp/2n5/8/4P3/5B2/q4PPP/1R3RK1 b - - 0 18,d8b8 b7c6 a2b1 c6e8 b8e8 f1b1,1702,95,crushing hangingPiece long middlegame
+0BsfT,3q3k/pp1r2pp/1bn2p2/3P4/5B2/PB3N1P/1PP2QP1/1K1R4 w - - 1 29,d5c6 d7d1 b1a2 b6f2 c6b7 d1d6,1819,96,advantage defensiveMove hangingPiece long middlegame
+0CDKw,4rrk1/5p2/p5p1/1pq1nRN1/2p1P2p/5R1P/PPP1Q1P1/7K b - - 1 29,e5f3 f5c5 f3g5 c5g5,1739,91,advantage hangingPiece middlegame short
+0CF33,2r2rk1/1p1bqppp/2p1p3/1p1pN1n1/3P3Q/3BPP2/PPP3PP/R4RK1 b - - 2 17,g5f3 e5f3 e7h4 f3h4,1554,99,advantage hangingPiece middlegame short
+0CIIu,8/k1KN1pp1/P7/1P3P2/2n4p/8/8/8 w - - 0 43,d7e5 c4e5 b5b6 a7a6 b6b7 e5d7 c7d7 a6b7,1844,96,crushing deflection endgame hangingPiece knightEndgame quietMove veryLong
+0CL8L,Rb6/5kpp/3p1p2/P2r4/1p5P/2B3P1/5P2/6K1 w - - 0 35,a8b8 b4c3 a5a6 c3c2,1763,90,advancedPawn crushing endgame hangingPiece short
+0CWQU,2r5/pp5k/1p4bp/2qPQ1p1/4P1P1/3B3P/PPP2R2/2K5 w - - 1 28,e5e6 c5f2 e6d7 g6f7 e4e5 h7g7,1880,94,advantage defensiveMove endgame hangingPiece long
+0Cz4W,1k3b1r/1qr4p/5Qp1/3P4/8/R4P2/1PP3PP/3R2K1 b - - 0 31,f8a3 f6h8 b7c8 h8c8 b8c8 b2a3,1518,95,crushing endgame exposedKing hangingPiece long
+0D5Vn,8/p6p/1p2k1pb/8/2P1NP2/1P2pK2/P6P/8 b - - 0 33,h6f4 f3f4 e3e2 e4g5 e6f6 g5f3,1673,97,advantage defensiveMove endgame exposedKing hangingPiece long
+0D62O,r1r3k1/1p3p1p/4pBp1/pq6/1bR4Q/4P2P/P4PP1/5RK1 w - - 4 22,h4h7 g8h7 c4h4 b5h5 h4h5 g6h5,1600,95,crushing hangingPiece long middlegame
+0DIhL,r7/5p1p/q3pkp1/8/2RP4/p1P1P1P1/Q6P/6K1 b - - 0 41,a6c4 a2c4 a3a2 c4f1 f6e7 f1a1,1710,92,advantage endgame hangingPiece long
+0DLyK,8/7R/2k3r1/ppb1p1PP/4r3/2P5/PP6/1K4R1 b - - 0 28,c5g1 h5g6 e4g4 h7h5 g1c5 g6g7,1797,96,advancedPawn crushing endgame hangingPiece long quietMove
+0DuBa,r1r3k1/p2q1pbp/2pB2p1/R2n4/3R4/1PN4P/1PPQ1PP1/6K1 w - - 11 24,c3d5 d7d6 d4d3 c6d5,2001,92,advantage hangingPiece middlegame short
+0EB9f,6k1/pp2pp1p/6pB/3p4/7P/P2Q1P1R/1K4q1/5n2 w - - 0 31,b2b3 g2h3 d3d4 h3f3,1572,94,advantage endgame hangingPiece short
+0EFjb,1r1q1rk1/pb3pbp/1p2pNp1/2p1nnP1/6N1/2PP4/PP4BP/R1BQ1RK1 b - - 6 17,g8h8 g4e5 g7f6 g5f6 b7g2 g1g2 d8d5 e5f3,1657,94,advantage defensiveMove hangingPiece middlegame veryLong
+0EK3b,r4rk1/pbppqpp1/1p3R1p/4b3/7Q/1P1BP3/PBP3PP/RN5K w - - 0 14,d3h7 g8h7 f6h6 g7h6 h4e7 e5b2,1808,90,advantage hangingPiece long master middlegame
+0EZiG,1Rb3k1/4q1pp/3nPr2/3R1BQ1/p2P2PP/P1r5/5P2/6K1 w - - 0 39,d5d6 e7d6 e6e7 d6e7,1964,91,crushing hangingPiece middlegame short
+0Eic0,2nr3r/ppk1b1pp/2p2p2/8/2P2P2/BP1R2N1/P5PP/2KR4 w - - 5 22,d3d8 e7a3 c1c2 h8d8 d1d8 c7d8,1503,95,advantage hangingPiece intermezzo long middlegame
+0Eivw,r5k1/2p2Npp/pn6/Bp2p3/4q1PQ/P7/1PP4P/2K2B1R w - - 1 28,f1d3 e4h1 a5e1 g8f7,1855,92,advantage hangingPiece middlegame short
+0EjQX,2r2rk1/5p1p/p3bQpP/8/P4R2/3Bq3/6P1/2q2R1K b - - 0 28,c1f1 d3f1 e3c3 f4d4 c3d4 f6d4,2031,93,advantage hangingPiece long middlegame quietMove
+0Ema0,r2q1r2/p2pR1pk/1pbP2pp/8/5Q2/2P5/PB3PPP/R5K1 w - - 4 23,e7g7 h7g7 c3c4 g7h7 f4d4 f8f7,2074,92,crushing hangingPiece long middlegame
+0Eonx,6k1/3R1pp1/6r1/pN2P2p/Ppr2P1n/7P/1P1R2PK/8 w - - 2 32,d7f7 g8f7 b5d6 g6d6,1793,92,advantage endgame hangingPiece short
+0F81Q,5rk1/pp6/2p1R1p1/6q1/4N1Pn/2P3Q1/PP6/1K2Rr2 b - - 10 39,g5f4 g3h4 f1e1 h4e1,1872,91,crushing hangingPiece master middlegame short
+0FMfI,r1b1k2r/ppp1qppp/2n5/8/3QB3/5N2/PPP2PPP/R3K2R w KQkq - 1 11,d4g7 e7e4 e1f1 e4c4 f1g1 h8f8,1937,92,advantage defensiveMove hangingPiece long middlegame
+0FUA7,3r2k1/pp3ppp/8/3B4/3P2b1/6P1/PP2rP1P/R4RK1 w - - 1 19,f1e1 d8d5 e1e2 g4e2 a1e1 e2b5,1684,95,advantage defensiveMove endgame hangingPiece long
+0FW07,2r5/2q3k1/Q1n5/3pppp1/1p2nb2/1N1B4/PPP2PR1/1K4R1 w - - 0 32,b3c5 e4c5 g2g5 f4g5,1731,92,crushing hangingPiece middlegame short
+0FgOU,3r1k2/1pp2ppp/5nb1/2PNn1B1/p3P1P1/2Pr3P/P5B1/2R1R1K1 b - - 8 25,f6d5 g5d8 d5f4 d8c7,1788,93,advantage hangingPiece middlegame short
+0FomP,r1b1k2r/ppq1bppp/2n2n2/1BppN3/8/2N1B2P/PPP2PP1/R2QK2R w KQkq - 0 11,c3d5 c7e5 b5c6 b7c6,2026,92,crushing hangingPiece opening short
+0Fy1b,3rr1k1/1pb2p1p/2p2p2/1p3P2/nP1pBP2/P2P2P1/4N1KP/3R1R2 b - - 4 23,e8e4 d3e4 d4d3 e2c1 a4b2 d1d2,1865,93,advantage hangingPiece long master middlegame
+0G3dE,3r1k2/1p3pp1/p6p/3N1Q2/2r1nP2/P5qP/1P4P1/3RR1K1 b - - 3 31,c4c2 f5e4 c2g2 e4g2,1511,96,crushing hangingPiece master middlegame short
+0GAMZ,6k1/2p1Np1p/2q5/3p4/3b4/p7/6PP/4R2K b - - 5 39,g8f8 e7c6 d4c3 e1e2 c3b2 c6b4 c7c5 b4a2,1962,91,advantage defensiveMove endgame hangingPiece quietMove veryLong
+0GPcj,2b3k1/2P1N2p/8/1p6/2p5/7P/6PK/3r4 b - - 4 49,g8f7 e7c8 d1d5 c8d6 f7e6 c7c8q,1645,94,advancedPawn advantage endgame exposedKing hangingPiece long promotion
+0Gbrn,8/8/8/1p2p3/p1k4p/5RbP/1PK3P1/8 w - - 2 49,f3g3 h4g3 h3h4 c4d5,2005,95,crushing defensiveMove endgame hangingPiece short
+0GkKr,2r1r1k1/5ppp/p2q4/P2pP3/1PbQ4/2P3R1/6PP/4R1K1 w - - 0 33,e5d6 e8e1 g1f2 e1f1 f2e3 c8e8,1584,90,crushing endgame hangingPiece long
+0GlZG,r5k1/1Q3pp1/p3q3/5n2/3P3r/4P3/PP3PP1/R4RK1 b - - 0 31,e6h6 b7a8 g8h7 g2g3 f5g3 f2g3,1579,95,crushing hangingPiece long middlegame
+0Gs4M,r2q4/pb6/1p4pk/2pN1pR1/7r/2Q5/PPP1BP2/1K1R4 w - - 2 23,d5f4 d8g5 f4e6 g5e7,1806,90,advantage hangingPiece middlegame short
+0H8uD,5r1k/p6p/bp2QppP/8/2p5/1P2PqP1/P4P2/R2R2K1 w - - 1 23,d1d8 f8d8 e6e7 d8g8,1902,94,advantage defensiveMove endgame hangingPiece master short
+0HMBI,8/8/1P1npk2/8/8/6K1/3p1N2/8 b - - 1 63,d6e4 f2e4 f6e7 e4d2,1504,94,crushing endgame hangingPiece knightEndgame short
+0HSvH,r1bq1rk1/p1pp1ppp/2p5/8/2B1n3/2B5/PPP2PPP/R2Q1RK1 w - - 0 12,c3g7 g8g7 d1g4 e4g5 f2f4 d7d5,1877,93,advantage hangingPiece long middlegame
+0HUvZ,r1bq1rk1/pppp1ppp/8/8/2B1n3/2B5/PPP2PPP/R2Q1RK1 w - - 0 11,c3g7 g8g7 d1g4 e4g5,1612,95,advantage defensiveMove hangingPiece middlegame short
+0HbWu,8/8/4nkp1/1N1R4/p3p1K1/r5P1/7P/8 b - - 1 48,e4e3 b5a3 e3e2 a3c2,1517,93,crushing defensiveMove endgame hangingPiece short
+0HgjA,1k1r3r/pp6/4Bn2/b1P2ppp/4p3/4P1PP/1B3PN1/5RK1 b - - 0 30,d8d2 b2f6 h8h6 f6e5 a5c7 e5c7,1764,93,advantage hangingPiece long middlegame queensideAttack
+0IIdR,3r1rk1/Nb1qnppp/1p6/p3PN2/P3p3/1PP1Q1P1/7P/3R1RK1 b - - 0 26,d7d1 f5e7 g8h8 f1d1,1540,94,advantage hangingPiece intermezzo middlegame short
+0IZXa,1k1r2r1/pp5R/2R5/4Pp2/6q1/P5P1/1pQ2P2/6K1 w - - 1 31,h7b7 b8b7 c6c7 b7b8 c2b2 b8c7,1957,93,crushing endgame hangingPiece long
+0Imne,r3rk2/n1pnqppB/8/1p1p4/3P4/pPP2N1P/P1Q2P2/2KR2R1 w - - 2 21,g1g7 f8g7 d1g1 g7h8,1836,91,advantage hangingPiece middlegame short
+0Iw4n,3r2k1/3r1ppp/8/1Q1n4/R2Bq3/4P2P/5PP1/1R4K1 w - - 7 30,b5d7 e4b1 g1h2 b1b8 d4e5 b8e5,1827,91,advantage hangingPiece long middlegame
+0IyJl,3r1rk1/pp1nqpbp/2p1b3/4pP2/2P1N3/1P6/P3B2P/R1BQ1RK1 b - - 0 22,e6f5 f1f5 d7c5 d1c2,1818,92,advantage defensiveMove hangingPiece middlegame short
+0J2js,4rr2/pp3pk1/1q1p2p1/2p2P1p/6n1/1P1P2N1/P1P3PP/1RQ2R1K w - - 1 22,g3h5 g6h5 c1g5 g7h7 g5h5 g4h6,1695,94,advantage hangingPiece long middlegame
+0J5T0,rn2k2r/pp2ppbp/3p1np1/q1pP4/2P1PPb1/2NB1N2/PP4PP/R1BQK2R b KQkq - 4 8,f6e4 d3e4 g7c3 b2c3 a5c3 c1d2,1558,94,advantage hangingPiece long master middlegame
+0J66z,r1b2q1k/pp2br1P/2p1p3/4Pp2/3PN1Q1/1B1n1N2/PP1K1PP1/R6R w - - 0 22,g4g3 f5e4 g3g8 f8g8 h7g8b h8g8,1729,92,advantage hangingPiece long middlegame
+0JblX,3r1k1r/p1p2ppp/8/1B6/6P1/2Q1q3/PPPR2PP/2K4n b - - 5 19,e3c3 d2d8 f8e7 d8d7 e7e6 b2c3,1800,95,advantage endgame hangingPiece long
+0Jbwx,r3r1k1/1pp2ppp/p1n5/q3P3/6b1/3BQN2/PP3PPP/R2R2K1 w - - 4 21,d3h7 g8h7 e3e4 f7f5,1598,94,advantage hangingPiece middlegame short
+0JrdJ,4rrk1/pp1n3p/2pb1pp1/q7/3P4/2PQB3/PP2NPP1/1K1R3R w - - 4 16,h1h7 g8h7 d1h1 h7g7 e3h6 g7f7,1605,93,advantage defensiveMove hangingPiece long master middlegame
+0JtUr,3bn1k1/1b5p/1P1p2p1/3Pp3/1Q2P3/2N1B2P/6PK/q1N5 w - - 9 31,b4b1 a1c3 b1b5 e8f6,2086,90,advantage hangingPiece master middlegame short
+0K9xB,2r2rk1/p4ppp/1p3n2/2qpR1Bb/3N1P2/1B6/PP4PP/R2Q2K1 w - - 1 21,d1c2 c5d4 c2f2 d4f2 g1f2 f6g4,1530,96,attraction crushing hangingPiece kingsideAttack long middlegame
+0KJU6,5b1k/p1p2Qp1/1p6/8/1PP5/P2Pp1P1/8/3q2NK b - - 7 37,e3e2 f7f8 h8h7 f8f5 g7g6 f5f7,1903,88,crushing endgame hangingPiece long
+0KWv7,2r4k/pp4pp/2b5/8/2BRnrP1/2P2N1P/PP3P2/R5K1 w - - 5 22,a1d1 f4f3 d4d8 f3f8 d8c8 f8c8,1782,92,advantage hangingPiece long middlegame
+0L8oT,8/5Rpk/5nqp/8/2QPp3/1p2P1P1/5P1P/1r3BK1 b - - 2 33,b1f1 g1f1 b3b2 f7b7,1647,94,advantage endgame hangingPiece master short
+0LDss,8/8/2k2P2/6PK/8/8/3p4/R3r3 w - - 2 54,f6f7 e1a1 f7f8q d2d1q,1625,96,advancedPawn crushing endgame hangingPiece promotion rookEndgame short
+0LMEz,1r3rk1/2q2pp1/7p/p1bpPQ2/2p2P2/P1P1BR2/1P4PP/1R4K1 b - - 0 22,c5a3 b2a3 b8b1 f5b1,1531,94,crushing hangingPiece middlegame short
+0LSaC,1rr5/k4p1p/B1Qp3q/1PnPp1p1/8/8/P4P1N/R1R3K1 w - - 3 29,b5b6 a7a6 c1c5 c8c6,1821,88,advantage hangingPiece middlegame short trappedPiece
+0Lbpz,r1b1k1nr/p1p2ppp/8/1pbq4/8/2PB1n2/PP1P1PPP/RNBQK2R w KQkq - 0 9,g2f3 d5d3 d1e2 d3e2,1516,93,crushing hangingPiece opening short
+0LlYi,r4rk1/1q1bnppp/p2Qp3/2R1P3/1p6/1B3N2/PP3PPP/5RK1 b - - 2 20,a8c8 d6e7 c8c5 e7c5,1679,89,advantage hangingPiece middlegame short
+0LxxH,4k2r/pp4pp/2rBPp2/2bp1Q2/3q4/8/PP3PPP/2R2RK1 w k - 8 20,f1d1 c5d6 f5h5 g7g6,2084,92,advantage hangingPiece middlegame short
+0LzPe,Qn1q1rk1/4pp1p/p2p2p1/2pP2N1/2P1b3/8/Pb1B1PPP/R3KB1R b KQ - 1 15,b2a1 g5e4 d8b6 f1d3 b8d7 a8c6,1967,93,advantage hangingPiece long middlegame quietMove
+0M5yq,2r3k1/p2nppbp/6p1/8/2n1P3/2N2P1N/PP2K1PP/2B2R2 b - - 6 19,c4b2 c1b2 c8b8 b2a1,1965,89,advantage defensiveMove hangingPiece master middlegame short
+0MEFV,2r5/5p1k/5p1p/p2Rp3/Pr2P2P/1Np5/1bP5/1KBR4 b - - 4 34,b4b3 c2b3 c3c2 b1b2 c2d1n d5d1,1586,98,advantage endgame hangingPiece long
+0MPm9,1r3r2/6k1/p1p2p2/2qppP1p/6bP/1PN5/P1PQ2P1/4RR1K w - - 0 24,e1e5 f6e5 d2g5 g7f7,1783,92,advantage defensiveMove hangingPiece middlegame short
+0MTCl,r1bqk2r/2p1bp2/p4n2/1p1p3p/1Pn1pNpP/P1N3P1/1BPPPPB1/R2QK2R w KQkq - 4 14,c3d5 c4b2 d5f6 e7f6,1626,90,advantage hangingPiece middlegame short
+0MVYc,6rk/3n1q1p/5p1B/1pb1pP1b/p3P3/2P2N1P/P5RK/5Q1B w - - 12 38,f1b5 h5f3 g2g8 f7g8,2020,91,crushing hangingPiece master middlegame short
+0Mvhm,r1bq1rk1/pp3ppp/3p4/3Pp2n/3bP1P1/2NB1P2/PP5P/R1BQ1K1R b - - 0 12,c8g4 f3g4 d8f6 f1g2 h5f4 c1f4,1792,92,advantage hangingPiece long middlegame
+0N5sE,4k2r/6pp/p3p3/1p2n1Q1/8/1Prq3P/P5P1/K3RR2 b k - 5 26,c3c2 g5e5 d3c3 e5c3,1569,93,advantage hangingPiece middlegame short
+0NK3D,r7/pp3kpQ/2b1pr1p/8/2p1B3/2PpR1Pq/PP3P1P/R5K1 b - - 1 26,a8h8 h7h8 c6e4 e3e4,1578,100,advantage hangingPiece middlegame short
+0Nbfn,2k4r/pp3p2/6N1/2p2n1p/5r1q/2BP3Q/PPP4K/R4R2 b - - 0 25,f7g6 c3h8 h4h3 h2h3,2014,94,crushing hangingPiece middlegame short
+0NjXJ,2rr2k1/1Q3ppp/p4b2/1p6/4p3/1P3N1P/Pq3PP1/1RR3K1 w - - 0 24,b1b2 c8c1 g1h2 e4f3,2040,91,crushing hangingPiece middlegame short
+0NmRM,rn1q1rk1/pp3ppp/3b4/3p4/6b1/2PB1N2/PP3PPP/R1BQ1R1K w - - 2 12,d3h7 g8h7 f3g5 d8g5 c1g5 g4d1,1931,93,advantage hangingPiece long opening
+0NsGS,8/5bpp/2P5/p7/B2K1P2/7P/5kP1/8 w - - 1 39,a4b3 f7b3 f4f5 b3a4 c6c7 a4d7,1857,94,bishopEndgame crushing endgame hangingPiece long
+0Nsd3,1k1r3r/p1p5/Q1R4p/2q3p1/8/2bp2P1/PP3P1P/R5K1 b - - 0 21,c5d5 b2c3 d5c6 a6c6,1698,90,crushing hangingPiece middlegame short
+0Nsuv,r4r1k/1p1b3p/2p1p2B/3pP2P/p5R1/2P1Pq2/PP1Q4/2K4R w - - 0 27,h6f8 f3h1 d2d1 h1d1 c1d1 a8f8,1525,98,advantage hangingPiece long middlegame
+0NtCc,7q/2p1k3/p1bb3p/1p1p1Q2/3P1P2/2P1r3/PP4P1/2K1R2R b - - 1 27,d6f4 f5f4 e3e1 h1e1,1625,89,crushing hangingPiece middlegame short
+0Ntb3,1k4r1/1p6/1QpN1K2/4p3/4P3/3P2P1/1PP1qP2/3r4 b - - 14 43,e2f2 b6f2 g8f8 d6f7,1965,91,advantage endgame hangingPiece short
+0OTWT,8/8/kb2Q3/pp3P2/2p1B3/P1P4P/1P2pqP1/4R2K w - - 0 54,e4f3 f2e1 h1h2 e1g1 h2g3 e2e1q,1862,95,advancedPawn crushing endgame hangingPiece long promotion
+0OdV7,r2qk2r/p1p2ppp/b1p5/2bpP3/3Nn3/2P5/PP1N1PPP/R1BQK2R b KQkq - 2 10,e4f2 e1f2 c5d4 c3d4,1602,91,advantage hangingPiece opening short
+0Og0U,2b2rk1/r1p2pp1/p2p1q1p/np1Pp3/4Pn2/N1P2N2/PPBQ1PPP/R3R1K1 b - - 6 16,f4g2 g1g2 c8h3 g2g3,2073,95,advantage hangingPiece middlegame short
+0OptO,8/pb1kr1Q1/2qPpR2/1Np5/3P2P1/7R/PPP4P/5K2 w - - 1 36,h3h7 c6b5 f1f2 e7g7 h7g7 d7d6,1950,92,advantage hangingPiece long middlegame
+0PPkI,3Qb1k1/4r2p/4P1p1/3p1p2/Bq6/7P/5PP1/4R1K1 w - - 10 36,e1d1 b4a4 d8e7 a4d1 g1h2 d1a4,1703,87,advantage defensiveMove endgame hangingPiece long
+0PQGJ,r1bk3r/p1p3pp/2Q5/5p2/3Ppn2/1BN4P/PPP2bq1/R1BKR3 b - d3 0 16,f2e1 c1f4 g2f3 c3e2 f3f4 e2f4,1778,92,crushing hangingPiece long middlegame
+0PX4C,3k4/R7/p1r5/4p3/2K1P3/P3b3/1P6/7R w - - 5 45,c4d3 e3a7 h1h8 d8c7,1504,93,advantage defensiveMove endgame hangingPiece short
+0Pf2k,4brk1/p3Rn1p/4NQp1/2pPqp2/8/7P/P4PP1/6K1 w - - 2 32,e7e8 f8e8 f6e5 f7e5,1772,94,crushing endgame hangingPiece master short
+0Py3C,8/3k3q/p2p4/1p2pp2/6Q1/2P3P1/PP3P1r/R2R2K1 w - - 0 31,d1d6 d7d6 g4b4 d6c6,2038,91,advantage defensiveMove endgame hangingPiece short
+0QQzG,3r3k/1p4pp/bb3p2/pNpB4/P1P3q1/2Q1P1P1/1B3P1P/3R2K1 w - - 1 28,c3f6 g4d1 g1g2 d1d5 c4d5 g7f6,2038,90,crushing hangingPiece long middlegame
+0QgRJ,r2qk2r/p2b1ppp/2B2n2/2b3N1/2n1p3/P4Q2/1PPP1PPP/RNB1K2R w KQkq - 0 12,g5e4 d7c6 e4f6 d8f6 f3f6 g7f6,1677,96,advantage hangingPiece long opening
+0R1Yw,5bk1/p4p1p/6p1/R3Pp2/5P2/p4R1K/1r5P/8 b - - 1 43,f8c5 a5c5 a3a2 c5a5,1844,93,crushing endgame hangingPiece short
+0R3mV,r4rk1/p2q1p1p/8/3p1p2/4R2N/8/PbP2PPP/1R1Q2K1 w - - 0 19,h4f5 d7f5 e4g4 b2g7 d1d4 f7f6,1900,96,advantage defensiveMove hangingPiece long master middlegame
+0R7KD,r4rk1/1bq1bpp1/pp1p1n1B/4nP2/P2N4/1BN5/1PPQ2PP/R3R1K1 w - - 1 18,h6g7 g8g7 d2g5 g7h8,1792,89,advantage defensiveMove hangingPiece middlegame short
+0REsw,r4rk1/1p1n2p1/p3pn1p/3N4/Pb1P4/1P5P/2qBBPP1/2R2RK1 w - - 0 18,c1c2 f6d5 d2b4 d5b4,1625,92,advantage hangingPiece middlegame short
+0RKdZ,r2qkb1r/1ppb2pp/p1n5/3pp3/8/3BPNP1/PPP2PP1/RN1QK2R w KQkq - 0 11,f3e5 c6e5 d1h5 e5f7,1680,93,advantage defensiveMove hangingPiece opening short
+0RL5r,r2qk1nr/ppp1pp1p/1b1p2p1/n7/2P1P1b1/1Q3N2/1P1N1PPP/R1B1KB1R w KQkq - 0 9,a1a5 b6a5 b3a4 c7c6,1534,94,advantage defensiveMove hangingPiece master opening short
+0RLEm,8/8/2k1p3/1R3p2/3P4/8/6K1/8 w - - 1 51,g2f3 c6b5 f3f4 b5c4 f4e5 f5f4,2025,95,crushing defensiveMove endgame hangingPiece long
+0RVIk,r2qk2r/1p2p3/p1p5/P2P3b/1PP3n1/4bN2/1B4PP/R2Q1R1K b kq - 0 23,d8d6 b2h8 g4f2 f1f2,1573,89,advantage hangingPiece middlegame short
+0RXSZ,r2qk2r/3n1pbp/pp1p2p1/2p1p3/2PPb2N/2P1P2P/P3BPPB/R2QR1K1 w kq - 0 16,e2f3 d8h4 h2g3 e4f3,1582,94,crushing hangingPiece middlegame short
+0Rfro,r2q1rk1/p1pn1ppp/1p1bpn2/1N1p2B1/3P1N2/1P4Q1/1P3PPP/R4RK1 b - - 4 13,f6h5 f4h5 d6g3 g5d8,1631,94,advantage hangingPiece middlegame short
+0RlUH,3R4/2p2ppk/1pP2rb1/pB5p/P3n3/4QNqP/2P3P1/2B3K1 w - - 12 39,e3e4 g6e4 f3g5 h7g6 g5e4 g3e1,1553,100,advantage hangingPiece long middlegame
+0RsEt,5rk1/3b2pp/R1pq3r/P2p4/3P4/6P1/7P/3QRBK1 b - - 0 26,h6h2 g1h2 d6h6 h2g1,1591,88,advantage defensiveMove hangingPiece master middlegame short
+0SOyO,8/8/4n1P1/1p4R1/1kpK4/8/8/8 w - - 3 56,d4e5 e6g5 g6g7 g5f7 e5f4 f7h6,1893,94,crushing defensiveMove endgame hangingPiece long
+0SZgk,rn2r2k/ppp1q2p/5pp1/8/3P4/2Q5/PPP1BPPP/R3K2R w KQ - 1 15,e1g1 e7e2 f1e1 e2b5,1605,95,advantage hangingPiece middlegame short
+0Shhj,r4rk1/1b3pq1/6p1/p1pp3Q/8/2N1P1R1/PPP3PP/5RK1 w - - 3 24,c3d5 g6h5 d5f6 g8h8 g3g7 h8g7,1587,89,advantage hangingPiece long middlegame
+0Sjxl,5rk1/p1p2ppp/2n5/2R1P3/8/1r3N2/5PPP/R5K1 b - - 1 21,f8b8 c5c6 b3b1 c6c1 b1a1 c1a1,1698,92,crushing endgame hangingPiece long
+0Szua,r5k1/p1R2rpp/4p3/1p3pQ1/1P6/6P1/q5NP/5R1K w - - 1 31,f1d1 f7c7 d1d8 g8f7,1954,91,advantage hangingPiece middlegame short
+0T7AC,1rbk3r/ppNpb1pp/5nq1/4N1B1/7P/8/P3PPP1/2R1KB1R b K - 2 15,h7h6 e5g6 h6g5 g6h8 e7b4 e1d1,1765,87,crushing hangingPiece long opening
+0TFPV,2kr1b1r/ppp2ppp/2b1q3/4p3/3P4/B1P2N2/P4PPP/R2QR1K1 w - - 0 14,f3e5 f8a3 e5c6 e6c6,1511,93,crushing hangingPiece middlegame short
+0THBB,b7/n4ppk/7p/1Bb1pPq1/P1N1n3/4B2P/1P2Q1P1/2R3K1 w - - 7 32,e3c5 g5c1 e2f1 c1f1,1635,100,advantage hangingPiece kingsideAttack middlegame short
+0Ts3B,3q1k1r/pbN2p1p/1p1p1np1/3p4/4P3/2Q5/P3KPPP/6NR b - - 2 17,f6e4 c3h8 f8e7 h8d8 e7d8 c7b5 b7a6 a2a4,1674,94,crushing defensiveMove hangingPiece middlegame veryLong
+0UEf6,8/8/2p5/8/5Q2/4n2p/P3k3/7K w - - 8 55,f4e3 e2e3 a2a4 e3d4,1692,93,crushing defensiveMove endgame hangingPiece short
+0UGb8,1r3r1k/1p3p2/2p2N1P/p1n1p1q1/P1p5/6P1/1P3QK1/R4R2 b - - 2 37,b8d8 f2c5 d8d2 f1f2 d2f2 c5f2,1980,93,advantage hangingPiece long middlegame
+0UNkj,r4rk1/3QRNpp/2p1p3/8/3Pn3/4P3/1P1qBPPP/2R3K1 w - - 1 24,f7g5 d2c1 e2f1 c1f1 g1f1 f8f2 f1e1 a8a1,1981,93,attraction hangingPiece kingsideAttack mate mateIn4 middlegame veryLong
+0UTXj,2k5/ppp5/3r2pb/3pR2b/3Pnp1q/2P4P/PPQN2B1/4R1K1 w - - 0 30,d2e4 h4e1 g1h2 d5e4 c2e4 e1e4,2004,92,advantage hangingPiece intermezzo kingsideAttack long middlegame
+0UTxd,b7/1B6/P7/6k1/4p3/5pp1/8/6K1 b - - 1 62,g5f4 b7a8 e4e3 a8f3 f4f3 a6a7 e3e2 a7a8q,1520,96,advancedPawn bishopEndgame crushing endgame hangingPiece promotion veryLong
+0Uctn,4rrk1/1b4p1/2p1qnQp/p2pPp2/N1pP1P2/P3R2P/1PB3P1/1R4K1 w - - 6 25,e5f6 e6e3 g1h1 f8f6,1639,90,crushing hangingPiece intermezzo middlegame short
+0Ui2q,8/3k2K1/8/5P2/8/8/4R2r/8 w - - 3 76,f5f6 h2e2 f6f7 e2g2 g7f6 g2f2,1838,95,crushing endgame hangingPiece long rookEndgame
+0Usje,1rb4k/4pQ2/pq1p2p1/6Pn/3NP3/2N2P2/P1PK4/3R4 w - - 1 24,f7g6 b6d4 d2c1 d4e3,1600,96,advantage hangingPiece middlegame short
+0V1oJ,1k1r3r/1pp2bp1/1b3p2/p3pB1p/3n3P/2N2P2/PPPB4/2KRR1N1 w - - 2 26,d2e3 d4f5 d1d8 h8d8 e3b6 c7b6,1549,92,advantage hangingPiece long middlegame
+0VvbM,3r2k1/5ppp/p1R1p3/5b2/1n5N/6Q1/1q3PPP/4R1K1 w - - 0 21,h4f5 b4c6 f5h6 g8f8,1826,88,advantage hangingPiece middlegame short
+0WQDx,r3kb1r/pp3ppp/3p1B2/2pNp3/4P3/3P1bPq/PPP1NP1P/R2QR1K1 w kq - 2 14,d5e3 g7f6 e2f4 e5f4 d1f3 f4e3,1624,89,advantage hangingPiece long opening
+0WsLu,k1r5/1rnQ3p/p3p3/R7/2NpP3/3P3P/2q2PPK/8 b - - 1 32,c2d3 d7c8 a8a7 c4d6,1798,92,crushing hangingPiece middlegame short
+0Wz34,r2r2k1/p4pb1/b3pnpp/3p4/6P1/PBN1BP2/1PPR3P/2K4R b - - 2 22,f6g4 f3g4 d5d4 h1d1,1898,93,advantage defensiveMove hangingPiece middlegame short
+0WzWP,5k2/1q2r3/4n1p1/4Bp2/2BP4/Q5P1/5P1P/6K1 b - - 6 54,e6d4 e5d4 b7b1 c4f1,1932,95,advantage defensiveMove endgame hangingPiece master short
+0XEM4,r6r/1p3pkB/p5p1/3pPbN1/3q2PQ/P7/1P5P/R4R1K w - - 1 23,g5e6 f5e6 h4f6 g7h7,1791,91,crushing hangingPiece middlegame short
+0XQxk,6k1/pp3pq1/2p2Rb1/2P4p/2B1r3/1P2r3/P5PP/3R1Q1K b - - 2 26,g7f6 f1f6 e3e1 d1e1 e4e1 c4f1,1818,92,crushing hangingPiece long middlegame
+0XdXH,6k1/1p3r1q/p1b1Q3/4p1p1/1PP3P1/P3KP2/7N/7R w - - 0 39,h1d1 h7h2 e6g6 g8f8 d1d8 c6e8,2083,94,advantage endgame hangingPiece long
+0Xhtk,r5k1/5ppp/pp1q4/3p4/1PP5/P2b1Q2/B2Nr1PP/R1B3K1 b - - 2 22,d5c4 f3a8 d6f8 a8f8,1907,91,crushing hangingPiece kingsideAttack middlegame short
+0Xl8Z,r3k2r/pbp1qpb1/1p1p1npp/4n3/2B1P2P/2N1BP2/PPPQN1P1/2KR3R w kq - 0 14,c3d5 e5c4 d5e7 c4d2,1662,90,advantage hangingPiece middlegame short
+0Y5SS,r6r/3p2k1/5p2/p1pP2q1/1pP5/1P1PRQb1/PB4B1/6K1 b - - 1 35,h8h1 g1h1 a8h8 h1g1,1685,87,crushing defensiveMove hangingPiece middlegame short
+0Y9jh,2b1r3/p5k1/3p3p/2nB1p2/2P2R2/P1qPp1P1/4Q2P/4R1K1 w - - 6 26,e2h5 c3e1 f4f1 e1f1 g1f1 e3e2 h5e2 e8e2,1545,90,advancedPawn advantage attraction hangingPiece kingsideAttack middlegame veryLong
+0YEZw,5rk1/2q2pp1/1p2p2p/pPNpP3/P1nP4/2R3PP/6P1/3Q3K w - - 0 28,c5e4 d5e4 d1c2 f8c8,1879,92,advantage defensiveMove endgame hangingPiece short
+0YNK2,r4rk1/1p1bbppp/3p1n2/1B1Np3/P3P3/5P2/3RN1PP/4K2R b K - 3 18,d7b5 d5e7 g8h8 a4b5 a8a1 d2d1,1520,90,advantage hangingPiece intermezzo long middlegame
+0YacQ,4r1k1/p5p1/8/6P1/4p1K1/1PBn4/P2P1b2/7R b - - 12 34,f2d4 c3d4 e4e3 d4e3,1960,93,advantage endgame hangingPiece short
+0YcUQ,7k/pp4b1/2p4p/2B2n2/2P1pK2/1P5P/P5P1/8 b - - 1 38,e4e3 f4f5 e3e2 c5b4,2040,91,advantage defensiveMove endgame hangingPiece master short
+0Yk8W,2r2rk1/2q4p/1p2p1p1/pB1b4/7Q/1Pn2N2/P4PPP/2R1R1K1 b - - 9 27,c3e2 b5e2 c7c1 e1c1 c8c1 e2f1,1553,95,advantage defensiveMove hangingPiece long middlegame
+0YkuW,6k1/1Q4p1/p3b1Pp/2P1Npb1/PP6/2N5/4K3/2q5 b - - 4 50,e6c4 e5c4 c1c2 e2f1,1935,93,advantage defensiveMove endgame hangingPiece master short
+0Ynrk,8/5k1p/1pq2ppP/3p2B1/pRnPr3/2P2QP1/5PK1/8 w - - 2 39,b4c4 d5c4 d4d5 c6d5 f3f6 f7e8,2042,95,crushing endgame hangingPiece long
+0Yxfh,r4n1r/4b1kn/p2p1p1R/1pqPpPp1/2p5/P1P2PNQ/BP2K3/R1B5 w - - 3 29,c1g5 h7g5 h6h8 g5h3,1864,93,crushing hangingPiece middlegame short
+0ZZ7j,1r1r2k1/pb4pp/1p2N3/2p1pp2/P1P3q1/1P1P4/2RQ2PP/3R3K b - - 1 29,d8d3 d2d3 b7e4 d3d6,1974,92,crushing hangingPiece middlegame short
+0ZcYt,2r3k1/5pbp/2P1n1p1/2Q1P3/3B4/7P/1RB2PPK/q7 w - - 3 33,b2b8 c8b8 d4a1 e6c5,1955,90,advantage hangingPiece master middlegame short
+0a2WX,8/2r2p1p/knp1p1p1/pRRpP3/P2K1PP1/1P6/7P/8 b - - 9 34,c6b5 c5c7 b5a4 b3a4,1733,92,advantage endgame hangingPiece short
+0a6Pi,8/8/4p3/4P1p1/2K1k3/3N4/8/8 w - - 0 57,c4c5 e4d3 c5d6 g5g4 d6e6 g4g3 e6d7 g3g2 e5e6 g2g1q,1541,93,advancedPawn crushing endgame hangingPiece promotion quietMove veryLong
+0aOVi,2rr2k1/R4pp1/4p2p/1b2P3/4B3/P3B2P/1Q3PPK/3q4 b - - 4 26,d8d7 b2b5 d7a7 e3a7,1672,88,advantage hangingPiece middlegame short
+0aPDG,r3kb1r/4pppp/p4n2/1p1Pq3/1P1n4/2Q5/PN2NPPP/R3KB1R b KQkq - 3 16,d4f3 g2f3 e5c3 e2c3,1614,93,advantage hangingPiece opening short
+0an4x,8/1R4p1/3pr1kp/8/p2pq3/3QB3/5PP1/6K1 w - - 2 35,d3d4 e4b7 d4g4 g6f7,1908,92,advantage defensiveMove endgame hangingPiece short
+0b1Ke,5rk1/pp3p1p/4bBp1/6Q1/7R/8/P1rq1PPP/5RK1 w - - 12 28,h4h7 g8h7 g5h4 d2h6,1906,89,crushing hangingPiece middlegame short
+0b4MC,5rk1/q3p2p/3p1p1P/1brP2p1/3Q2P1/1B3P2/1PP5/2KRR3 w - - 0 25,e1e7 a7e7 d4c5 d6c5 d5d6 e7f7,1917,91,advantage hangingPiece long master middlegame
+0b4NU,r5k1/ppp3qp/n2p3b/3Pp2Q/2P1Nr2/P6P/1P4P1/RB2R1K1 w - - 3 21,e4g3 g7g3 h5h6 g3e1,1602,91,crushing hangingPiece kingsideAttack middlegame short
+0bISc,8/8/8/6kP/1P5R/8/1r6/6K1 w - - 3 49,h5h6 g5h4 h6h7 h4g3,1772,94,crushing defensiveMove endgame hangingPiece rookEndgame short
+0bMEG,r3r1k1/p4ppp/P3pn2/q1pp4/3n4/P1N3P1/5PBP/R1BQ1RK1 w - - 2 16,c1g5 a5c3 g5f6 g7f6,1594,90,advantage hangingPiece middlegame short
+0bMbY,r6r/1pqp4/1n2p3/1Pk2p1Q/8/1P6/P4PPP/3R1RK1 w - - 1 24,h5h8 a8h8 d1c1 c5d6 c1c7 d6c7,1659,93,advantage endgame hangingPiece long
+0bQwv,2k2r2/ppp1p1p1/4b2p/1P1p4/P2P4/2PB4/5nPP/R1B1K2R w KQ - 0 20,h1f1 f2d3 e1e2 e6g4 e2d3 f8f1,1711,96,advantage deflection exposedKing hangingPiece long middlegame
+0bq8X,3r2k1/2q2p2/5Q2/2p2bPp/2P4P/pP6/B7/K3R3 b - - 3 39,c7h2 f6d8 g8h7 d8f6,1820,92,crushing endgame hangingPiece short
+0bu4O,1rb2rk1/5p1p/p1p1p1p1/2pq2N1/5Q1P/K1P1RP2/P7/4R3 b - - 2 26,c5c4 f4b8 d5a5 a3b2 a5b5 b8b5,1730,93,crushing hangingPiece long middlegame
+0c5ka,r1b2rk1/pp3ppp/5q2/4n3/2Q5/3BPN1P/P4PP1/3R1RK1 w - - 1 20,d3h7 g8h7 c4e4 e5g6,1999,90,advantage defensiveMove hangingPiece middlegame short
+0cCDd,1k5r/4R3/1p6/p1pNn1P1/P2pr1P1/3q3p/1P6/R4Q1K b - - 1 33,e4e1 a1e1 d3f1 e1f1,1571,93,crushing hangingPiece middlegame short
+0cRpC,3r3k/1R3pp1/p3p1b1/4P1Qp/1P5P/2q1B3/1r3PPK/4R3 b - - 4 42,c3e1 g5d8 h8h7 b7b8,1510,98,crushing defensiveMove hangingPiece master middlegame short
+0cZC4,r2r2k1/2B2pp1/2Q1p2p/8/P2P4/8/1P1q1PPP/2R3K1 b - - 4 25,d8d4 c6a8 g8h7 c1f1,1767,92,crushing defensiveMove endgame hangingPiece short
+0cbN7,6k1/pp2n1bp/1qppN3/3Pp3/2P1P1p1/1P1BQ2b/P4rr1/R3RN1K b - - 5 23,f2f1 d3f1 b6e3 e1e3,1785,94,advantage hangingPiece middlegame short
+0cmjx,5r2/P7/3k4/K7/8/8/5p2/5R2 w - - 1 55,f1f2 f8f2 a5a6 d6c7,1984,95,crushing defensiveMove endgame hangingPiece master rookEndgame short
+0dGWC,r2q1b1r/pbpp4/1pn1pkBp/6p1/3P4/2P2NP1/PP4PP/RN1QK2R w KQ - 0 13,h1f1 f6g6 d1d3 g6g7,1567,91,crushing defensiveMove hangingPiece middlegame short
+0dMzk,6k1/1b5p/4Rqp1/p1pr1p2/P2r4/2Q3P1/1PP2P2/4R1K1 b - - 0 30,f6e6 e1e6 d4d1 e6e1,2098,93,advantage endgame hangingPiece master short
+0dnTB,r2qr1k1/pb1nbppp/5n2/1pp1p3/4P3/1BP2NN1/PP3PPP/R1BQR1K1 w - - 0 13,b3f7 g8f7 d1b3 c5c4,1595,93,advantage hangingPiece master opening short
+0dwUZ,8/8/8/3p3p/2k1bK1P/5p2/5B2/8 b - - 5 55,d5d4 f4e4 d4d3 e4f3 d3d2 f3e2,2099,89,bishopEndgame crushing endgame hangingPiece long
+0dx1d,8/1P3pk1/8/5KP1/1r1p4/R1b2N2/8/8 w - - 0 41,f3d4 c3d4 a3a4 b4b5,1701,95,advantage endgame hangingPiece master short
+0e4dG,2b2rk1/p4ppp/4p3/1pb1q3/P1p5/1P2PQ2/2PBBPPP/R3K2R w KQ - 0 16,a4b5 e5a1 e2d1 c4c3 e1g1 c3d2,1687,88,advancedPawn advantage hangingPiece long middlegame trappedPiece
+0e54n,3rr1k1/P5p1/5n1p/q2b1Q2/4B2P/6P1/P4P2/3RR1K1 b - - 0 37,d5e4 f5a5 d8d1 e1d1,1527,90,crushing hangingPiece middlegame short
+0eYVv,4rrk1/pQR2p1p/6p1/3B4/3b4/q6P/5PP1/5RK1 b - - 7 28,d4f2 f1f2 e8e1 g1h2 a3d6 g2g3,1924,89,crushing hangingPiece long middlegame
+0eoYy,2k2b1r/pppr1p2/6p1/3NpQ1p/4P2q/7P/PPP2PP1/3R1RK1 w - - 0 17,d5e7 h4e7 f5d7 e7d7 d1d7 c8d7,1578,92,crushing hangingPiece long middlegame
+0eweJ,4rk2/pp4p1/7r/5pn1/3P1P2/P1P3PP/1P2R1K1/5R2 w - - 0 31,f4g5 e8e2 g2f3 h6e6,1505,89,advantage defensiveMove endgame hangingPiece rookEndgame short
+0f0uh,8/8/5k2/4p1pK/1r2B2p/5P1P/8/8 b - - 2 46,b4e4 f3e4 g5g4 h5g4,1569,97,crushing endgame hangingPiece short zugzwang
+0f8mt,2r1r1k1/ppb2ppp/2p5/8/3Pp3/PP2n1PP/1BQ1N1K1/R4R2 w - - 0 25,g2h2 e3c2 a1c1 c2e3,1540,90,crushing hangingPiece master middlegame short
+0fa2u,8/5p2/1p6/1PnKP3/2P5/6k1/3R3p/8 w - - 0 48,d2h2 g3h2 d5c6 c5a4 c4c5 b6c5,1790,90,crushing endgame hangingPiece long quietMove
+0fcZS,r5k1/pp4pp/2b1p3/q1bpN3/8/1R6/P1PQNrPP/3R3K b - - 1 20,a8f8 d2a5 f2f1 e2g1 f1d1 a5c5,2059,93,advantage hangingPiece long middlegame
+0fhDO,5rk1/3Q2p1/bqr1p2p/3pPp2/1PpP1P2/5N2/6PP/RR4K1 w - - 5 31,a1a6 b6a6 b4b5 a6a2 d7c6 a2b1,1771,92,advantage hangingPiece long middlegame
+0fwK1,8/8/p7/1P4Bp/1Pb4P/2Kp1k2/8/8 b - - 0 83,f3e2 c3c4 d3d2 g5d2,1943,94,bishopEndgame crushing endgame hangingPiece master short
+0g35W,8/8/8/6P1/2r5/p4RPP/1k6/6K1 w - - 2 51,f3a3 b2a3 g1f2 a3b4 f2f3 b4c5,1987,93,crushing defensiveMove endgame hangingPiece long rookEndgame
+0g3tb,r3k2r/p4ppp/2Q1p3/2Rn4/1q6/8/PP3PPP/4R1K1 b kq - 0 19,e8f8 c6a8 f8e7 a8a7,2088,92,advantage hangingPiece middlegame short
+0gCk8,2r1r1k1/1p1bppbp/p2p1npB/q3nP2/2PNP3/2N5/PP1QB1PP/3R1R1K b - - 2 15,f6e4 c3e4 a5d2 h6d2,2037,95,advantage hangingPiece middlegame short
+0gM3F,r2q1rk1/pp3pp1/3b1nbp/2p1n3/7B/2P1PN1P/PP1NBPP1/R2Q1RK1 w - - 0 13,d2e4 g6e4 f3e5 d6e5,1720,93,advantage hangingPiece middlegame short
+0gZeW,r1b1kb1r/pp3ppp/4p3/2pq4/3n4/3P1NP1/PP2PPBP/R1BQK2R w KQkq - 1 9,f3d4 d5g2 h1f1 c5d4,1505,93,advantage hangingPiece intermezzo opening short
+0h2lf,3r2k1/pp3ppp/5n2/8/2Pq4/1P3B2/P2r1PPP/R1Q2RK1 w - - 1 21,c1d2 d4d2 a1d1 d2a5,1781,95,crushing hangingPiece middlegame short
+0h3UI,r1b2rk1/1p3pbp/p5p1/3B1q2/3B4/2P4P/PP3PP1/R2Q1RK1 w - - 1 16,f1e1 f5d5 d4g7 d5d1 a1d1 g8g7,1606,96,crushing hangingPiece long middlegame
+0hMLI,2R2n2/6k1/4p3/6p1/4K3/8/1P6/8 w - - 2 53,c8f8 g7f8 e4f3 e6e5 f3g4 e5e4,2069,91,crushing defensiveMove endgame hangingPiece long master quietMove
+0hnG8,4R3/pp3p1k/2p4p/5q2/5b1R/2Q3PP/PP5K/3r4 b - - 0 32,f4g3 c3g3 d1d2 h2g1,1986,90,advantage defensiveMove endgame hangingPiece master short
+0i0ig,8/8/5b2/1K6/P7/5kp1/8/R7 w - - 0 61,a4a5 f6a1 a5a6 a1d4 a6a7 d4a7,1648,93,crushing endgame hangingPiece long quietMove
+0iQn7,2r3k1/1b2r1p1/p3NpPp/1p6/4P3/3R4/PPP3PP/5R1K w - - 1 30,f1d1 e7e6 d3d8 e6e8,1587,93,advantage endgame hangingPiece short
+0ilxu,r3k1nr/ppp2pp1/2np1qb1/2b1p1N1/2B1P2P/2NP1Q2/PPP2P2/R1B1K2R b KQkq - 2 11,h8h4 h1h4 f6f3 g5f3,1764,90,crushing hangingPiece middlegame short
+0inI2,3rr1k1/1pq3P1/p1p2p2/4nN1p/5B2/2P5/PP1p1PPQ/3R2K1 b - - 1 27,e5f3 g2f3 c7g7 f5g7 e8e1 g1g2,1717,92,crushing hangingPiece long middlegame
+0ixpL,r1k4r/pp1R3p/2p5/4bppb/2P1p3/BP2P1P1/P3NP1P/3R2K1 w - - 6 22,a3e7 h5e2 d7d8 c8c7,1989,88,crushing hangingPiece middlegame short
+0jEDl,4r1k1/6bp/1Rp1nqp1/2Pp1p2/3P1P2/3Q4/r3NBPP/4R1K1 b - - 1 24,e6f4 e2f4 e8e1 f2e1 f6d4 d3d4 g7d4 g1f1,1512,93,advantage defensiveMove hangingPiece master middlegame veryLong
+0jMUi,rnb2rk1/1p3ppp/p2b4/3qP3/5B2/2P3P1/PP2Q2P/R3KBNR w KQ - 1 14,a1d1 d5h1 e5d6 h1g1 f4e3 g1h1 e2g2 h1g2,1962,91,crushing hangingPiece opening veryLong
+0jip8,r4rk1/1bq2pp1/pp2pn1B/4b3/2P4Q/2N5/PP2BPP1/R2R3K w - - 2 20,h6g7 g8g7 h4g5 g7h8,1939,91,advantage hangingPiece middlegame short
+0jr21,r3r1k1/pQnq2bp/2n2pp1/3p4/3P2b1/2NBBN2/PP3PPP/R3R1K1 w - - 1 19,c3d5 c7d5 b7d7 g4d7,1957,86,advantage hangingPiece master masterVsMaster middlegame short
+0jtCn,5r2/8/6R1/8/8/8/4K1p1/6k1 b - - 1 73,f8f6 g6f6 g1h2 f6h6 h2g3 h6g6,1645,93,crushing endgame hangingPiece long rookEndgame
+0k4PC,4k3/3p1p1p/p3p3/1p2P3/3PnP2/Q2q1N2/5BPP/5RK1 w - - 2 29,f1c1 d3a3 c1c8 e8e7 f2h4 f7f6,1529,93,advantage endgame hangingPiece long
+0k5D5,6k1/ppp1r1p1/3p3p/3P3n/4P2q/5Q1P/PP4PB/5RK1 b - - 5 27,h4e4 f3h5 e4d4 g1h1,1799,89,crushing endgame hangingPiece short
+0k7Zk,3rk1r1/2R2p2/4b3/6q1/3p3Q/6P1/P4P1P/4R1K1 w - - 5 33,e1e6 f7e6 h4h7 g8f8,2024,92,crushing endgame hangingPiece short
+0kTID,r1r3k1/6bp/1Q1nb1p1/4p3/4p3/qp2NPP1/PR2NB1P/K2R4 b - - 1 32,d6c4 b6e6 g8h8 e3c4,1685,94,advantage hangingPiece master middlegame short
+0kYba,r2q1rk1/ppp2ppp/3bbn2/3p2B1/3P4/1B1P1Q2/PP3PPP/RN2R1K1 b - - 6 12,d6h2 g1h2 f6g4 f3g4 e6g4 g5d8,1892,92,advantage hangingPiece long opening
+0l3qK,2rr4/2q1k2p/3Rpp2/pQp3B1/1b2P3/8/4KPPP/3R4 w - - 0 29,d6e6 e7e6 b5a6 c7c6 a6c6 c8c6,2053,91,crushing hangingPiece long middlegame
+0l9ZP,r1b1k1nN/pppp2pp/3n1q2/4p3/4P3/1QP5/P4PPP/bNB2RK1 b q - 2 11,g7g6 b3g8 f6f8 g8h7,1915,95,crushing hangingPiece opening short
+0ldJI,3r1r2/q4pbk/3n2pp/1B2p3/1P1p4/2N2P1P/4QP2/R2R2K1 b - - 0 31,d4c3 a1a7 d6b5 d1d8,1689,90,advantage hangingPiece middlegame short
+0liSh,8/8/4k3/5pKP/5P2/5bP1/8/8 b - - 0 53,f3h5 g5h5 e6f6 h5h6,1792,93,crushing defensiveMove endgame hangingPiece short
+0lj2P,2r5/6k1/4Q3/PPr1p1p1/4q1P1/2p1bNPB/2R4K/5R2 w - - 2 34,f3g5 e4c2 h2h1 e3g5 e6f7 g7h8,2078,91,crushing hangingPiece intermezzo long middlegame
+0lvct,8/8/2p3K1/2B5/2k5/P7/8/8 w - - 5 50,a3a4 c4c5 g6f5 c5b4 f5e4 b4a4,1763,92,crushing endgame hangingPiece long
+0m9Op,8/8/6p1/Nn1p1p1k/P1pP1P1P/6K1/8/8 b - - 0 42,c4c3 a4b5 c3c2 a5b3 c2c1q b3c1,1619,96,crushing endgame hangingPiece knightEndgame long quietMove
+0mZnB,r1bq1rk1/ppbn2pp/2p1pn2/5p2/2PPP3/2NB4/PP1N2PP/R1BQ1RK1 b - - 0 11,c7h2 g1h2 f6g4 h2g1,1546,98,advantage defensiveMove hangingPiece opening short
+0mlEe,r6r/1p4pp/1p1kpp2/8/2bP4/4P3/3N1PPP/R1R3K1 b - - 1 21,a8a1 d2c4 d6c6 c1a1,1553,94,advantage endgame hangingPiece intermezzo short
+0myoD,rn3rk1/2q2ppp/2P5/p1bQ4/B3p3/P3P1N1/1n3PPP/R4RK1 w - - 0 20,d5c5 b2a4 c5d4 c7c6,1614,95,advantage capturingDefender hangingPiece middlegame short
+0n0F6,r4r2/4b1k1/p3p1p1/1p1p1p1R/2qP1P1P/2P5/PP1B2P1/3Q1RK1 w - - 1 26,f1f3 g6h5 f3g3 g7h6,1683,94,crushing defensiveMove hangingPiece master masterVsMaster middlegame short superGM
+0n0Nz,r1b2rk1/1pq2p1p/p4bp1/2p1p3/4N3/PB1P3R/1PP2PPP/R2Q2K1 b - - 1 17,c8h3 e4f6 g8g7 f6d5 c7d6 g2h3,1916,93,advantage hangingPiece long middlegame
+0n44W,2r5/4B1k1/p1bP4/1p1K4/2p5/P1P2Rp1/1P6/8 w - - 2 48,d5e6 c6f3 d6d7 f3g4,1724,96,crushing endgame hangingPiece master short
+0nLuI,4Qnk1/4Nrp1/7p/7P/5p2/8/2q2PK1/8 b - - 17 45,g8h7 e8f7 c2e4 g2h2 e4e6 f7f8,2014,92,crushing endgame hangingPiece long
+0o0JS,rnb1k2r/1pp2pp1/pb2p1qp/8/1P1P4/P1nQB1P1/1KP1NP1P/3R1B1R w kq - 0 14,d3g6 c3d1 b2c1 f7g6,1564,93,crushing hangingPiece intermezzo middlegame short
+0oHsX,r1b2rk1/4b1pp/p1pq4/2ppN3/5Bn1/3P4/PPP1QPPP/RN2R1K1 w - - 5 14,e5g6 d6g6 e2e7 f8f4,1952,89,advantage capturingDefender hangingPiece middlegame short
+0oKTn,rq5k/4pprp/p3b3/4P3/PP1PQ1P1/1p3P2/1P3KP1/R6R b - - 0 25,b8b4 e4a8 g7g8 a8e4,1993,90,advantage hangingPiece master middlegame short
+0oTV7,r1b1k2r/p1p2ppp/2p2n2/2b5/N1P1qB2/8/PPP2PPP/R2Q1RK1 w kq - 0 12,a4c5 e4f4 f1e1 c8e6 c5e6 f7e6,1620,95,advantage hangingPiece long middlegame
+0oe43,4qbk1/p4ppp/8/8/1pp2B2/1P1b2QP/P2R2P1/6K1 b - - 0 30,c4b3 g3d3 b3a2 d2a2,1997,91,advantage endgame hangingPiece master short
+0pBYI,2b3k1/2Qq1p2/pB5p/1p2p1p1/4P3/PBP2P1n/1P1r2PK/4R3 b - - 4 30,d2g2 h2g2 d7d2 g2f1,2056,91,advantage defensiveMove hangingPiece master middlegame short
+0pJBx,3r2k1/5r1p/p3Q1p1/1p4b1/2nB1q2/1NP5/PP3P2/1K1R3R w - - 0 29,h1h7 g8h7 d1h1 g5h6,1976,90,crushing defensiveMove hangingPiece middlegame short
+0pLCs,8/7p/6k1/6p1/8/p1B4P/r5PK/8 b - - 1 47,a2a1 c3a1 g6f5 h2g3,1600,92,crushing defensiveMove endgame hangingPiece master short
+0pS1O,3r1rk1/3P4/1pq1p2p/p4Bp1/1n6/1P6/P2Q3P/1K1R1R2 w - - 0 28,f5e6 c6e6 f1f8 g8f8 d2d6 e6d6,1667,92,advantage hangingPiece long middlegame
+0pd3L,1r1nk3/1P2pp1p/6p1/N1p5/2P5/1P4P1/7P/3R1K2 w - - 3 38,d1d8 e8d8 a5c6 d8c7 c6b8 c7b8,2027,91,crushing endgame hangingPiece long
+0pf5C,2r5/4b2k/8/p3PP2/1p6/8/1Pn2B1P/2R3K1 b - - 0 35,e7c5 c1c2 c5f2 c2f2,1535,92,advantage endgame hangingPiece short
+0q1IZ,3Rr2k/pr2P1p1/7p/8/4R3/2n2P2/6PP/6K1 b - - 2 31,c3e4 d8e8 h8h7 e8h8 h7h8 e7e8q,1530,93,advancedPawn attraction crushing endgame hangingPiece long promotion
+0qQQ1,5r2/8/ppn3kR/2p1qbp1/3p4/P2P2Q1/1PP2PK1/7R b - - 9 34,g6f7 h6c6 e5d5 g3f3 d5f3 g2f3,1747,96,advantage hangingPiece long middlegame
+0qUwl,r1b4r/pp2kppp/4p3/1B1pP3/3b1Q2/2N5/Pq3PPP/R3K2R w KQ - 2 15,f4d4 b2a1 e1e2 a1b2,2046,88,advantage hangingPiece middlegame short
+0r5jP,r2qkb1r/1b3Npp/p2p1n2/1p2p3/3nP3/1BN3B1/PP1Q1PPP/R4RK1 b kq - 0 13,d8e7 f7h8 d4b3 a2b3,1707,91,crushing hangingPiece middlegame short
+0rdQf,r1bqk2r/ppp1bppp/2n5/8/2pNR3/2N5/PPP2PPP/R1BQ2K1 b kq - 0 9,c8f5 d4f5 d8d1 c3d1,1535,91,crushing hangingPiece opening short
+0rr2Z,7k/8/5p2/1BBPp3/p3Pp2/Pr6/KP6/8 w - - 2 39,d5d6 b3b5 d6d7 b5b8 c5b6 f4f3,1635,96,crushing endgame hangingPiece long
+0sC87,rnbq1rk1/pp2bpp1/3p1n1p/3P4/7B/2NB1N2/PP3PPP/R2Q1RK1 b - - 0 12,f6d5 c3d5 e7h4 f3h4,1828,91,advantage hangingPiece opening short
+0sLyR,1r2r1k1/pp2bpp1/2p3p1/8/3P1B2/2PQ1PP1/q1P4P/1R2R1K1 b - - 1 23,e7d6 f4d6 e8e1 b1e1,1663,93,advantage hangingPiece master middlegame short
+0sM8D,5rk1/1p4p1/p4p2/6N1/1P2pNP1/P3Q2P/2qr2P1/5RK1 w - - 0 33,e3e4 f6g5 e4c2 d2c2,1573,100,advantage hangingPiece middlegame short
+0sh6g,r5k1/1p2bppp/p7/2p1P3/2bN1p2/1qN4P/1P2QPP1/R3R1K1 w - - 0 24,e2c2 c5d4 c2b3 c4b3,1531,96,advantage hangingPiece master middlegame short
+0stya,2k3r1/1p3q2/3r3p/1P3n2/P7/2B2NpP/3QB3/R5K1 w - - 0 36,e2c4 f7c4 a1c1 d6d2,1511,93,advantage hangingPiece middlegame short
+0szSg,r1b1r1k1/pp2np1p/4p1pB/4P3/5P2/1Bq5/P5PP/R2Q1RK1 b - - 0 16,c8d7 d1d7 e7f5 h6g5,1803,88,advantage defensiveMove hangingPiece middlegame short
+0tMTF,8/8/8/b3p1p1/PkN1K1P1/5P2/8/8 w - - 40 72,e4e5 b4c4 e5f5 a5d2 f3f4 d2f4,1906,93,crushing endgame hangingPiece long master quietMove
+0tMf4,8/p2q1kp1/1p2b2p/1N1pQp2/4n3/1P1BP2P/P4PP1/5K2 w - - 0 29,d3e4 d7b5 f1g1 f5e4,1772,94,advantage endgame hangingPiece intermezzo short
+0tP1s,rn3r1k/ppq4P/2pp3b/5b1Q/2PpN3/3B3P/PP3PP1/4RRK1 b - - 8 18,f5e4 h5h6 c7g7 h6g7,1682,92,crushing hangingPiece kingsideAttack middlegame short
+0tVBv,5rk1/1b3pp1/pp2pnqp/8/2r1PB2/PQP2B2/5PPP/R3R1K1 b - - 10 22,f6e4 b3c4 e4d2 f4d2,1601,91,advantage hangingPiece middlegame short
+0twcT,3r1rk1/ppp2ppp/2p1b3/8/4PN2/1P6/P1PqQPPP/R4RK1 w - - 3 17,f1d1 d2f4 d1d8 f8d8,1618,96,advantage hangingPiece middlegame short
+0txRz,r4r1k/6p1/Rq5p/7P/8/Q7/6P1/R6K b - - 0 48,a8a6 a3f8 h8h7 f8f5 h7g8 f5c8,1659,95,crushing endgame hangingPiece long
+0u2rm,q5k1/bR3p1p/4p1p1/p3P1P1/2Rr4/PQ6/7P/6K1 w - - 0 35,b7a7 a8a7 c4d4 a7d4,1587,92,crushing endgame hangingPiece short
+0u9Az,1r3rk1/1Q1PRpp1/8/1p6/2p3b1/6P1/1q3P1P/4RBK1 w - - 1 37,b7b8 f8b8 e7e8 g8h7 e8b8 g4d7,2060,91,advantage hangingPiece long middlegame
+0uNxI,2kr4/1p2n1p1/6P1/p2pP1Q1/Pq6/1N1P4/1P4P1/5RK1 b - - 0 24,b4b3 g5e7 b3b6 f1f2,1972,89,crushing defensiveMove endgame hangingPiece master short
+0uaST,2r1r1k1/3qnp2/p3bn1p/1p2p1p1/3pP2N/P2P2NP/1PB1QPP1/2R1R1K1 w - - 0 22,e2f3 g5h4 f3f6 h4g3,1660,93,crushing hangingPiece middlegame short
+0uqmG,8/8/p3bkB1/1p3P2/1P4K1/P6p/8/8 w - - 0 40,f5e6 f6g6 e6e7 g6f7,1906,97,crushing endgame hangingPiece short
+0uy2j,r1b1k2r/p3bp2/2p2npp/4R3/2B5/2N5/PP3PPP/R1B3K1 w kq - 1 15,c1h6 h8h6 a1e1 f6g8,2042,87,advantage defensiveMove hangingPiece middlegame short
+0vFQT,4rrk1/Np3p2/7p/2PP4/4Np2/P1b5/4RPPP/6K1 b - - 0 26,f7f5 e4c3 e8e2 c3e2,1626,94,advantage endgame hangingPiece short
+0vXyN,4k3/4b2p/2Pp2pP/3P2P1/3Q2BK/8/1q6/8 w - - 6 53,d4h8 b2h8 c6c7 e7g5,1920,92,crushing endgame hangingPiece master short
+0vfTL,r4r2/3q1ppk/p1p1bn1p/1pP1R3/3p4/PB1P2Q1/1P3PPP/R1B3K1 w - - 1 20,c1h6 g7h6 b3e6 f7e6,1705,93,advantage hangingPiece middlegame short
+0vxB2,r4rk1/pb3ppp/1pn1p3/3q4/1b6/5NP1/PP1BPPBP/R2Q1RK1 w - - 0 13,f3d4 d5d4 d2b4 d4b4,1706,95,advantage hangingPiece middlegame short
+0vxKh,r2qkb1r/ppp2ppp/8/3p4/2n5/1QP1PB2/P2B1PPP/R4K1R w kq - 2 13,b3b7 c4d2 f1e2 d2f3 b7c6 e8e7,1599,95,crushing hangingPiece long middlegame
+0w7b1,r4rk1/p1n1pp1p/6p1/1qNPb1N1/1p6/4Q3/PPP3PP/3R1RK1 w - - 0 21,e3h3 b5c5 g1h1 h7h5,1632,94,crushing defensiveMove hangingPiece master middlegame short
+0wAQZ,8/8/3p3p/p1p1kP2/P1P1B1KP/8/8/4b3 w - - 10 39,h4h5 e5e4 f5f6 e1c3 f6f7 c3g7,1654,94,bishopEndgame crushing defensiveMove endgame hangingPiece long
+0wGa7,r2q1knr/pb1p1ppp/1pnP4/3N4/5B2/8/Pb2QPPP/3RKBNR b K - 1 13,g8f6 e2b2 f6d5 d1d5,1854,90,crushing hangingPiece opening short
+0wHS4,8/7b/4k2P/1p1n2K1/2pBp3/P1P2p2/8/1B6 b - - 1 46,e4e3 b1h7 f3f2 h7f5 e6f7 f5h3 e3e2 d4f2,2022,92,crushing endgame exposedKing hangingPiece quietMove veryLong
+0wUcE,1rb2rk1/1pNpnppp/p1n5/2b1P3/2B1P3/1R3N2/q1PB1PPP/3Q1RK1 w - - 1 14,b3b7 a2c4 b7b8 c6b8,1757,93,crushing hangingPiece middlegame short
+0wZCN,8/6k1/2R2pp1/1P1B3p/5n2/2r2P1P/5PK1/8 w - - 3 38,g2g3 f4d5 c6c3 d5c3 b5b6 c3e2 g3h2 e2d4,1791,93,advantage endgame hangingPiece veryLong
+0wgq0,r2qk2r/1pp3pp/1p1p4/4N2n/8/1P1P3P/1PP2PP1/R2Q1RK1 b kq - 0 15,a8a1 d1h5 g7g6 e5g6 a1f1 g1f1 h7g6 h5h8,1605,94,crushing hangingPiece middlegame veryLong
+0wlHb,5r2/p1k5/4N1P1/1p4K1/2p5/8/P7/8 b - - 1 43,c7c6 e6f8 c4c3 f8e6,1984,94,crushing defensiveMove endgame hangingPiece master short
+0xIPS,1r3k2/5pp1/rB1Rn2p/p7/8/1PP5/P4PPP/4R1K1 w - - 1 26,b6c7 e6c7 d6a6 c7a6,1537,86,advantage endgame hangingPiece short
+0xccK,6k1/Q3q1pp/2b1p3/2P1P3/3p1pPn/5P1P/1r1N1K2/R7 w - - 2 29,a7e7 b2d2 f2f1 c6b5 f1g1 h4f3 g1h1 d2h2,1698,95,arabianMate endgame hangingPiece mate mateIn4 veryLong
+0xgVc,2r1k2r/p2qppb1/1p1p2pn/1Pp3np/2P1P2P/P1NP2P1/3B1P2/1R1Q1RK1 w k - 0 18,d2g5 g7c3 g5h6 h8h6,1576,93,crushing hangingPiece master middlegame short
+0yZOz,r7/1k1r1p2/1pp5/4Pqpp/1QP5/5N2/5PnP/R4R1K w - - 0 28,a1a8 f5f3 a8b8 b7b8 b4b6 b8c8,2043,91,crushing defensiveMove hangingPiece long middlegame
+0ya3r,rnbqk2r/pppp2pp/8/3P1p2/4n3/P1P2N2/2Q1PPPP/R1B1KB1R w KQkq - 1 10,c2e4 f5e4 c1g5 e4f3,1548,92,advantage hangingPiece middlegame short
+0z0de,1r4k1/8/3pqppQ/1Br4p/P1n1P3/2P5/1P6/1KR4R b - - 1 35,c4d2 h6d2 b8b5 a4b5,1516,87,advantage hangingPiece middlegame short
+0z2dg,8/K7/2Bk1p2/1P2bP2/4P3/8/8/8 w - - 16 76,b5b6 d6c6 b6b7 c6c5 b7b8r e5b8 a7b8 c5d4,1664,96,bishopEndgame crushing endgame hangingPiece veryLong
+0zDFp,3r2k1/3r1pp1/1p6/3p1q1p/1B1Rn3/3QP1P1/1PR2PP1/6K1 b - - 5 30,e4g3 f2g3 f5d3 d4d3,1534,95,advantage hangingPiece middlegame short
+0zPc2,r2qnrk1/p1pbbppp/1p4n1/3Pp1N1/2B1P3/1QN5/PP3PPP/R1B1R1K1 w - - 2 15,g5f7 f8f7 d5d6 e8d6 c4f7 d6f7,1739,92,advantage hangingPiece long middlegame
+0zZ6d,2n2rk1/3r1pb1/1p6/p2B4/6P1/PP1Q3P/3n4/2R4K w - - 2 35,c1c8 f8c8 d5f7 d7f7,1682,94,advantage hangingPiece middlegame short
+0zo5C,3rr1k1/2p2ppp/p1q5/1p2N3/3Pn2Q/1PP1P3/1P4PP/R1B3K1 b - - 3 22,c6f6 h4e4 e8e5 e4e5 f6e5 d4e5,1781,95,advantage hangingPiece long middlegame
+0zpQa,8/7p/p1p5/1p2B1k1/1P1P1p2/P4KP1/4n3/8 b - - 1 43,e2d4 e5d4 f4g3 f3g3 g5f5 g3f3,1860,93,advantage defensiveMove endgame hangingPiece long
+0zqqx,3r1r2/2qb1p1k/p3p2p/4P1p1/5Q1R/2P1P3/P1P3PP/3R2K1 w - - 0 26,h4h6 h7h6 f4f6 h6h7 f6g5 f8g8,1938,89,crushing hangingPiece long middlegame
+104JM,3r3k/1b4p1/p4p1p/1p1r4/4B3/2P5/PP1p1RPP/3R2K1 b - - 2 30,d5e5 e4b7 e5e1 f2f1,1736,96,advantage endgame hangingPiece short
+10SVS,r3k2r/ppp1qpp1/7p/5b2/1bNnN3/2PQ4/PP3PPP/2KR1B1R b kq - 3 13,f5e4 d3d4 b4c5 d4g7,1740,94,advantage hangingPiece master masterVsMaster middlegame short
+10ilU,4r1k1/1p3ppp/p1p1r3/8/1P1P4/2PQn1q1/P3R1PN/4R1K1 b - - 3 27,e3f5 d3f5 g3e1 e2e1,2044,89,advantage hangingPiece master middlegame short
+10uGm,r2qk2r/1pp1n1pp/p2bbp2/8/3QP3/5N1P/PP3PP1/RNBR2K1 w kq - 3 12,c1f4 d6f4 d4a4 e6d7,1646,91,advantage hangingPiece opening short
+10was,r1q1k2r/p3bpp1/1pp1p2p/3nNb2/3P1B2/1Q2P2P/PP3PP1/R3KB1R w KQkq - 0 13,e5c6 c8c6 f1b5 e7b4 b3b4 d5b4 b5c6 b4c6,1659,96,crushing hangingPiece middlegame veryLong
+110XO,3r1r2/pp3kbQ/2n3p1/2p1p1q1/3pP3/PP6/1BP5/1K3R1R b - - 1 29,f7e8 h7g7 f8f1 h1f1,1704,88,advantage hangingPiece master middlegame short
+110y8,8/8/5K2/p3P1n1/k7/8/8/8 b - - 1 61,a4b5 f6g5 a5a4 e5e6 b5c6 g5f6 a4a3 e6e7 c6d7 f6f7,1598,95,advancedPawn crushing defensiveMove endgame hangingPiece veryLong
+114Lf,r1b1qrk1/ppp1ppbp/6pB/4n2n/8/2N2P2/PPPQ2P1/2KR1BNR w - - 0 13,h1h5 g6h5 h6g7 g8g7 d2g5 e5g6,1546,96,advantage hangingPiece long opening
+119BQ,6k1/7p/pp2P1p1/8/1Ppp4/4n1P1/1P5r/1KR1R3 w - - 0 33,c1c4 e3c4 e6e7 c4d6,1642,95,advantage defensiveMove endgame hangingPiece short
+11aC8,r1b2rk1/pp1q1p1p/3p2p1/3NnNb1/2P1Q3/4P1P1/PP2PRBP/3R2K1 w - - 0 22,f5d6 d7d6 d5f6 d6f6 f2f6 g5f6,1680,94,advantage hangingPiece long middlegame
+11f6q,r2qkbnr/pQp3pp/2n2p2/3p3b/3P4/2P1PpBP/PP3PP1/RN2KB1R b KQkq - 0 9,f3g2 b7c6 e8f7 f1g2,1507,96,advantage hangingPiece intermezzo middlegame short
+11mzE,rr4k1/p5p1/5n1p/2Q2RN1/P7/8/1q4PP/4R1K1 w - - 0 30,f5f6 b2f6 c5d5 g8h8 g5f7 h8h7,1664,95,crushing defensiveMove hangingPiece long middlegame
+120cC,7r/pR6/3pk2p/6p1/2pPP3/2PnBrPP/P4p2/3R1K2 w - - 2 28,d1d3 c4d3 d4d5 e6e5 e3d4 e5e4 d4h8 d3d2,1948,90,advancedPawn advantage endgame hangingPiece veryLong
+126dL,8/7P/2k3K1/8/8/8/p4r2/7R b - - 0 52,f2h2 h1h2 a2a1q h7h8q,1977,92,advancedPawn crushing endgame hangingPiece master promotion rookEndgame short
+12Crf,8/7p/2Q3pk/5p2/7K/4r1P1/7P/5q2 b - - 4 50,f1h1 c6h1 e3e4 h4h3,1602,90,crushing defensiveMove endgame hangingPiece short
+12ORi,8/4k3/4P3/3K2p1/4N1P1/p7/P7/2b5 w - - 11 67,e4f6 e7f6 d5d6 c1d2 e6e7 d2b4,2081,95,crushing endgame hangingPiece long quietMove
+12VpR,r3kb1r/ppp1pppp/5n2/4n2q/2B3b1/2NP1N1P/PPPB1PP1/R2QK2R w KQkq - 1 9,h3g4 h5h1 e1e2 h1d1,1789,91,advantage hangingPiece master opening short
+12bsh,rn3r2/1b2ppkp/p4np1/1pq1N3/8/2NB4/PPPQ1PPP/R3R1K1 w - - 2 15,c3e4 c5e5 e4f6 e5f6,1587,92,crushing hangingPiece middlegame short
+134JR,r1bq1r2/1p2N1pk/p2p1p2/4bPB1/4P3/PQ5P/1PP3P1/R4RK1 w - - 1 22,e7c8 f6g5 c8b6 e5d4,2067,89,advantage hangingPiece middlegame short
+13QcO,r4rk1/1p3qpp/p1nQ1b2/5P2/4N3/4B2P/b1R1B1P1/3R2K1 w - - 0 22,c2a2 f7a2 d6e6 a2e6,1736,93,advantage hangingPiece middlegame short
+13WfT,5Q2/6b1/6pk/B4pp1/1PBqn3/7P/R4PP1/3b2K1 w - - 7 40,f8d8 d4c4 d8d1 c4a2,1625,91,advantage hangingPiece middlegame short
+13Zba,r4rk1/ppp2p1n/3p4/4pqPQ/3n1b1P/N2P4/PPP2P2/R3KBR1 b Q - 1 17,d4f3 h5f3 f4d2 e1e2 f5f3 e2f3,1641,92,advantage hangingPiece long middlegame
+13riI,r1bq2k1/pp3ppp/2n2n2/2N5/1P1p1b2/PN1PrBPP/1BPK4/R2Q3R b - - 0 19,e3d3 d2d3 c8f5 d3e2,1928,90,advantage defensiveMove hangingPiece middlegame short
+13snh,2r3k1/6p1/1p1q1r1p/p3Nn2/P1pPRp2/2P4P/2Q2PP1/4R1K1 w - - 2 30,e5g6 f6g6 e4e8 c8e8 e1e8 g8f7,1918,94,crushing hangingPiece long middlegame
+141rR,2R5/1p2r2k/p2KP1pp/3B2r1/8/8/8/8 b - - 3 44,g5d5 d6d5 g6g5 d5d6 e7e6 d6e6,1976,91,crushing endgame hangingPiece long rookEndgame
+14232,1r3rk1/1n3ppp/p2p2b1/q1pBb3/4P3/1P3N1P/P1Q2PP1/1RB1R1K1 w - - 1 21,f3e5 a5e1 g1h2 d6e5,1621,94,advantage hangingPiece intermezzo kingsideAttack middlegame short
+14QHF,2kr2nr/ppp2pp1/2n2q1p/1B6/Qb4b1/2N1BN2/PP3PPP/R3R1K1 b - - 5 14,b4c3 a4g4 f6e6 g4e6 f7e6 b2c3,2008,90,advantage hangingPiece long middlegame
+14RTI,5rk1/p3R1pp/Q1p1p3/P1P1P3/6P1/3bB2P/8/3q1BK1 w - - 1 36,e7g7 g8g7 a6d3 d1d3 f1d3 f8f3,1776,100,advantage hangingPiece long middlegame
+14YL5,2rq1rk1/pp1b1ppp/2nbp3/8/3PB3/5N2/PP3PPP/R1BQR1K1 w - - 1 13,e4h7 g8h7 f3g5 h7g6 d1d3 f7f5,1969,92,advantage defensiveMove hangingPiece long opening
+14fEk,8/8/p1nB4/3pp1k1/1P6/3K1P2/8/8 w - - 2 48,d6e5 c6e5 d3d4 e5c6 d4d5 c6b4,1910,92,crushing endgame exposedKing hangingPiece long
+14il5,4r1k1/2r2pp1/4q2p/8/8/4R2P/R4PP1/3Q2K1 b - - 2 25,e6a2 e3e8 g8h7 d1d3 g7g6 d3d4 f7f6 d4f6,1826,93,crushing endgame hangingPiece quietMove veryLong
+14nQd,7b/p1Rr1p1k/4p1p1/Pb2P3/3p1q2/3P4/4QPBP/2R3K1 w - - 4 33,c7d7 f4c1 e2f1 c1f1 g1f1 b5d7,1542,92,crushing hangingPiece long middlegame
+151DU,1k1r3r/pp2ppb1/2qp1n2/Q7/1PP3pB/5P2/P3BPK1/R4R2 b - - 1 23,h8h4 a5d8 c6c8 d8c8,1858,93,advantage hangingPiece master middlegame queensideAttack short
+151hK,8/8/8/4KP2/kp1N4/5P2/8/3r4 b - - 0 56,d1d4 e5d4 b4b3 d4c3 a4a3 f5f6 b3b2 f6f7 b2b1q f7f8q,1972,95,advancedPawn crushing endgame hangingPiece promotion veryLong
+1579O,R7/ppp2ppk/3p1q1p/8/3P4/3n1N2/PP1QbPP1/1K6 b - - 7 25,f6f5 d2e2 d3b4 b1c1,2018,90,advantage defensiveMove endgame hangingPiece short
+15EcG,5rk1/pb4b1/1p1p1nB1/2p1n1B1/3p3Q/2P2N2/PP2q1PP/R4R1K w - - 4 20,g5f6 e5g6 h4g5 f8f6,1812,95,advantage hangingPiece master middlegame short
+15d1Z,8/8/kP6/B3K3/1P6/8/8/3r4 w - - 25 97,b4b5 a6a5 b6b7 d1d8,1789,92,crushing defensiveMove endgame hangingPiece short
+15nO0,rnbq1k2/pp3p2/2pp1n2/6Q1/4r3/2P2N1P/P1P1BPP1/R3K2R b KQ - 0 16,d8d7 g5f6 e4e2 e1e2 d7e6 f6e6,1707,90,advantage hangingPiece long middlegame
+15stz,2krr3/1pp1q3/8/1PP2p1p/5P1b/3PB3/R1Q2K1P/4R3 w - - 1 28,f2f3 h4e1 a2a8 c8d7 c5c6 d7e6,2000,92,advantage defensiveMove hangingPiece long middlegame
+165b0,2rq1rk1/3nbppp/b3p3/3pP3/1p1Q1B1P/1N1n1NP1/PP3PB1/RR4K1 b - - 1 20,c8c4 d4d3 c4c1 b3c1 a6d3 c1d3,1893,92,advantage hangingPiece long master middlegame
+16IFL,8/2k5/8/PK2n2p/6p1/2P4B/8/8 w - - 0 43,a5a6 g4h3 a6a7 c7b7 a7a8q b7a8,1700,100,crushing endgame hangingPiece long
+16JDY,8/8/4pk2/8/5pK1/4b3/8/4R3 w - - 2 53,e1e3 f4e3 g4f3 f6f5 f3e3 f5e5,1974,96,crushing defensiveMove endgame hangingPiece long zugzwang
+16l9o,r3kr2/pp6/1bpp2q1/4p1B1/4N1np/P2P1nP1/BPP1QPK1/R4R2 b q - 1 23,f3g5 e2g4 h4h3 g2h1,1977,93,advantage defensiveMove hangingPiece middlegame short
+171cq,8/2r1k1p1/2P1pp1p/3nN3/8/r7/1R3PPP/2R2K2 w - - 0 30,b2b7 f6e5 b7c7 d5c7,1799,92,advantage endgame hangingPiece short
+179Qi,r1bq1rk1/4bppp/p2p4/1p1QpP2/4P3/4B3/PPP3PP/RN3RK1 b - - 0 13,d8c7 d5a8 c8b7 a8a7 f8a8 a7b6,1723,95,crushing hangingPiece long middlegame
+17Mjj,r1bq1rk1/b1p1npp1/3p1n1p/1p2p3/1PB1P3/2PPBNNP/5PP1/R2QK2R b KQ - 1 13,a7e3 a1a8 b5c4 f2e3,1661,85,advantage hangingPiece intermezzo middlegame short
+17O9d,r1bqk2r/ppp2ppp/8/2bpn3/4n3/1B1P4/PPP1QPPP/RNB2RK1 b kq - 0 8,e4f2 e2e5 c8e6 f1f2 c5f2 g1f2,2062,88,advantage hangingPiece intermezzo long opening
+17PGc,1r2k1n1/p3p1b1/2p3p1/q1PpP1N1/3Q2Br/8/Pp5P/1R3RK1 b - - 1 22,h4g4 d4g4 g8h6 g4e6,1647,91,crushing hangingPiece middlegame short
+17VyB,r1bq1rk1/p3bppp/1p3n2/n3pN2/8/P1NQP3/1P3PPP/RBB1K2R b KQ - 1 13,d8d3 f5e7 g8h8 b1d3,1603,94,advantage hangingPiece intermezzo middlegame short
+17asY,1kr4r/pp1n1ppp/3bp3/3q4/Q1BP2b1/P3PN2/1B3PPP/2R2RK1 b - - 5 17,d5f5 a4d7 h8d8 d7b5 f5b5 c4b5,1973,95,crushing hangingPiece long middlegame
+181ad,8/8/3p2qk/1P2pp2/3r4/5Q1P/2R2bNK/8 b - - 3 50,f5f4 f3f2 g6g3 f2g3 f4g3 h2g3,1762,93,crushing endgame hangingPiece long master masterVsMaster
+186AI,r3kb1r/pp3pp1/2p1p3/3p4/2n3pq/2N2QB1/PPB2PPP/2KRR3 w kq - 0 20,e1e6 f7e6 c2g6 e8d7 f3f7 h4e7,2096,91,advantage hangingPiece long middlegame
+18Oqb,2r2r2/3qbppk/p1n4p/1p1NpP2/4n3/P3BN2/1PP1B1K1/R2Q3R w - - 0 22,d5f6 e4f6 d1d7 f6d7,1788,95,advantage hangingPiece middlegame short
+18Tpk,r4rk1/pp1b4/4p2p/2ppP1q1/1bP1p1P1/2N1P1P1/PPQN1P2/R3K2R b KQ - 0 18,f8f2 e1f2 a8f8 f2g2,2034,88,advantage defensiveMove hangingPiece middlegame short
+18dq5,r4rk1/2pqbppp/p1n5/1p1NP2b/8/P3BN1P/1P3PP1/R2Q1RK1 b - - 0 15,c6e5 f3e5 h5d1 e5d7,1537,95,crushing hangingPiece middlegame short
+18osy,r1b3k1/1p1p1q2/p3p1n1/2P1P3/PQ3Pp1/2P1K3/7R/5B2 b - - 2 37,g6e5 f4e5 f7f3 e3d2,1590,94,advantage hangingPiece middlegame short
+19Dv6,r1b1r1k1/pppn1ppp/1b4q1/3P4/3PN2B/5B2/PPP2PPP/R2Q1RK1 w - - 7 14,f3h5 g6e4 f1e1 e4e1 d1e1 e8e1,1633,96,advantage hangingPiece kingsideAttack long opening
+19JnJ,3rk2r/4n1p1/p5q1/1p2ppB1/3np1pP/1BN3R1/PPP2QP1/R3K3 b Qk - 1 19,g6g5 h4g5 h8h1 f2f1 h1f1 e1f1,1955,94,advantage hangingPiece long middlegame
+19PNl,1k6/1p1r4/1Q2p2p/p4p2/3P1P2/4B1PK/2q5/1R6 w - - 8 45,b6e6 c2b1 e6e5 d7c7,1863,92,crushing defensiveMove endgame hangingPiece short
+19U5w,8/2r2kpp/1K6/2p1p3/2Ppp3/6P1/P3R2P/8 b - - 1 34,f7e6 b6c7 e4e3 a2a4 e5e4 a4a5 d4d3 e2e3,2051,90,crushing endgame hangingPiece quietMove rookEndgame veryLong
+1AerM,Q4b1r/p4k1p/4p3/2P2nq1/3p4/7P/PP3PP1/R3K2R b KQ - 0 20,f8c5 a8h8 c5b4 e1f1,1544,91,crushing defensiveMove hangingPiece middlegame short
+1AhnH,3r2k1/3r2p1/2pN2bp/1pP1qp2/pP1Rp3/P1Q1P2P/5PP1/3R2K1 w - - 2 36,d6f7 g6f7 d4d7 e5c3 d7d8 g8h7,1654,96,advantage hangingPiece long middlegame
+1B4bM,r1b2rk1/pp1nppbp/3p1npB/q1pP4/2P1P3/2N2N2/PP1Q1PPP/R3KB1R b KQ - 2 9,f6e4 c3e4 a5d2 h6d2,1894,94,advantage hangingPiece opening short
+1B7c2,8/1rP2R2/8/3P3p/6p1/5p2/6kP/2K5 w - - 0 62,c7c8q b7f7 c8e8 f7c7 c1d2 f3f2,1858,91,advancedPawn crushing endgame exposedKing hangingPiece long master masterVsMaster queenRookEndgame
+1BNdW,8/4kp2/4Pp2/p1p4N/np2P3/1P3PP1/5K2/8 b - - 1 40,c5c4 b3a4 b4b3 h5f4 b3b2 f4d5 e7e6 d5c3,2087,94,crushing defensiveMove endgame hangingPiece knightEndgame quietMove veryLong
+1BXIC,r2R4/1pp2pk1/6pp/p4b2/2P1N3/P5P1/1b3PBP/5RK1 w - - 1 19,f1b1 a8d8 g3g4 f5e4,1533,91,advantage hangingPiece middlegame short
+1Ball,r4rk1/1pb2ppp/p1np1q2/8/2P3b1/P2B1N2/1P1B1PPP/R2QR1K1 w - - 0 15,d3h7 g8h7 f3g5 f6g5 d2g5 g4d1,1702,93,advantage hangingPiece long middlegame
+1CCt9,4r1k1/pb3rB1/1p4Qp/8/8/1q2nP2/6PP/R3R1K1 b - - 0 25,f7g7 g6e8 g8h7 e8e3,1872,94,advantage hangingPiece middlegame short
+1CQGW,4r1k1/pp3p1p/2p2p2/8/2n1r3/3RBKP1/PP3P1P/7R b - - 5 28,c4e5 f3e4 f6f5 e4d4 e5d3 d4d3,1634,95,crushing endgame hangingPiece long
+1CRY5,8/8/5p1p/5P1P/1P1kp3/2p3R1/6P1/6K1 w - - 0 42,g3c3 d4c3 g1f2 c3d2 b4b5 e4e3 f2f3 e3e2,1876,93,advancedPawn crushing endgame hangingPiece veryLong
+1CXJI,4Rb2/5kp1/7P/8/p2r3P/7K/4P3/8 w - - 3 45,e8f8 f7f8 h6h7 d4h4 h3h4 g7g5 h4g3 f8g7,2042,94,attraction crushing endgame hangingPiece master rookEndgame veryLong
+1Cf2K,r4r2/5pk1/3qp1pp/3p4/3Pnn2/PP2RN1P/3QNPP1/R5K1 w - - 1 29,e3e4 d5e4 d2f4 d6f4,1818,97,advantage hangingPiece middlegame short
+1CnSE,3r2k1/1p3ppp/p3p3/2q1R3/8/1P4Q1/P1p2PPP/2R3K1 b - - 0 23,c5e5 g3e5 d8d1 e5e1,1562,92,crushing endgame hangingPiece short
+1DHQ7,8/pp6/1r5p/2P2kp1/4pp2/1P5P/PB1r1PP1/4R1K1 w - - 0 34,c5b6 d2b2 b6a7 b2a2,1663,93,advantage endgame hangingPiece short
+1DLmE,6k1/B1R2pp1/p3b2p/1rb5/4P3/7P/5PP1/1R4K1 w - - 0 32,c7c5 b5b1 g1h2 b1b7 c5a5 b7a7,1580,97,advantage endgame hangingPiece long trappedPiece
+1DXnq,r4k2/1pp2p2/p6p/2bPNbpN/P7/5QP1/5qPK/1R6 b - - 5 28,f2e3 f3f5 e3e5 f5e5,1518,94,crushing hangingPiece middlegame short

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "backRankMate-b",
+    "theme": "backRankMate",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 66671,
+    "version": 1,
+    "file": "backRankMate-b.csv"
+  },
+  {
+    "id": "backRankMate-c",
+    "theme": "backRankMate",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 68280,
+    "version": 1,
+    "file": "backRankMate-c.csv"
+  },
+  {
+    "id": "discoveredAttack-a",
+    "theme": "discoveredAttack",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 57127,
+    "version": 1,
+    "file": "discoveredAttack-a.csv"
+  },
+  {
+    "id": "discoveredAttack-b",
+    "theme": "discoveredAttack",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 58163,
+    "version": 1,
+    "file": "discoveredAttack-b.csv"
+  },
+  {
+    "id": "discoveredAttack-c",
+    "theme": "discoveredAttack",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 61677,
+    "version": 1,
+    "file": "discoveredAttack-c.csv"
+  },
+  {
+    "id": "endgame-a",
+    "theme": "endgame",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 49313,
+    "version": 1,
+    "file": "endgame-a.csv"
+  },
+  {
+    "id": "endgame-b",
+    "theme": "endgame",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 50551,
+    "version": 1,
+    "file": "endgame-b.csv"
+  },
+  {
+    "id": "endgame-c",
+    "theme": "endgame",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 51457,
+    "version": 1,
+    "file": "endgame-c.csv"
+  },
+  {
+    "id": "fork-a",
+    "theme": "fork",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 48847,
+    "version": 1,
+    "file": "fork-a.csv"
+  },
+  {
+    "id": "fork-b",
+    "theme": "fork",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 52085,
+    "version": 1,
+    "file": "fork-b.csv"
+  },
+  {
+    "id": "fork-c",
+    "theme": "fork",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 55806,
+    "version": 1,
+    "file": "fork-c.csv"
+  },
+  {
+    "id": "hangingPiece-a",
+    "theme": "hangingPiece",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 53322,
+    "version": 1,
+    "file": "hangingPiece-a.csv"
+  },
+  {
+    "id": "hangingPiece-b",
+    "theme": "hangingPiece",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 54961,
+    "version": 1,
+    "file": "hangingPiece-b.csv"
+  },
+  {
+    "id": "hangingPiece-c",
+    "theme": "hangingPiece",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 56607,
+    "version": 1,
+    "file": "hangingPiece-c.csv"
+  },
+  {
+    "id": "mateIn1-a",
+    "theme": "mateIn1",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 47374,
+    "version": 1,
+    "file": "mateIn1-a.csv"
+  },
+  {
+    "id": "mateIn1-b",
+    "theme": "mateIn1",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 47030,
+    "version": 1,
+    "file": "mateIn1-b.csv"
+  },
+  {
+    "id": "mateIn1-c",
+    "theme": "mateIn1",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 46747,
+    "version": 1,
+    "file": "mateIn1-c.csv"
+  },
+  {
+    "id": "mateIn2-a",
+    "theme": "mateIn2",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 51486,
+    "version": 1,
+    "file": "mateIn2-a.csv"
+  },
+  {
+    "id": "mateIn2-b",
+    "theme": "mateIn2",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 51862,
+    "version": 1,
+    "file": "mateIn2-b.csv"
+  },
+  {
+    "id": "mateIn2-c",
+    "theme": "mateIn2",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 53520,
+    "version": 1,
+    "file": "mateIn2-c.csv"
+  },
+  {
+    "id": "mateIn3-a",
+    "theme": "mateIn3",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 56498,
+    "version": 1,
+    "file": "mateIn3-a.csv"
+  },
+  {
+    "id": "mateIn3-b",
+    "theme": "mateIn3",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 58296,
+    "version": 1,
+    "file": "mateIn3-b.csv"
+  },
+  {
+    "id": "mateIn3-c",
+    "theme": "mateIn3",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 59546,
+    "version": 1,
+    "file": "mateIn3-c.csv"
+  },
+  {
+    "id": "pin-a",
+    "theme": "pin",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 49591,
+    "version": 1,
+    "file": "pin-a.csv"
+  },
+  {
+    "id": "pin-b",
+    "theme": "pin",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 51897,
+    "version": 1,
+    "file": "pin-b.csv"
+  },
+  {
+    "id": "pin-c",
+    "theme": "pin",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 54457,
+    "version": 1,
+    "file": "pin-c.csv"
+  },
+  {
+    "id": "sacrifice-a",
+    "theme": "sacrifice",
+    "min": 400,
+    "max": 1000,
+    "count": 118,
+    "bytes": 17597,
+    "version": 1,
+    "file": "sacrifice-a.csv"
+  },
+  {
+    "id": "sacrifice-b",
+    "theme": "sacrifice",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 61818,
+    "version": 1,
+    "file": "sacrifice-b.csv"
+  },
+  {
+    "id": "sacrifice-c",
+    "theme": "sacrifice",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 61888,
+    "version": 1,
+    "file": "sacrifice-c.csv"
+  },
+  {
+    "id": "skewer-a",
+    "theme": "skewer",
+    "min": 400,
+    "max": 1000,
+    "count": 400,
+    "bytes": 49142,
+    "version": 1,
+    "file": "skewer-a.csv"
+  },
+  {
+    "id": "skewer-b",
+    "theme": "skewer",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 51700,
+    "version": 1,
+    "file": "skewer-b.csv"
+  },
+  {
+    "id": "skewer-c",
+    "theme": "skewer",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 56253,
+    "version": 1,
+    "file": "skewer-c.csv"
+  },
+  {
+    "id": "trappedPiece-a",
+    "theme": "trappedPiece",
+    "min": 400,
+    "max": 1000,
+    "count": 110,
+    "bytes": 14687,
+    "version": 1,
+    "file": "trappedPiece-a.csv"
+  },
+  {
+    "id": "trappedPiece-b",
+    "theme": "trappedPiece",
+    "min": 1000,
+    "max": 1500,
+    "count": 400,
+    "bytes": 55235,
+    "version": 1,
+    "file": "trappedPiece-b.csv"
+  },
+  {
+    "id": "trappedPiece-c",
+    "theme": "trappedPiece",
+    "min": 1500,
+    "max": 2100,
+    "count": 400,
+    "bytes": 56251,
+    "version": 1,
+    "file": "trappedPiece-c.csv"
+  }
+]

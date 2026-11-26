@@ -1,0 +1,400 @@
+0KP4S,8/8/3k1p2/pr3Pp1/2RKP2p/7P/6P1/8 w - - 6 47,c4a4 b5b4 a4b4 a5b4,968,98,crushing endgame rookEndgame short
+0KyS6,8/1p6/p6p/5kbP/4p3/1P2B1P1/1PP1K3/8 b - - 4 34,g5e3 e2e3 f5g5 e3e4,876,98,crushing endgame short
+0LGVv,2k5/ppp5/2p3P1/5r1p/1P3p2/8/P4R2/6K1 b - - 0 33,f5g5 f2g2 g5g6 g2g6,849,99,crushing defensiveMove endgame rookEndgame short
+0MfEk,4rr1k/1p4p1/p6p/3R4/P7/1P3P1P/1q4P1/2RQ3K w - - 2 28,d1c2 e8e1 c1e1 b2c2,970,96,advantage deflection endgame short
+0NAeQ,8/B7/4p1k1/1P2P3/5n1p/8/8/7K b - - 0 57,f4d5 b5b6 d5b6 a7b6,616,99,crushing endgame short
+0NHe8,8/5p2/3k1P2/6P1/1p6/1K6/8/8 w - - 1 55,g5g6 f7g6 f6f7 d6e7 f7f8r e7f8,946,97,crushing endgame long pawnEndgame
+0Opmu,r6k/5Qpp/p1N2Rp1/1pn5/8/2P1q3/PP4PP/7K b - - 0 27,g7f6 f7f6 h8g8 c6e7 e3e7 f6e7,995,98,advantage endgame long
+0OvfC,8/p7/1p6/2p3Rp/r1k2Pp1/6P1/3r1PK1/5R2 b - - 2 41,d2d5 f1c1 c4b3 g5d5,954,95,crushing deflection endgame rookEndgame short
+0P9nB,4r1k1/pp4pp/2p5/7q/2P1Q2P/PP4P1/4P1K1/R7 w - - 1 32,e4f3 e8e2 f3e2 h5e2,868,89,advantage endgame short xRayAttack
+0PHpe,8/1b1r4/2p1k1p1/1p1p1p1p/pP3P1P/P3PKP1/1B2R3/3R4 w - - 18 51,e3e4 d5e4 e2e4 f5e4,956,93,advantage endgame short
+0PY6y,8/2R2N2/r5p1/8/7k/8/5nPK/8 w - - 6 41,c7c4 f2g4 c4g4 h4g4,974,98,crushing endgame master short
+0PsSS,8/4Kpp1/p7/1p3P2/8/Pk6/1P3P2/8 b - - 12 38,b3b2 e7f7 b2a3 f7g7 b5b4 f5f6 b4b3 f6f7 b3b2 f7f8q,977,100,advancedPawn crushing endgame pawnEndgame promotion veryLong
+0PsZn,2k4r/1p2p3/p2p2pr/3P4/q2N2Q1/3P4/PPP3RP/7K b - - 1 25,c8b8 d4c6 a4c6 d5c6,952,96,advantage endgame master queensideAttack short
+0QuMo,r5k1/7p/4P1p1/pR3p2/5P2/6PP/r7/1R5K b - - 0 40,a5a4 b5b8 a8b8 b1b8 g8g7 e6e7,963,97,advancedPawn crushing endgame long rookEndgame
+0R46M,8/p7/3p2p1/2p1k1P1/1pP2p1P/1P3P2/P2K4/8 b - - 3 36,e5d4 h4h5 g6h5 g5g6 d4e5 g6g7,997,100,advancedPawn crushing endgame long pawnEndgame
+0SC5Y,4r1k1/3npp1p/3p2p1/qp6/4N3/1P2QPP1/P4P1P/2R3K1 b - - 1 22,a5b6 e4f6 d7f6 e3b6,974,95,crushing deflection endgame master masterVsMaster short
+0T4nK,8/8/1p1p1pk1/1P1P2Pp/5K1P/5P2/8/8 b - - 0 40,f6g5 h4g5 h5h4 f4g4 h4h3 g4h3,886,99,crushing endgame long pawnEndgame zugzwang
+0TUre,8/8/2P1N1p1/7p/5R2/6k1/P1K2p2/3r4 b - - 2 44,f2f1q f4f1 d1f1 c6c7,979,96,advancedPawn crushing endgame short
+0U3YG,8/5Pk1/6P1/p3p3/Ppp3K1/1P6/8/8 w - - 0 54,b3c4 b4b3 f7f8q g7f8 c4c5 b3b2,897,99,advancedPawn crushing endgame long pawnEndgame
+0UfW9,5k2/4qp2/7Q/8/3p4/8/r5P1/5R1K b - - 5 47,f8e8 h6h8 e8d7 h8d4,955,97,crushing endgame short
+0Uyqy,8/8/5p1P/6p1/2pk1p2/1p6/2KN4/8 w - - 0 43,d2b3 c4b3 c2b3 f4f3 h6h7 f3f2 h7h8q f2f1q,892,96,advancedPawn crushing endgame promotion veryLong
+0VzDC,8/7p/3k2pP/p4p2/1pPp1P2/1P4P1/P2K4/8 b - - 1 41,d6c5 d2d3 a5a4 b3a4 b4b3 a2b3,981,99,crushing endgame long pawnEndgame zugzwang
+0WYof,8/8/4pk2/5p2/5P1K/7P/8/8 w - - 0 50,h4h5 e6e5 f4e5 f6e5 h5g5 f5f4 g5g4 e5e4 h3h4 f4f3,989,100,crushing endgame pawnEndgame quietMove veryLong
+0XcDb,8/7p/5kp1/4p3/4P2P/5PK1/8/8 w - - 1 40,g3g4 h7h5 g4g3 g6g5,944,100,crushing endgame pawnEndgame short
+0ZDbE,8/8/4p3/nB1k1p2/2pP2p1/2K1PPP1/8/8 w - - 0 52,b5c4 a5c4 e3e4 f5e4 f3e4 d5e4,970,98,crushing endgame long
+0aD8T,6k1/5qpp/p7/1p2p3/3pP3/3P4/4p2Q/4R2K w - - 2 34,e1e2 f7f1 h2g1 f1e2,979,98,crushing deflection endgame short
+0aaT6,8/4k3/7R/P3p3/1K2P3/P4rpp/8/8 w - - 0 50,h6h3 g3g2 h3f3 g2g1q,916,96,advancedPawn crushing endgame master promotion rookEndgame short
+0bOYd,1k1q4/ppp5/4b2P/4p3/4P3/7P/6B1/5R1K b - - 0 37,d8d7 f1f8 d7c8 f8c8 b8c8 h6h7,765,99,advancedPawn crushing endgame long master
+0bphO,2R5/8/6p1/2p2p1p/1pKb1k2/1P3P1P/6P1/8 w - - 4 37,c8c5 d4c5 c4c5 f4g3,997,91,crushing endgame short
+0bzDp,R7/8/8/1p3rk1/4Kp1p/5P1P/8/8 b - - 7 41,b5b4 a8g8 g5f6 g8f8 f6e6 f8f5,952,97,crushing endgame long rookEndgame
+0cH1W,2k5/ppp5/8/2P5/3P2q1/B1P1pp2/P3R1PP/R4K2 w - - 0 26,g2f3 g4f3 f1g1 f3e2,972,95,crushing deflection endgame short
+0cSvN,3r4/1pRr2k1/1pR2p1p/pq1PpQp1/4P1P1/8/1P3PP1/6K1 b - - 5 32,b7c6 c7d7 d8d7 f5d7,952,98,crushing endgame master masterVsMaster short
+0clj5,4k3/5R2/6K1/8/r7/8/8/8 w - - 18 65,g6g7 a4g4 g7f6 g4f4 f6e6 f4f7,774,99,crushing endgame long rookEndgame
+0dLGx,8/2N5/3Kp3/4P3/3p4/1n6/k7/8 w - - 0 58,c7e6 d4d3 e6c7 d3d2 c7d5 d2d1q,766,99,advancedPawn crushing endgame knightEndgame long promotion
+0dhFE,r4k2/pp4p1/1bb2p1p/2pp4/1PB5/2P2P1R/P1P3PP/R5K1 w - - 0 20,b4c5 b6c5 g1f1 d5c4,967,90,crushing endgame short
+0dtiN,5rk1/5p1p/P1p1R1p1/3p4/3P1R2/q1P2Q1P/P5P1/2r2BK1 b - - 0 24,f7e6 f4f8 a3f8 f3f8 g8f8 a6a7,715,98,advancedPawn crushing endgame long master
+0eYhk,8/8/2P1k3/7p/p2p3K/P7/5P2/8 w - - 1 45,c6c7 e6d7 c7c8r d7c8,918,99,crushing endgame pawnEndgame short
+0ekbw,8/8/4k3/5p2/2K2Bp1/b5P1/P7/8 w - - 1 41,c4b3 a3d6 f4d6 e6d6,978,95,bishopEndgame crushing endgame short
+0f2Te,8/5p1p/3p1N2/kp3P2/3KP3/6P1/b6P/8 w - - 1 46,f6d5 a2d5 d4d5 b5b4 d5d6 b4b3 e4e5 b3b2,999,95,advancedPawn crushing endgame master quietMove veryLong
+0gtQf,8/8/8/8/6kp/4K3/5P2/8 w - - 0 74,f2f3 g4g3 f3f4 h4h3 f4f5 h3h2,896,100,advancedPawn crushing defensiveMove endgame long pawnEndgame
+0iDuF,3r2k1/pp3p1p/4q1p1/4b3/4PB2/1P3PP1/P5KP/1Q2R3 w - - 2 24,f4e5 d8d2 e1e2 d2e2,985,96,crushing endgame short
+0imJx,8/8/8/5pKP/6p1/5kP1/8/8 b - - 0 58,f3g3 h5h6 g3f2 h6h7 g4g3 h7h8q,996,96,advancedPawn crushing endgame long pawnEndgame promotion
+0j56x,6k1/p4pp1/7p/6b1/1P6/3B1QPK/1q5P/8 b - - 5 44,b2b4 f3a8 b4f8 d3h7 g8h7 a8f8,992,95,crushing deflection endgame long
+0jDS8,8/p7/1k6/5K2/1pp5/6P1/PP6/8 w - - 0 44,g3g4 c4c3 b2c3 b4c3 g4g5 c3c2,967,95,advancedPawn crushing endgame long pawnEndgame
+0jYpY,8/8/8/8/Kpk5/8/1P6/8 w - - 3 54,b2b3 c4c3 a4b5 c3b3,995,96,crushing defensiveMove endgame pawnEndgame short zugzwang
+0k0A5,8/2p5/1p1k2p1/1Kn1pp2/P1P1P3/2N2P2/6P1/8 b - - 0 37,f5e4 c3e4 c5e4 f3e4,963,98,crushing endgame knightEndgame master short
+0kSqr,3R4/Pp3kpp/4p3/8/8/4Br2/Pq3P1P/5K1R b - - 0 23,b2b1 f1g2 b1g6 g2f3,899,97,advantage defensiveMove endgame master short
+0lZwO,8/pr5p/3k4/R2p2p1/3Pp1P1/1P5P/P2K4/8 b - - 1 39,b7f7 a5a6 d6d7 a6a7,758,97,crushing endgame interference master rookEndgame short
+0m1gD,4r3/p4k2/2pbpq2/3p4/3P2Q1/2N5/PP4PP/4R1K1 w - - 2 25,e1f1 d6h2 g1h2 f6f1,981,94,advantage deflection endgame short
+0m4jR,5k2/3b1pp1/8/3pPP1p/B2P4/K7/7P/8 b - - 0 34,d7a4 a3a4 g7g6 f5g6,966,94,advantage endgame short
+0mRcw,5rk1/p6p/3p4/2p3p1/5N2/1P2p1P1/P1P4P/3R3K w - - 0 27,f4e6 e3e2 d1e1 f8f1 h1g2 f1e1,983,93,advancedPawn crushing endgame long
+0nau7,r5k1/1pp3p1/p3rp1p/4n3/P3RP2/2P4P/1P1N2P1/4R1K1 b - - 0 23,e5d3 e4e6 d3e1 e6e1,870,96,crushing endgame short
+0nrbL,8/8/8/7p/7k/4KP2/8/8 w - - 0 49,e3e4 h4g3 f3f4 h5h4 f4f5 h4h3 f5f6 h3h2 f6f7 h2h1q,905,97,advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong
+0pEfM,R7/6pk/1p4r1/3p1Qp1/1P6/4qPP1/7P/7K w - - 1 40,a8a6 e3e1 h1g2 e1e2,976,95,crushing endgame short
+0qEHc,8/5p2/3p4/2nP1PPp/1kP5/1P6/4K3/8 b - - 0 42,b4b3 g5g6 f7g6 f5g6 b3c4 g6g7,837,97,advancedPawn advantage endgame knightEndgame long
+0qUg2,8/8/2k3p1/1pP1pp1p/1P4PP/5P2/5K2/8 b - - 0 45,f5g4 f3g4 h5g4 f2g3 c6d5 g3g4,966,97,crushing endgame long pawnEndgame
+0r7QN,8/8/6p1/1K2p3/6k1/7r/1P2R3/8 w - - 0 35,e2e5 h3b3 b5c6 b3b2,998,96,advantage endgame rookEndgame short
+0rLsw,8/6p1/6p1/1p1k1pP1/1Pp2P2/7P/P2K4/8 w - - 1 42,d2c3 d5e4 a2a4 b5a4,984,97,crushing endgame pawnEndgame short
+0rfUA,8/N5b1/2k1p1p1/2pp2Pp/5P1P/2PKP3/8/8 b - - 3 35,c6b6 a7c8 b6c7 c8e7 c7d7 e7g6,992,96,advantage endgame long
+0sSQM,r5k1/pppb2p1/4p2p/3pP3/8/2PBP1P1/PP1K2P1/5R2 b - - 0 19,a8f8 d3h7 g8h7 f1f8,993,97,advantage deflection endgame kingsideAttack short
+0tG9M,8/2pb4/1p6/3p1k1p/P2P2p1/1P4K1/2PB3P/8 w - - 0 34,d2f4 h5h4 g3h4 f5f4,978,95,bishopEndgame crushing deflection endgame short
+0tX7w,8/6pk/pq3p1p/5P2/K1Q3P1/8/P7/8 b - - 3 51,b6b5 c4b5 a6b5 a4b5 h6h5 g4h5,974,90,crushing endgame long queenEndgame
+0v5ZF,7B/8/3nk1p1/p1p2pP1/7P/2PKNb2/P7/8 w - - 4 44,e3c4 f3e4 d3e3 d6c4,991,95,crushing deflection endgame short
+0veGZ,5rk1/p4ppp/3b4/8/1P1p2R1/P2q1P2/4R2P/5Q1K w - - 0 27,f1g2 d3d1 g2g1 d1e2,952,90,crushing deflection endgame short
+0vvOw,8/5rk1/1pR3p1/2b2r2/8/4PB2/4KP2/3R4 w - - 2 44,f3e4 f5f2 e2d3 f7d7,869,93,advantage endgame master masterVsMaster short
+0w57n,8/2k2K1p/r1P1P1p1/6P1/7P/8/8/8 b - - 6 75,c7c6 e6e7 a6a7 f7f8 a7a8 e7e8q a8e8 f8e8,979,92,advancedPawn crushing endgame exposedKing promotion rookEndgame veryLong
+0w6Oe,8/1p6/7p/PP2k3/3n1p2/3B4/5K1P/8 b - - 0 44,d4b3 a5a6 b7a6 b5a6,944,98,crushing endgame master short
+0wpN3,8/6R1/4pp1p/3k4/3r4/4K1P1/5P1P/8 b - - 2 43,d5e5 f2f4 d4f4 g3f4,949,98,crushing endgame rookEndgame short
+0y9HQ,8/p3R3/1p6/8/1P1p2r1/3P1k1p/7K/8 b - - 4 51,g4g3 e7f7 f3e2 h2g3,967,96,advantage deflection endgame rookEndgame short
+0yK4e,2r4k/2PR2bp/p5p1/1p3p2/1P6/P7/4K1PP/8 b - - 0 46,g7e5 d7d8 h8g7 d8c8,863,97,crushing endgame short
+0yxDm,8/8/1pk5/p1p5/P1P1p3/1P2PrpK/4R3/8 b - - 8 41,f3f2 e2f2 g3f2 h3g2 c6d6 g2f2,981,99,crushing endgame long rookEndgame
+0z5fv,7r/pp1P1R2/6k1/6P1/8/1BNn4/P4P1p/7K w - - 1 41,f7e7 d3f2 h1g2 h2h1q,946,95,advancedPawn crushing endgame promotion short
+108tF,8/3R1p2/1pk1r1b1/p1p1q3/P7/1PQ1B3/1KPP4/8 w - - 2 37,d2d4 e5e3 c3e3 e6e3,903,97,advantage endgame master short
+10U9L,1k1r4/1pp1n3/p4q2/3P1pp1/PPQ4p/5N1P/5PP1/3R2K1 b - - 1 32,e7d5 d1d5 f6a1 g1h2 d8d5 c4d5,981,92,advantage endgame long
+10w4i,8/p7/5P2/1p1b4/1P4K1/Pk6/7N/8 w - - 3 62,g4g5 b3a3 g5f4 a3b4,979,95,crushing endgame short
+11E2R,8/5pk1/P5p1/2q1P3/2pp1Q2/7P/6P1/7K b - - 2 41,c5b6 f4f6 b6f6 e5f6 g7f6 a6a7,929,99,advancedPawn crushing endgame long queenEndgame
+11Fuz,6R1/4r3/4p1k1/4Ppp1/5P2/6PK/8/8 b - - 3 45,e7g7 g8g7 g6g7 f4g5,991,94,crushing endgame rookEndgame short
+11GLn,6k1/8/6PP/3p4/p3p3/5r2/1p2K3/7R b - - 2 58,f3f6 h6h7 g8h8 g6g7 h8g7 h7h8q,846,90,advancedPawn attraction crushing endgame exposedKing long promotion rookEndgame
+12Xqj,8/8/1p3k1p/pPp2pp1/P1P2P1P/4K3/6P1/8 w - - 0 43,h4h5 g5f4 e3f4 f6e6,970,96,crushing defensiveMove endgame pawnEndgame short
+13QhC,4r1k1/2pR3p/3b1ppK/6P1/2P4P/1P4r1/8/5R2 b - - 1 42,e8e7 d7d8 e7e8 d8e8,988,91,crushing endgame short
+13nbZ,8/B4pkp/3Nbbp1/8/8/1n6/5PPP/3B2K1 b - - 2 30,b3d2 d6e8 g7f8 e8f6,989,98,crushing deflection endgame short
+145pk,8/8/8/1kP2p2/1P3Pp1/5nP1/6Kp/8 b - - 4 48,b5c4 c5c6 h2h1r g2h1,981,97,crushing endgame knightEndgame master short
+14sE6,8/7p/4p3/4P2k/2N2PpP/2RK2P1/r4b2/8 w - - 3 50,c3c2 a2c2 d3c2 f2g3,999,93,crushing endgame short
+15aUc,6k1/P4p1p/6p1/2r5/3R1P2/2p3P1/7P/6K1 b - - 0 38,c5a5 d4d8 g8g7 a7a8q a5a8 d8a8,890,100,advancedPawn crushing endgame long promotion rookEndgame
+15neZ,1q1r3k/6pp/5p2/3Q4/1P6/2P5/P4RBP/7K w - - 1 30,d5b7 d8d1 f2f1 d1f1 g2f1 b8b7,994,96,crushing endgame long
+16037,8/8/2p1k1p1/3b1p1p/8/4B1PP/1r3P1K/4R3 b - - 3 49,e6f6 e3d4 f6f7 d4b2,977,99,endgame
+177SN,8/5pkp/6p1/pR6/4p1bP/6P1/PRq1rPQ1/6K1 b - - 3 35,c2b2 b5b2 e2b2 g2e4,870,98,advantage endgame master short
+17IoY,6k1/1p1bq3/p1p1p2b/3p1p1P/3P4/2PBP1Q1/PP2KP2/8 b - - 1 27,g8h7 g3g6 h7h8 g6h6,993,93,crushing deflection endgame short
+18BnT,8/8/5pp1/5k1p/7P/5KP1/6P1/8 w - - 2 71,f3e3 f5g4 e3e2 g4g3,957,97,crushing endgame pawnEndgame short
+18V4L,6k1/1r1b1ppp/2Pr4/4p3/8/4P3/1P3PPP/2KR3R b - - 0 21,d6d1 h1d1 b7c7 d1d7,934,91,advantage endgame short
+1Bee7,8/3k4/5p2/1pP1p1p1/4P1Pp/2K2P1P/8/8 w - - 1 43,c3b4 d7c6 b4c3 c6c5,864,99,crushing endgame pawnEndgame short zugzwang
+1CLSW,6k1/5p1p/Q5p1/2P5/PP3n2/7P/5PP1/4qNK1 w - - 1 33,c5c6 f4e2 a6e2 e1e2,931,96,advantage endgame short
+1CS57,8/4k3/3pp2p/1p2p1pP/pPr1P1P1/P4P2/1K6/2R5 w - - 0 46,c1c4 b5c4 b2c3 d6d5 e4d5 e6d5,937,98,crushing endgame long master
+1Cx4V,8/K2k4/pBp5/P1P5/2b5/8/8/8 b - - 12 70,c4d5 a7a6 d7c8 a6a7,961,97,bishopEndgame crushing defensiveMove endgame master short
+1D9oj,8/8/8/p7/Pkr5/5R2/4K3/8 w - - 0 60,e2d3 c4c3 d3e4 c3f3 e4f3 b4a4,904,99,crushing endgame long rookEndgame
+1DlSR,R7/3b1ppk/p1p4p/8/1P1Nn3/4qP1P/2Q3P1/7K b - - 2 33,e3d4 c2e4 d4e4 f3e4,975,99,advantage endgame short
+1ESMi,8/5k1p/b3N1p1/p3P3/P5PP/1P6/3rp2K/4R3 w - - 4 46,e6c5 d2d1 e1e2 a6e2,959,95,crushing endgame short
+1EYuz,8/7p/6p1/5k2/3R1P2/2r1K2P/6P1/8 w - - 3 38,d4d3 c3d3 e3d3 f5f4 d3e2 f4g3,983,93,crushing endgame long rookEndgame
+1FXf9,7k/1p2b1p1/3B4/8/8/pr5P/6P1/4R2K w - - 0 38,d6e7 a3a2 h1h2 b3b1,979,93,advancedPawn crushing endgame short
+1Fii3,8/6N1/p1p1n3/2k1P2P/8/8/1pK5/8 b - - 0 57,e6g7 h5h6 g7e6 h6h7 b2b1b c2b1,962,97,advancedPawn crushing endgame knightEndgame long
+1GDkq,8/8/5kpp/3B4/pr2PK2/5N2/P7/8 w - - 0 44,f3e5 g6g5 f4g3 f6e5,997,98,crushing deflection endgame short
+1GDsp,8/p7/8/2pk2K1/8/8/P4P2/8 w - - 0 50,f2f4 c5c4 f4f5 c4c3 f5f6 c3c2 f6f7 c2c1q,845,99,advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong
+1GiMr,8/4p3/4p1p1/1pkrP1Pp/p1pR1P1P/2P1K3/PP6/8 w - - 12 36,a2a3 d5d4 c3d4 c5d5,800,97,crushing endgame rookEndgame short zugzwang
+1H8xz,6k1/5n2/p5KP/1p4P1/3p4/8/PP6/8 b - - 0 43,d4d3 h6h7 g8h8 g6f7 h8h7 g5g6 h7h6 g6g7,861,96,advancedPawn crushing deflection endgame exposedKing knightEndgame veryLong
+1HQnC,2k5/2P5/3P4/1p6/1P4p1/4p1K1/8/8 b - - 2 49,e3e2 g3f2 g4g3 f2e2 g3g2 e2f2 g2g1r f2g1,978,97,crushing endgame pawnEndgame veryLong
+1Iili,8/5p2/8/6pp/1P6/2R3P1/2K4k/6r1 b - - 0 42,g1g3 c3g3 h2g3 b4b5 g3g2 b5b6 h5h4 b6b7 h4h3 b7b8q,978,98,advancedPawn crushing endgame promotion quietMove rookEndgame veryLong
+1J3f9,8/5Q2/p3p1pk/8/1P1P4/P6p/8/5KBq w - - 1 48,f1f2 h1g2 f2e3 g2g1,984,96,crushing deflection endgame short
+1JoRQ,8/6kp/2P5/1P2p3/4P2p/4K2P/1P1r2P1/8 b - - 6 42,d2b2 c6c7 b2c2 b5b6,958,97,advancedPawn crushing endgame rookEndgame short
+1KcSQ,8/3r1k1p/1P4p1/2Pp1p2/8/4P3/PK3PPP/8 b - - 0 35,f7e7 c5c6 d7d8 c6c7,935,95,advancedPawn crushing endgame master rookEndgame short superGM
+1MMfq,8/8/p2k4/8/2P2b2/5K1p/P4B2/8 w - - 0 42,f2g1 h3h2 g1h2 f4h2,929,96,advancedPawn advantage bishopEndgame endgame short
+1N5e2,5r1k/7p/5b2/2P2pp1/1P2pB2/1Q5P/4qPP1/1R4K1 w - - 0 31,f4c1 e2e1 g1h2 f6e5 b3g3 e5g3,984,97,crushing endgame long master
+1Nwii,2r3k1/p5p1/7p/P1B5/3P4/1q1n4/2p1QPPP/2R3K1 w - - 3 37,c1c2 b3b1 e2f1 b1c2,975,96,crushing deflection endgame short
+1P8Iu,6k1/1r4Pp/4p1p1/5p2/Pp6/1P6/8/3R3K b - - 0 48,b7g7 d1d8 g8f7 d8d7 f7f6 d7g7,935,98,crushing endgame long rookEndgame
+1PVkw,8/4R1p1/7p/2K2k2/P7/5r2/8/8 b - - 1 56,g7g5 e7f7 f5g4 f7f3 g4f3 a4a5 f3f2 a5a6 g5g4 a6a7 g4g3 a7a8q,925,100,advancedPawn crushing endgame promotion quietMove rookEndgame veryLong
+1QG9d,3r2k1/5pp1/p2q3p/1p6/1Pp5/6P1/1PQ2P1P/4R1K1 b - - 0 27,d6d2 e1e8 d8e8 c2d2,959,91,advantage deflection endgame master short
+1QY9A,8/p7/1p3rpk/8/5RKP/2P2P2/P7/8 b - - 0 40,f6f4 g4f4 h6h5 f4g3,990,95,crushing defensiveMove endgame short
+1RXwO,7k/2P2Qpp/p1b5/1pN2p2/4pP2/4q1P1/7K/8 b - - 0 37,e3f2 h2h3 f2f1 h3h4 f1h1 h4g5 h1h6 g5f5 h6g6 f7g6,986,97,crushing endgame veryLong
+1RZZU,r6k/pp4bp/2q3p1/8/5p1P/1QR5/PP2p1P1/4B1K1 b - - 1 31,g7c3 e1c3 c6c3 b3c3,925,99,crushing endgame master short
+1SADh,8/8/8/8/5p1R/5k1P/6r1/7K b - - 3 51,f3g3 h4g4 g3f3 g4g2,892,96,crushing endgame rookEndgame short
+1ScFL,3r2k1/5pp1/1p5p/P7/1P6/5QP1/1q3PP1/R5K1 w - - 1 32,f3a3 d8d1 a1d1 b2a3,995,96,advantage deflection endgame short
+1TNaI,8/1k6/1P1Kp3/5ppp/8/8/6PP/8 b - - 2 45,b7b6 d6e6 f5f4 e6f5 f4f3 g2f3,984,95,crushing endgame long pawnEndgame
+1TwCp,8/1p3p1k/p3p1p1/4Q2p/8/1P2N3/P2q1PPP/6K1 w - - 2 32,a2a4 d2e1 e3f1 e1e5,982,95,crushing endgame short
+1UmBE,r6k/p5p1/5p2/Q3p2q/8/4R3/PPr2PP1/R5K1 b - - 4 27,h5f5 e3h3 f5h3 g2h3,951,96,crushing endgame short
+1Uv2B,3R4/2P2kp1/3Kp2p/5p2/5P2/3p2P1/7P/2r5 w - - 2 49,c7c8q c1c8 d8c8 d3d2 d6e5 d2d1q,959,97,advancedPawn crushing endgame long promotion
+1V78N,1b4Q1/pp3p2/1n3P1P/3p4/3P3k/5P2/PP1r2Bq/R4K2 b - - 0 30,d2g2 g8g2 h2g2 f1g2,997,92,crushing endgame short
+1VRXj,r7/5pk1/p3p2p/3n3P/4Q1P1/3P2R1/5q1K/4R3 w - - 0 45,h2h3 d5f4 e4f4 f2f4,912,96,crushing endgame short
+1WPqw,5k2/2PR4/8/3P1p2/6pp/2r5/6K1/8 b - - 0 51,c3c2 g2f1 c2c1 f1e2,891,99,crushing defensiveMove endgame master rookEndgame short
+1WX4D,r5k1/P2N2p1/5p1p/2p5/7P/4P1P1/R4PK1/2r5 b - - 1 45,c5c4 d7b6 a8a7 a2a7,968,95,crushing endgame short
+1XjOC,7r/bp3pk1/p1p3p1/P7/2B3n1/1NP5/1P3PP1/4R1K1 w - - 0 30,e1e7 a7f2 g1f1 h8h1 f1e2 h1e1,966,95,crushing endgame long
+1YLkW,8/p3P1r1/Pp1b1k1p/1Pp2Pr1/2PpR1PK/3P4/4R3/8 b - - 0 48,d6e7 e4e6 f6f7 e6e7,965,97,crushing endgame short
+1YfZo,6k1/p4pp1/1p4q1/8/3Q3b/P3P3/1P3K2/5R2 w - - 5 36,f2e2 g6g2 e2d3 g2f1,944,100,crushing deflection endgame short
+1Z6u1,r5k1/5pb1/2q1p1pp/8/4R2P/6P1/1P1RQP2/6K1 w - - 3 34,e4c4 a8a1 d2d1 a1d1 e2d1 c6c4,972,97,crushing endgame long
+1aPFh,4k3/6Rp/3R4/8/r6P/2bp4/6P1/7K w - - 0 39,g7h7 a4a1 h1h2 c3e5,944,96,crushing endgame short
+1aTus,2R5/2P2ppk/8/B7/p3r2p/6bP/6P1/5K2 b - - 6 41,a4a3 c8h8 h7h8 c7c8q,895,90,advancedPawn attraction crushing endgame master masterVsMaster promotion short
+1cSo2,2K5/8/8/5p1p/5k2/5P2/6PP/8 w - - 0 73,g2g3 f4f3 c8d7 f3g2 d7e6 g2h2,930,96,crushing endgame long pawnEndgame
+1cWGo,1r4k1/5p2/7R/1pp1P1nN/6K1/6P1/7P/8 b - - 9 41,g5e6 h5f6 g8g7 h6h7,984,90,crushing endgame short
+1dr31,8/8/3p2k1/5bP1/3PBK2/1p6/1P6/8 b - - 23 62,f5e4 f4e4 g6g5 e4d5 g5f5 d5d6,995,98,crushing endgame long
+1eRdc,2r3k1/5pp1/p1r1p2p/3p1n2/3P4/PRPNR1P1/5P1P/6K1 w - - 4 29,e3e2 c6c3 b3c3 c8c3,971,97,crushing endgame short
+1elyY,4K3/5P2/1p1k2n1/1P6/P7/8/8/8 w - - 11 62,f7f8q g6f8 a4a5 b6a5,827,96,crushing endgame short
+1fOgK,8/8/8/5p1p/8/5KPk/5P2/8 b - - 3 49,h5h4 g3h4 h3h4 f3f4 h4h5 f4f5,877,99,crushing endgame long master pawnEndgame
+1gQPn,3R2rk/8/7r/PP6/4pp1B/5bP1/5P2/4R1K1 b - - 4 37,h6h4 d8g8 h8g8 g3h4,971,92,crushing endgame short
+1gVgU,1r4rk/3Q2pp/p7/P5N1/4p2P/2p1P3/P1R2PPK/4q3 b - - 12 38,h7h6 g5f7 h8h7 d7f5,835,91,crushing endgame master short
+1gaGa,5R2/8/8/P1p1k3/8/3P4/1P3p1r/1K6 w - - 0 43,a5a6 h2h1 b1c2 f2f1q f8f1 h1f1,983,96,advancedPawn crushing endgame long promotion rookEndgame
+1hklN,8/6pk/5p2/8/2Rpr3/p7/3K4/B7 w - - 4 50,a1d4 a3a2 c4c1 e4d4,976,90,endgame
+1hqQM,8/5R2/4k1P1/1p3P2/2p5/5r2/2K5/8 b - - 0 67,f3f5 f7f5 e6f5 g6g7,933,96,advancedPawn crushing endgame rookEndgame short
+1iRVV,8/8/3p2p1/p5K1/P1pk3P/8/1P6/8 b - - 1 50,d4e5 g5g6 e5e4 h4h5 d6d5 h5h6 d5d4 h6h7,923,97,advancedPawn crushing endgame pawnEndgame quietMove veryLong
+1iuUZ,2r3k1/1p1n2pp/4p3/1P1p4/1q1Pp3/2N1P2P/2Q2PP1/2R3K1 w - - 7 23,c3a2 c8c2 a2b4 c2c1,970,98,crushing endgame short
+1j8zi,8/4k3/p1p1p1p1/1pN5/3P1br1/PP6/1KP5/4R3 b - - 1 28,f4d6 e1e6 e7f7 e6d6,946,96,crushing deflection endgame short
+1jC9w,8/3R4/4kP2/p2pB3/3Pp3/8/r1p4P/7K w - - 3 50,d7c7 a2a1 h1g2 c2c1q c7c1 a1c1,976,95,advancedPawn crushing endgame long promotion
+1jJI9,2q3k1/5p2/p1P3pb/3QP2p/5P2/7P/P5P1/2R4K w - - 3 36,g2g3 c8h3 h1g1 h3g3 g1f1 g3f4,973,97,crushing endgame exposedKing long
+1jYgq,2R5/8/5p2/5kp1/5r2/4K3/8/8 b - - 8 49,g5g4 c8c5 f5e6 e3f4,955,98,crushing deflection endgame rookEndgame short
+1jsNI,r4k2/pp1n1p2/2p2n2/8/2p3P1/2P5/P5PP/3R1RK1 b - - 0 22,a8d8 f1f6 d7f6 d1d8,981,95,advantage endgame short
+1jtAU,1R4k1/p2b2p1/4pp2/7Q/8/2r3PP/P2q1PB1/6K1 b - - 3 30,c3c8 b8c8 d7c8 h5e8,912,92,advantage endgame short
+1jxbP,8/P6P/3R4/2p5/4k3/4p3/7r/5K2 b - - 6 56,e3e2 f1e1 h2h1 e1e2,797,97,crushing endgame rookEndgame short
+1kEl4,8/8/p2Kb1p1/1p2P3/1P3P1p/P7/3B3k/8 b - - 1 51,e6f5 e5e6 f5e6 d6e6,965,97,bishopEndgame crushing endgame short
+1kgQs,8/8/8/3K4/4Ppk1/4p3/4N3/8 w - - 1 72,e4e5 f4f3 e5e6 f3e2 e6e7 e2e1q,837,95,advancedPawn advantage endgame knightEndgame long promotion
+1kmhL,4r1k1/p4R2/1p6/2pP4/P1P5/6n1/5QPP/q3B2K w - - 7 35,h2g3 e8e1 f2e1 a1e1,959,95,crushing endgame master short
+1mvig,5k2/1R6/3q1p1b/p2BpP1p/P4r2/2P2Q2/1P4PP/1K6 w - - 5 31,f3h5 f4f1 b1a2 d6d5,984,97,advantage endgame master masterVsMaster short
+1n15n,8/5KN1/4p3/4P2p/2k4P/3p2P1/p7/B7 w - - 0 48,g7e6 d3d2 e6f4 d2d1q e5e6 d1a1,977,96,advancedPawn crushing endgame long master promotion
+1nSPv,8/6p1/4k2p/1R6/3Pp2P/4P1P1/1p3PK1/1r6 w - - 0 50,f2f3 e4f3 g2f3 b1f1,936,98,attraction crushing endgame rookEndgame short
+1o9tT,2Q5/p4pkp/2B3p1/4q3/8/b2P3P/P1P2PP1/1R4K1 w - - 1 27,b1b7 e5e1 g1h2 a3d6 g2g3 e1f2,989,95,crushing endgame long
+1oXuA,6k1/5pp1/4p2p/1Q2Pq2/8/5RP1/5KP1/3r4 b - - 9 38,d1b1 b5e8 g8h7 f3f5,944,100,crushing endgame short
+1oiM9,7r/p1p5/8/1ppkP1p1/3P2p1/2P3Br/PP4K1/5R1R w - - 0 25,f1f5 h3h1 e5e6 d5e6,978,97,advantage endgame short
+1p7cd,8/5p2/2p3p1/pp5p/k5PP/5P2/1K6/8 b - - 0 38,h5g4 f3g4 b5b4 h4h5 g6h5 g4h5,851,98,crushing endgame long pawnEndgame
+1pe4r,6k1/pR2nppp/8/2qr1b1Q/8/3B3P/P1P2PP1/6K1 b - - 0 23,f5d3 b7b8 c5c8 b8c8 e7c8 h5d5,974,95,crushing endgame long
+1rAQ6,8/8/8/5N2/8/8/p2R1K1p/5r1k w - - 2 70,f2f1 a2a1q f1f2 a1g1,853,98,advancedPawn crushing endgame promotion short
+1rHWw,6k1/5pp1/1Q1qp2p/P2p3P/3p4/R1r3P1/P1PK1P2/8 b - - 3 27,d6b6 a5b6 c3a3 b6b7,965,97,advancedPawn crushing endgame short
+1rOFB,1k6/pp5p/3p1P2/3P4/8/1qp5/6PP/5R1K b - - 0 30,c3c2 f6f7 b8c7 f7f8q,672,99,advancedPawn advantage endgame promotion queenRookEndgame short
+1rrFl,8/6k1/5R2/8/r4PK1/8/8/8 w - - 1 58,g4f5 a4a5 f5e6 a5a6,974,98,crushing endgame rookEndgame short
+1s4WH,5k2/3Q2pp/8/p3p3/K1P1P3/PP4P1/5q2/8 w - - 5 45,d7f5 f2f5 e4f5 e5e4 a4a5 e4e3,966,99,crushing endgame long queenEndgame quietMove
+1uEnz,8/8/6pR/p3qp2/4n1kP/2p1Q1P1/P6K/8 b - - 9 53,e5g3 e3g3 e4g3 h6g6 g4h4 g6g3,968,98,crushing endgame long master
+1uqs2,3r4/p1k1q1pR/1bB5/5p2/3p4/1P3Q2/P1P2P2/1K6 w - - 0 31,f3g2 e7e1 b1b2 e1c3,924,96,advantage endgame short
+1vc6P,1r6/1P6/1R2pk2/P7/8/5P1p/8/1K6 w - - 0 37,a5a6 h3h2 b1a2 h2h1q,891,99,advancedPawn crushing endgame master masterVsMaster promotion rookEndgame short superGM
+1wbja,8/8/p5p1/1p3kP1/1P5r/P3R1KP/8/8 b - - 2 46,f5g5 e3e5 g5f6 g3h4 f6e5 h4g5,948,99,crushing deflection endgame long rookEndgame
+1xdHR,8/2k5/4n3/5P1K/8/6P1/8/8 b - - 0 51,e6g7 h5g6 g7f5 g6f5,991,96,crushing defensiveMove endgame knightEndgame short
+1yg9f,8/1p6/p7/1kP1R2p/1P3PpP/6P1/r4K2/8 w - - 8 44,e5e2 a2e2 f2e2 b5b4 c5c6 b7c6,995,96,crushing endgame long rookEndgame
+203eo,7k/6r1/7p/3p4/3P4/P7/6R1/5K2 b - - 2 45,h8h7 g2g7 h7g7 a3a4 g7f6 a4a5,964,97,crushing defensiveMove endgame long master quietMove rookEndgame
+20ae7,6k1/1p3p1p/6p1/1P1p1b2/8/3p3P/2r2PP1/3RN1K1 b - - 0 29,d3d2 e1c2 f5c2 d1d2,971,97,advantage capturingDefender endgame short
+20lbl,3r4/p3kppp/4p3/2p5/brP5/R2B4/P1P2PPP/3R2K1 w - - 6 20,d1d2 b4b1 d3f1 d8d2,969,97,crushing endgame short
+21j06,8/8/3Rr3/1P2P1p1/Pr4k1/6B1/5PK1/8 b - - 6 41,e6d6 e5d6 g4f5 d6d7,959,97,advancedPawn crushing endgame short
+22AWr,3R4/1p4KP/p7/8/8/PP6/3pk2r/8 w - - 4 56,h7h8q h2h8 d8h8 d2d1q,984,93,advancedPawn crushing endgame promotion short
+22qpD,8/5p2/8/8/8/1K2k3/1P6/8 w - - 1 42,b3c4 f7f5 b2b4 f5f4 b4b5 f4f3 b5b6 f3f2 b6b7 f2f1q,972,98,advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong
+23YQe,7R/8/8/8/2r4p/6Pk/3K3P/8 b - - 11 53,h3h2 h8h4 c4h4 g3h4 h2g3 h4h5,996,97,crushing defensiveMove endgame long rookEndgame
+23jM8,8/6pp/P7/2kp4/4bP2/b6P/3B1K2/5B2 b - - 0 45,c5b6 d2e3 d5d4 e3d4,961,96,bishopEndgame crushing endgame master short
+23nz7,3q3k/2r4p/1QP2p2/2Rb4/3P3p/7P/5PP1/6K1 b - - 1 35,h8g7 c5d5 d8d5 b6c7,968,95,crushing deflection endgame short
+24038,4r3/5pkp/6p1/1P1QNp2/3P4/P6P/6P1/3qbR1K w - - 0 40,d5d7 e8e5 d4e5 d1d7,935,92,capturingDefender crushing endgame short
+24WhG,8/8/2p1p3/2Pb4/1P1Kp3/P3R3/5k2/8 w - - 4 51,a3a4 e6e5 d4e5 f2e3,973,91,crushing deflection endgame short
+250DZ,2r5/4R2p/P5p1/3k4/1P1p4/4p2P/2P1K1P1/8 w - - 3 36,e2d3 c8c3 d3e2 c3c2,989,95,crushing deflection endgame rookEndgame short
+256rv,4r1k1/2n1P3/p2N2pp/P1p5/3b4/1P4PP/4RPK1/8 b - - 0 29,d4f6 d6e8 c7e8 e2e6,827,97,crushing endgame master short
+25bMR,6k1/p3qn1p/1p6/2pQpp2/8/2P3BP/PP4P1/6K1 w - - 0 30,g3e5 e7e5 d5a8 g8g7,846,94,crushing defensiveMove endgame master short
+25m7t,8/8/3pK3/p1p1p1p1/1p2P2k/1P1P3P/P7/8 w - - 5 50,e6d6 h4h3 d6e5 g5g4 e5d6 g4g3 e4e5 g3g2 e5e6 g2g1q,971,97,advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong
+264gy,4R3/8/7r/2K3k1/P1P5/1P4p1/8/8 w - - 4 43,b3b4 g3g2 e8e1 h6h1 e1h1 g2h1q,989,98,advancedPawn crushing endgame long promotion rookEndgame
+26IsB,5rk1/5pp1/7p/3QpB2/2P3P1/2b4q/PP6/K2R4 w - - 3 36,b2c3 h3c3 a1b1 f8b8 d5b5 b8b5,916,96,advantage endgame long
+2980p,8/8/p3p3/1p3pp1/PP5p/2P2PkP/6P1/5K2 w - - 0 43,a4b5 a6b5 c3c4 b5c4 b4b5 c4c3,917,98,crushing endgame long pawnEndgame
+29agx,8/8/8/6p1/6P1/5K2/7k/8 w - - 2 56,f3e4 h2g3 e4f5 g3h4,910,96,crushing endgame pawnEndgame short zugzwang
+29pC1,2r3k1/8/Q3bp1p/4p3/6q1/6N1/5PPP/3R2K1 w - - 1 35,d1d6 c8c1 a6f1 c1f1,923,96,advantage endgame short
+2AQPd,5rk1/p1p3pp/2p1R3/8/1P1P4/2P5/P4rp1/RN4K1 w - - 2 22,b1a3 f2f1 g1g2 f1a1,997,95,crushing endgame short
+2AUiq,8/5p2/2p2k2/2RrRp1p/4pP1P/1r4P1/4K3/8 b - - 8 36,b3g3 c5c6 f6g7 e5d5,997,96,advantage endgame rookEndgame short
+2Alfl,r6k/5p1P/6p1/4b3/4p2N/pPpnB3/P1K3P1/5R2 b - - 5 32,a8f8 h4g6 f7g6 f1f8,931,97,advantage endgame short
+2ApWI,8/8/8/4p1PB/7K/4kb2/8/8 b - - 0 48,f3h5 h4h5 e5e4 g5g6 e3f2 g6g7 e4e3 g7g8q,901,99,advancedPawn crushing endgame promotion veryLong
+2Au5u,4kr2/5R2/6Pp/p1p2B2/4q2b/2P5/P3N3/5K2 b - - 1 37,f8f7 g6f7 e8f7 f5e4,975,97,advancedPawn advantage attackingF2F7 endgame master short
+2BXZE,8/8/pK2k3/1p1p4/5p2/P1P5/2P3P1/8 b - - 1 36,e6e5 b6a6 e5e4 a6b5,944,97,crushing endgame master pawnEndgame short
+2CN65,4k3/8/2p3P1/pp6/4PR2/2r4P/8/5K2 b - - 4 31,c3h3 g6g7 h3g3 f4f8,958,97,advancedPawn crushing endgame rookEndgame short
+2Cz57,4r1k1/1p3pB1/1Pp3p1/2bp4/3Pq3/7P/3Q1PP1/R5K1 b - - 0 26,c5b6 d2h6 e4h4 h6h4,970,96,crushing endgame master short
+2DKAV,2r4k/6pp/8/B7/1p6/2p3P1/5P1P/1R4K1 w - - 0 32,g1f1 c3c2 b1e1 c2c1q e1c1 c8c1,979,96,advancedPawn crushing endgame long promotion
+2EmDn,3r4/pp2kp1p/8/8/3n1N2/4K1P1/1P2PP1P/7B b - - 2 29,b7b5 f4d5 d8d5 h1d5,807,98,advantage endgame short
+2F0GD,8/p2p2pk/3Np2p/4P3/4PQ2/2q5/P3b2P/6RK w - - 2 28,d6e8 e2f3 f4f3 c3f3,925,95,crushing endgame master short
+2FkwF,8/pp5r/5k2/3pR1p1/3P1p2/2P3KP/PP6/8 w - - 0 37,g3g4 h7h4 g4f3 h4h3,984,97,advantage deflection endgame rookEndgame short
+2GBI1,7Q/pk6/1p6/8/8/3n4/P1p3P1/6K1 w - - 1 41,h8g7 b7a6 g7d4 c2c1q,943,96,advancedPawn crushing defensiveMove endgame master promotion short
+2Gl4c,4q3/pkp3Q1/5pb1/4p1p1/rpP3P1/1P1PBP2/K2R4/8 w - - 0 34,b3a4 e8a4 a2b2 a4a3,920,97,crushing endgame short
+2HRX5,8/R6p/6pk/5p2/8/1KN1Pp2/5rbP/6R1 w - - 0 29,a7a2 f2a2 b3a2 f3f2 g1g2 f2f1q,964,95,advancedPawn crushing endgame long promotion
+2KGmG,8/p3Rpkp/1p5N/5PPp/1P1P1K2/P5P1/b7/2r5 w - - 3 45,e7e8 c1f1 f4e3 f1e1,792,99,advantage endgame master short
+2KeTY,r7/pppk4/3p4/5qPQ/2b4p/K1P5/P4P1P/4R2R w - - 5 27,h5h4 f5a5 a3b2 a5a2,923,97,crushing endgame short
+2KsPC,3r2k1/5ppp/5p2/3Pn3/4P3/2q2N2/4QPPP/5RK1 w - - 2 24,e2d2 e5f3 g2f3 c3d2,965,96,crushing endgame short
+2LDpQ,8/p4pkp/2pQ4/5p2/2P4R/2N4P/P5PK/2q1r3 w - - 8 30,d6h6 c1h6 h4h6 g7h6,938,94,crushing endgame short
+2LFZF,8/8/3k1r1p/2p5/2P1Rp1P/1P2pK2/6P1/8 w - - 1 50,e4f4 f6f4 f3f4 e3e2,862,97,advancedPawn crushing endgame rookEndgame short
+2LviH,8/8/2pk2K1/1p6/7P/6n1/PP4P1/8 b - - 7 37,c6c5 h4h5 g3h5 g6h5,996,99,advantage endgame knightEndgame quietMove short
+2M7cS,8/p4p2/k1p5/1p4P1/5P2/2P2QPp/PPq2K2/8 w - - 2 46,f3e2 c2e2 f2e2 h3h2,929,99,advancedPawn crushing endgame queenEndgame short
+2MLM2,8/7K/2k5/5pp1/8/6PP/8/8 w - - 0 48,h7g6 f5f4 g3f4 g5f4 h3h4 f4f3 h4h5 f3f2 h5h6 f2f1q,975,95,advancedPawn crushing endgame master pawnEndgame promotion veryLong
+2Mv1s,2kr4/pppr2p1/4pp1p/7P/3PR3/P1Q5/qPP2PP1/2KR4 w - - 0 22,c3b3 a2a1 c1d2 d7d4 e4d4 d8d4,975,94,crushing endgame long queensideAttack
+2NTbf,8/8/2p3kp/2K5/p1P2rpR/P6P/2P5/8 b - - 0 36,g6g5 h4g4 f4g4 h3g4 g5g4 c5c6,885,97,advantage endgame long rookEndgame
+2O1F8,8/p6k/4P1pp/2b5/5Q2/2P1n1P1/PP5P/2q2B1K w - - 3 31,h2h4 c1f1 f4f1 e3f1,969,97,advantage endgame short
+2OOUi,6b1/6Pp/p6P/1p6/8/2pk4/5RP1/6K1 w - - 0 39,f2f8 c3c2 f8g8 c2c1q,843,90,advancedPawn crushing endgame master promotion short
+2OzQF,r5k1/5p1p/6p1/4n3/2R1p3/2N1P2P/5PP1/r2R2K1 w - - 1 33,d1a1 a8a1 g1h2 e5c4,959,93,crushing endgame master short
+2P89Q,8/4nk2/P1p1p3/3q4/6p1/1P6/K4Q2/8 b - - 1 36,d5f5 f2f5 e6f5 a6a7 g4g3 a7a8q,997,95,advancedPawn crushing endgame long promotion
+2RJCg,4r2k/pp3Qpq/8/4bp2/1P2p3/P1NpP1P1/1B1P1PK1/8 b - - 0 32,h7g8 f7h5 g8h7 h5e8,936,96,crushing deflection endgame kingsideAttack short
+2RgFT,7k/1p4rp/p1b5/P2B4/3B3P/P3p3/8/4K3 w - - 1 40,d5c6 b7c6 e1e2 c6c5 d4g7 h8g7,928,96,crushing endgame long master
+2Ryac,2k5/K7/1P6/P1n5/8/8/8/8 b - - 0 59,c5b7 a5a6 b7c5 b6b7,802,97,advancedPawn crushing endgame knightEndgame master short
+2S4pH,8/8/1p6/7P/1Pkp4/5K2/8/8 b - - 0 53,c4c3 h5h6 d4d3 h6h7 d3d2 h7h8q,831,97,advancedPawn crushing endgame long pawnEndgame promotion
+2TQb2,8/5p1p/1p4p1/1k2P1P1/4KP1P/8/8/8 b - - 1 40,b5c5 f4f5 g6f5 e4f5,932,96,crushing endgame master pawnEndgame short
+2Tc47,2R5/4b1pk/6p1/B1p2p2/P7/2P1r2P/6P1/6K1 w - - 0 35,c8e8 e3e1 g1f2 e7h4,912,97,crushing endgame short
+2TwaS,2kr4/pp5p/n1p1r1p1/5p2/2N5/P4P2/1P4PP/1R2RK2 b - - 2 33,d8e8 c4d6 e6d6 e1e8,973,99,advantage deflection endgame queensideAttack short
+2UCVd,4rr2/Nkn3pp/1p3p2/1P6/1QPN1P2/P5PP/1K2p3/8 w - - 0 37,a7c6 e2e1q b4e1 e8e1,775,98,advancedPawn crushing endgame promotion short
+2UXm5,4k3/1p3p2/p3p1nR/8/8/P3R3/2r4P/7K w - - 0 41,h6h3 c2c1 h1g2 g6f4,998,98,advantage endgame short
+2UYDZ,3k4/pp1n3p/2p1p1p1/4B3/3KP3/1P3P2/P1P3PP/8 w - - 2 22,c2c4 c6c5 d4e3 d7e5,981,90,crushing deflection endgame short
+2VTtl,2r3k1/2N3Np/5p2/5b2/2P5/KP4RP/2r5/8 b - - 0 33,g8f7 g7f5 c8c7 g3g7,963,97,crushing endgame short
+2WjuZ,8/1Nrk4/6pp/1b2p3/pR1p4/P1nP1BP1/4PP2/5K2 b - - 7 38,d7c8 b7d6 c8d7 d6b5,976,98,crushing endgame master queensideAttack short
+2XF8K,8/pp4k1/5p1P/4rR2/5K2/8/8/8 b - - 0 45,g7h6 f5f6 h6h5 f4e5,993,96,crushing endgame rookEndgame short
+2XUqX,8/5p2/8/8/p1k3Kp/P4P1P/6P1/8 w - - 3 40,g4h4 c4b3 h4g5 b3a3,925,99,crushing endgame pawnEndgame short
+2Ycqy,2R5/5pk1/2P3pp/8/2r5/3p2P1/5P1P/6K1 w - - 0 44,g1f1 c4c1 f1g2 d3d2,961,97,advancedPawn crushing endgame rookEndgame short
+2ZPSd,4r3/1p3pkp/p5p1/2pP4/PqPnP3/1P1Q4/3N2PP/4R1K1 w - - 1 26,d2f3 d4f3 g2f3 b4e1,984,96,crushing endgame kingsideAttack short
+2ZlhC,8/5p1k/4pB1P/6P1/4K3/8/5n2/8 w - - 13 80,e4e5 f2g4 e5d6 g4f6,950,98,crushing deflection endgame short
+2aRCA,8/8/4bk2/2p1pN2/1p2PpKP/1P1P4/2P5/8 w - - 1 53,g4f3 e6f5 e4f5 f6f5,897,89,crushing endgame short zugzwang
+2bZ62,8/1n2b3/4k3/1B2p2p/1K2Pp2/2P2P2/5BP1/8 w - - 9 38,b4c4 b7d6 c4b3 d6b5,986,95,crushing deflection endgame master short
+2cUJY,2r5/N4p2/p2p1kp1/1p1n3p/1P6/3R1P2/P5PP/4K3 b - - 1 35,d5b4 d3d6 f6e5 a7c8,945,96,advantage endgame short
+2cWkW,8/8/5ppp/8/1p1kPPP1/1K5P/8/8 w - - 2 47,e4e5 f6e5 f4f5 g6f5,954,97,crushing endgame pawnEndgame short
+2cbX0,1k5r/2q2p2/2p5/p2p1Q2/N7/3PR1rP/PPP5/5RK1 w - - 0 26,e3g3 c7g3 g1h1 h8h3 f5h3 g3h3,972,91,crushing endgame exposedKing long
+2djhx,8/pp5p/3kp1p1/1PP2p2/P2r4/8/2R4K/8 b - - 0 32,d6d5 c5c6 b7c6 b5c6 d5d6 c6c7 d4d2 c2d2,987,95,advancedPawn crushing endgame rookEndgame veryLong
+2dkCe,8/1p1r2pk/p6p/4R3/4N3/2Pn2P1/1P3PP1/6K1 w - - 1 31,e4c5 d3e5 c5d7 e5d7,936,99,advantage endgame short
+2dvtQ,4r1k1/1p1N1pp1/p3pq1p/3pR3/8/P4rQP/1PP5/2K3R1 b - - 2 31,f3g3 d7f6 g7f6 g1g3,964,94,crushing endgame intermezzo short
+2e7kv,8/8/8/3pp3/1P6/3K1k2/P7/8 w - - 1 47,a2a4 e5e4 d3d4 e4e3 b4b5 e3e2 b5b6 e2e1q,779,90,advancedPawn crushing endgame pawnEndgame promotion veryLong
+2eflJ,2r3k1/1p3p1p/pq1p2p1/5P2/2P3P1/1P1Qb3/P3p2P/2R1R2K w - - 0 31,c1c2 b6c6 d3d5 c6d5 c4d5 c8c2,952,96,crushing endgame long
+2etMv,4r3/1kp5/1pp5/1n3r1p/R4B2/6P1/1PP2P1P/5R1K w - - 1 32,f4e3 e8e3 f2e3 f5f1,988,96,crushing endgame short
+2g9hM,8/8/p5K1/1p5p/1k3P1P/8/8/8 b - - 0 45,a6a5 f4f5 b4c4 f5f6 a5a4 f6f7 a4a3 f7f8q,965,97,advancedPawn crushing endgame pawnEndgame promotion quietMove veryLong
+2hJDW,5rk1/p1p2ppp/8/3pP3/5Pb1/2P5/Pr4PP/R1BR2K1 b - - 2 19,b2g2 g1g2 g4d1 c1a3 d1c2 a3f8,899,98,crushing endgame long
+2hxNh,3r4/5Bkp/p5p1/1p6/1P3Q2/P6P/2p2PP1/6K1 w - - 1 31,f4c7 d8d1 g1h2 c2c1q c7c1 d1c1,971,94,advancedPawn crushing endgame long promotion
+2i264,2b4R/1k4r1/4p3/3pPp1P/2pP1P2/1r6/2Q5/7K w - - 5 47,h5h6 b3h3 c2h2 h3h2,974,96,crushing endgame short
+2iEtg,8/1p6/2p2p1R/2Pb3p/5r1k/4K3/2B5/8 b - - 3 47,h4g5 h6g6 g5h4 e3f4,984,98,crushing deflection endgame master short
+2jE5V,8/2p5/1p3k2/2p2Ppp/P3K3/4N1bP/1P6/8 b - - 3 37,g3f4 e3d5 f6f7 d5f4,813,98,crushing endgame master short
+2jmMG,8/R7/5p2/1P6/P4k2/r3p3/2K5/8 w - - 0 49,c2b2 e3e2 b2a3 e2e1q,922,99,advancedPawn advantage endgame master promotion rookEndgame short
+2kHki,r1b3rk/p4p1p/1p1Pp2p/7R/8/2N5/PP3PPP/3R2K1 b - - 5 20,g8g6 d6d7 c8d7 d1d7,919,95,advancedPawn crushing endgame short
+2kk8V,6k1/P2R4/6p1/7p/7q/8/6P1/6K1 b - - 6 57,h4a4 d7d8 g8g7 a7a8q a4a8 d8a8,973,96,advancedPawn crushing endgame long promotion queenRookEndgame
+2ksA4,4R3/1p3kpp/2pP4/p4q2/8/P7/1P2R1PP/6K1 w - - 5 33,e2f2 f5f2 g1f2 f7e8,835,86,advantage endgame queenRookEndgame short
+2l18O,2k1r3/1pp4p/6p1/6R1/3P4/2K4P/1P3rP1/2R5 w - - 2 26,c1c2 e8e3 c3b4 f2c2,963,92,crushing deflection endgame rookEndgame short
+2lPin,1b4N1/2p5/p3k1p1/2p3P1/4bB2/2P3KP/1P6/8 b - - 0 33,e6d5 g8f6 d5e6 f6e4,968,95,crushing deflection endgame short
+2lPsy,6k1/2q2pp1/2p5/1p1p3p/pP1P2nP/P1PB2P1/4Q1K1/8 b - - 0 37,c7d6 e2e8 d6f8 d3h7 g8h7 e8f8,994,95,crushing deflection endgame long
+2lfVz,r2r4/6k1/1p4pR/p3P3/2Pp4/P7/1P3K2/7R b - - 2 39,d8h8 h6h8 a8h8 h1h8,796,98,crushing endgame master masterVsMaster rookEndgame short
+2loMS,R7/8/8/1Kp5/7p/1Pkp4/8/8 w - - 0 71,a8h8 d3d2 h8h4 d2d1q,930,97,advancedPawn crushing endgame master promotion rookEndgame short
+2mK3t,8/8/7p/6p1/4p1P1/1K2k2P/8/5B2 w - - 2 54,b3c3 e3f2 f1c4 e4e3 c3c2 e3e2 c4e2 f2e2,935,96,advancedPawn bishopEndgame crushing endgame veryLong
+2n2pP,2b5/4k3/p1p1p1K1/2p2p1P/2P5/1P6/P5P1/8 b - - 2 39,e6e5 h5h6 e5e4 h6h7,696,99,advancedPawn bishopEndgame crushing endgame short
+2n98u,1K5k/6r1/p7/P7/2R5/8/8/8 b - - 0 54,h8g8 c4c8 g8f7 c8c7 f7f6 c7g7,930,96,crushing endgame exposedKing long rookEndgame
+2nE5x,8/6kp/1p1p4/1P1P1pP1/2P2K2/p7/B1b5/8 b - - 3 45,g7g6 c4c5 b6c5 b5b6,859,94,bishopEndgame crushing endgame short
+2p3wh,8/8/8/5p2/4kP2/3Np3/2p5/4K3 w - - 1 73,d3c1 e4f4 e1e2 f4e4,953,92,crushing defensiveMove endgame knightEndgame master short
+2pCLN,8/3nkpp1/1p2p2p/1Pp1PP1P/2P1K1P1/2B5/8/8 b - - 0 36,d7f8 f5f6 g7f6 e5f6,861,98,crushing endgame short
+2q1QC,8/2k5/3p4/3Kp3/2P4p/6p1/6B1/8 b - - 5 56,c7d8 d5d6 h4h3 g2h3 g3g2 h3g2,907,95,bishopEndgame crushing endgame long master
+2qdZi,8/8/4k2p/2p3p1/P1NpPpP1/1P1n1K1P/8/8 b - - 1 47,d3e5 c4e5 e6e5 a4a5,907,97,crushing defensiveMove endgame knightEndgame short
+2qtmz,8/1Bk5/P5P1/2pK4/3b4/4p3/1r4R1/8 w - - 4 50,g2b2 d4b2 b7c6 e3e2 a6a7 e2e1q,937,96,advancedPawn crushing endgame long master masterVsMaster promotion
+2r29M,5r2/8/8/8/2K5/3R4/4k3/8 w - - 13 54,c4c3 f8c8 c3d4 c8d8,806,96,crushing endgame rookEndgame short
+2rbEj,2r5/8/2p1kq2/ppb3p1/5p2/1P1RNQP1/P3P2P/5K2 w - - 0 37,e3g4 f6a1 f1g2 a1g1 g2h3 c8h8 g4h6 h8h6,989,99,advantage endgame veryLong
+2sTBq,6k1/1p2q2p/5bp1/p7/2Pp1P2/P2Q2P1/5K1P/2B5 w - - 4 43,c1b2 e7e3 d3e3 d4e3 f2e3 f6b2,954,91,crushing endgame long
+2sfyO,3k4/1n2n1pp/pp2P1p1/3PK3/1P2PrP1/P6P/B7/2R5 b - - 2 34,f4f3 d5d6 b7d6 e5d6,998,98,crushing endgame short
+2t5kS,r2r2k1/ppq2p1p/4p1p1/8/8/2bRQ3/PPP2PPP/3R2K1 w - - 0 18,d3d8 a8d8 d1d8 c7d8,901,93,crushing endgame short
+2tL1z,8/pkp1Np2/1pp4p/4p2q/1PP1Pp2/P2r1P2/5QRP/7K w - - 0 28,c4c5 d3d1 g2g1 d1g1 f2g1 h5f3,894,97,crushing endgame kingsideAttack long
+2tqDI,8/8/1K6/4p2p/kp5P/5P2/P7/8 b - - 19 49,b4b3 a2b3 a4b3 b6c5,974,95,crushing defensiveMove endgame pawnEndgame short
+2u4yC,8/8/4k1p1/6Pp/4PK2/4P3/8/8 w - - 4 46,f4f3 e6e5 f3f2 e5e4,980,91,crushing endgame master pawnEndgame short zugzwang
+2uQPS,5rk1/2p2pp1/3p4/pp1P3R/3p3R/2P1r2P/PP4P1/6K1 b - - 1 28,g7g6 h5h8 g8g7 h4h7 g7f6 h8f8,969,96,advantage deflection endgame long rookEndgame
+2uYdW,6k1/5p1p/3p1bp1/1q1Pp3/1Pr3P1/3Q1N1P/5PK1/1R6 b - - 5 28,c4b4 d3b5 b4b5 b1b5,919,94,crushing endgame short xRayAttack
+2vF3C,8/5k2/3P1P1K/1pp1B3/p7/P4r2/1P6/8 b - - 8 51,f3f5 d6d7 f5e5 d7d8q,848,97,advancedPawn crushing endgame promotion short
+2vRME,2B5/6kp/3p2p1/2pP3r/5P1r/1P3R2/P4P2/5RK1 w - - 3 30,f3g3 h4h1 g1g2 h5h2 g2f3 h1f1,968,95,crushing deflection endgame long
+2vctC,6R1/p5p1/3p1k2/3P2R1/r6P/4P3/6P1/2r3K1 w - - 5 35,g1h2 a4h4 h2g3 f6g5,994,95,advantage endgame rookEndgame short
+2vjjc,1k6/1p5p/p2p2r1/6R1/6K1/P7/2P3P1/8 b - - 1 46,b8c7 g5g6 h7g6 g4g5 a6a5 g5g6,927,99,crushing endgame long rookEndgame
+2vusF,6R1/4r2p/R1pk1p2/p2p4/3P4/5p2/PPP5/2K5 w - - 0 32,g8g1 f3f2 g1f1 e7e1 c1d2 e1f1,932,98,advancedPawn crushing endgame long rookEndgame
+2vy6s,6k1/2p1B1pp/p1P2n2/4p2b/8/4PP2/3P1K2/r5NR b - - 3 23,a1a2 e7f6 g7f6 h1h5,964,87,advantage capturingDefender endgame short
+2wwj8,4k3/6Q1/p2qp3/1p4p1/8/6P1/5P1P/6K1 w - - 11 43,g7g5 d6d1 g1g2 d1d5 g5d5 e6d5,998,92,crushing endgame long queenEndgame
+2xOFt,6k1/5p2/6p1/4Q2p/1P1P3P/2P2pP1/3q1P1K/4N3 w - - 4 36,e5e3 d2e3 f2e3 f3f2,941,98,advancedPawn advantage endgame short
+2xWfx,7k/6p1/Q4p1p/1p2r3/6P1/P1P1q3/6PP/2R4K w - - 1 35,a6a8 e5e8 a8e8 e3e8,877,98,advantage endgame short
+2yXlp,8/7p/3N4/p7/8/k4P2/1p4PP/3K4 w - - 0 42,d1c2 a3a2 d6c4 b2b1q,973,95,advancedPawn crushing endgame knightEndgame promotion short
+2yfbE,6k1/8/1p2r3/4p3/1R6/5Kp1/1P4P1/8 b - - 1 42,e6g6 b4g4 g6g4 f3g4,967,97,crushing endgame master rookEndgame short
+2yjDn,8/2r5/R3p3/1p2Pkpp/1b1P1p2/1P3P1P/3K1NP1/8 w - - 1 40,d2e2 c7c2 e2f1 c2c1,751,88,crushing endgame short
+303az,8/1Q4p1/p3qkp1/1p1p1p2/8/2P3PP/PP2r1P1/3R1K2 w - - 0 33,b7d5 e2e1 d1e1 e6d5,997,91,crushing deflection endgame short
+31mOF,6k1/1p2q1p1/p3p2p/2b1P3/4Q3/2B4P/PPP2rP1/3R3K w - - 0 24,d1d2 f2f1 h1h2 c5g1,906,91,crushing endgame short
+31pVj,8/5r2/pp1Pk2p/2p1p1p1/4Kp2/3R3P/PPP3P1/8 b - - 2 30,h6h5 d6d7 f7d7 d3d7 e6d7 e4e5,913,92,advancedPawn advantage endgame long master rookEndgame
+34WNo,8/R4pk1/6pp/2q5/P7/8/5PRP/7K w - - 1 34,a7b7 c5c1 g2g1 c1c6,994,90,crushing endgame queenRookEndgame short
+36f0y,8/2K4p/2RP2p1/8/kp3P1P/3q4/8/8 b - - 0 61,a4b3 d6d7 d3d4 d7d8q,978,95,advancedPawn crushing endgame master promotion queenRookEndgame short
+36k89,8/8/p2p2pk/3P2qp/8/8/P3QP1K/8 b - - 0 54,g5e5 e2e5 d6e5 d5d6,991,92,crushing endgame master queenEndgame short
+36uXv,1k5r/1n1RN3/1K6/3p4/8/1P2P3/P7/3r4 b - - 9 42,h8h6 e7c6 h6c6 b6c6,953,97,advantage endgame master short
+38ZIp,6k1/1pp2ppp/p7/3r3b/1b6/4BN1P/PP3PP1/2R3K1 w - - 0 23,c1c7 d5d1 g1h2 b4d6,913,99,crushing endgame short
+39Aqp,1r6/ppRPr3/5pk1/5p1p/1P2p3/P6P/5PP1/3R2K1 w - - 4 37,d7d8q b8d8 d1d8 e7c7,935,95,advantage capturingDefender endgame short
+39HmS,8/pp1k4/3P4/1p6/r2R3P/8/6P1/6K1 w - - 1 40,d4a4 b5a4 h4h5 a4a3 h5h6 a3a2,811,96,advancedPawn crushing endgame long
+39Wzw,8/8/P7/8/7p/2p5/4K1k1/8 b - - 0 48,h4h3 a6a7 c3c2 a7a8q,950,95,advancedPawn crushing endgame pawnEndgame promotion short
+39yps,r7/R7/q2p2k1/4p3/4P3/5P2/pQ1R4/1K6 w - - 0 31,b1a1 a6f1 a1a2 a8a7,982,98,crushing endgame short
+3AB4F,5k2/8/1p1p3p/r1pP2p1/PpP5/r6P/4RPK1/R7 w - - 2 39,a1a3 b4a3 e2a2 a5a4,865,97,advantage capturingDefender endgame rookEndgame short
+3AJDz,6k1/1pp2pp1/p4n1p/2P4b/1P6/P1Qr4/5PPP/4rNK1 w - - 0 23,c3d3 h5e2 d3d8 g8h7,990,91,advantage endgame short
+3AdsN,8/8/2p3p1/2Pk1bP1/3P1P2/8/2NK4/8 b - - 0 55,f5c2 d2c2 d5d4 f4f5 g6f5 g5g6,975,95,crushing endgame long
+3ApBE,8/pR2r3/P2r1k1p/8/R5p1/5nP1/5PK1/5B2 b - - 1 47,h6h5 a4f4 f6g5 b7e7,995,93,crushing deflection endgame master short
+3Aq30,2r4k/6pp/q3Q3/p2NP3/P7/6P1/5P1P/3R2K1 w - - 0 29,d5e7 a6e6 e7c8 e6c8,975,98,advantage endgame short
+3ArUC,8/p7/bp1R2k1/6r1/8/P1P2P2/6PP/6K1 b - - 2 32,g6h5 g2g4 g5g4 f3g4,989,94,crushing endgame short
+3BJs4,8/8/8/pK6/P2p4/1P6/2Pk4/8 w - - 5 62,b5a5 d2c2 b3b4 d4d3 b4b5 d3d2 b5b6 d2d1q,990,98,advancedPawn crushing endgame pawnEndgame promotion veryLong
+3C6ld,2B5/8/3k4/4pKp1/p5Pp/P6P/1P6/5b2 b - - 3 46,f1h3 f5g5 h3f1 g5h4,988,96,bishopEndgame crushing endgame master short
+3EhqB,8/p6p/1p2k3/1P2p1p1/P3K1P1/7P/5P2/8 b - - 0 41,e6d6 e4f5 d6d5 f5g5,979,98,endgame master
+3G3pN,5Q2/p3r2k/1p4qp/6p1/5P2/3pPBP1/P2P3P/6K1 b - - 2 39,g6f7 f3e4 e7e4 f8f7,946,96,crushing deflection endgame short
+3H00I,3qr1k1/1p3npp/p7/2P5/1P1BRp2/PQ6/5PPP/6K1 w - - 1 33,f2f3 e8e4 f3e4 d8d4,949,92,advantage capturingDefender endgame short
+3IuwV,1n1rk3/5ppp/B1bR4/1p1Np3/4P3/8/PPP3PP/7K w - - 1 29,d5c7 e8e7 d6d8 e7d8 a6b5 d8c7,978,98,advantage endgame long
+3JAOp,4r3/p2kB3/2p3pp/1p1p3P/3P2K1/2P3P1/P7/4R3 b - - 0 46,e8e7 e1e7 d7e7 h5g6,769,98,crushing endgame rookEndgame short
+3JATr,8/6pk/p1QR2p1/8/8/6PP/r3q1BK/8 w - - 3 51,d6g6 e2g2 c6g2 a2g2 h2g2 h7g6,973,98,crushing endgame long master
+3KEHC,R7/5r2/3p4/4p1P1/4P2K/p4P2/k7/8 b - - 0 57,f7f3 g5g6 f3f2 g6g7,993,99,advancedPawn crushing endgame master rookEndgame short
+3KlQw,1R6/8/8/6p1/1P5k/6rP/5K2/8 b - - 3 48,g3h3 b8h8 h4g4 h8h3,722,99,crushing endgame master rookEndgame short
+3Lipa,8/1p6/p7/P3k3/3p2KP/8/1P6/8 b - - 1 47,d4d3 g4f3 d3d2 f3e2 d2d1b e2d1,975,97,crushing endgame long pawnEndgame
+3Lqsz,8/8/8/5R2/1p3KP1/k7/1r6/8 w - - 0 49,g4g5 b2f2 f4e5 f2f5 e5f5 b4b3 g5g6 b3b2,974,99,advancedPawn crushing endgame rookEndgame veryLong
+3Lv6K,8/8/4p2P/5bK1/4kP2/1p6/1N6/8 w - - 3 61,g5f6 e4f4 h6h7 f5h7,956,97,crushing endgame short
+3MCxU,5r1k/3P2b1/4Q2p/p7/3q4/8/P4PPP/5RK1 b - - 0 46,f8d8 e6e8 d8e8 d7e8q,997,95,advancedPawn crushing endgame master promotion short
+3MEUW,8/6p1/2k4p/p3p3/PpK1P2P/1P3nP1/8/5B2 w - - 1 37,f1e2 f3d2 c4d3 d2b3,981,96,crushing deflection endgame short
+3NJdQ,8/8/1p5P/1b2B3/p3RK2/1k1r4/8/8 b - - 7 54,d3h3 e4e3 h3e3 f4e3,864,98,crushing endgame master short
+3OKf0,4rk2/p6R/1pp4P/3p4/3Pp3/8/PP6/2K5 b - - 0 35,e4e3 h7h8 f8e7 h8e8 e7e8 h6h7,988,97,advancedPawn crushing endgame exposedKing long rookEndgame
+3P2H5,8/8/p1p3pk/Pp3p2/1P1PpP1P/2P3QK/4q3/8 b - - 7 35,e2f3 g3f3 e4f3 h3g3,958,85,crushing endgame queenEndgame short
+3PKQp,8/5p2/2R2p1p/5k2/1r3P2/5PK1/7P/8 b - - 0 31,b4f4 c6c5 f5e6 g3f4,993,97,crushing deflection endgame rookEndgame short
+3PhIt,7k/p7/5PPP/1p3K2/8/8/6r1/8 b - - 4 51,g2f2 f5e6 f2e2 e6f7 e2g2 g6g7,955,94,advancedPawn crushing defensiveMove endgame long master rookEndgame
+3QCff,1r6/pp3k2/5p2/7p/P1pB4/2P3R1/3q2PP/5RK1 b - - 5 33,h5h4 f1f6 f7e8 g3g8,879,97,crushing endgame short
+3RAQ8,7q/8/8/6P1/pp4KP/8/8/k2Q4 b - - 1 54,a1a2 d1a4 a2b2 a4b4,973,98,crushing endgame queenEndgame short
+3RqrP,2r3k1/3N1p1p/2p3p1/p7/3Q4/q1P3P1/6PK/8 b - - 3 34,a3e7 d7f6 e7f6 d4f6,722,94,advantage endgame short
+3SdvF,5rk1/ppp2p1R/3p2p1/4n3/6r1/2P5/P4PN1/5K1R b - - 0 28,e5f3 h7h8 g8g7 h1h7 g7f6 h8f8,990,92,advantage deflection endgame long
+3T6y5,6R1/p2kpp1r/3p4/1PpqP3/8/2Q5/P3B3/4K3 w - - 2 33,c3f3 h7h1 f3h1 d5h1,965,95,crushing endgame master short xRayAttack
+3TB9V,8/8/6P1/8/1k2B3/2p5/5K2/r7 b - - 1 46,b4b3 g6g7 b3b4 g7g8q,930,99,advancedPawn crushing endgame promotion short
+3TFV7,2r5/8/1pkQp1p1/p2pBq2/8/7P/5PPK/8 b - - 7 38,c6b7 d6d7 b7a6 d7c8,965,97,advantage deflection endgame short
+3V6Ii,1r1r4/4kp1p/p3p1p1/1pq5/3R3Q/2P5/PP3PPP/R5K1 b - - 2 19,e7f8 d4d8 b8d8 h4d8,972,98,advantage endgame short
+3VjEO,4r3/7R/7p/5k1b/5B2/3K2P1/8/8 b - - 6 65,f5g6 h7h6 g6f5 h6h5,940,98,advantage deflection endgame master short
+3WkIY,3r1r1k/pp3Q1p/3qP3/2pP4/3R1P2/8/PP4PP/5R1K w - - 1 30,e6e7 f8f7 e7d8r d6d8,902,95,advantage endgame short
+3X7lN,8/7p/8/2k1p1p1/R1r1P3/5K2/6PP/8 w - - 0 32,a4c4 c5c4 f3g4 c4d4,992,90,crushing endgame short
+3XOts,8/p7/1pk1p3/3pP3/3Pb1PQ/8/PK3P1p/8 w - - 0 37,g4g5 h2h1q h4h1 e4h1 g5g6 h1e4 g6g7 e4h7,997,95,advancedPawn crushing defensiveMove endgame master promotion veryLong
+3XRxE,4r2k/4q1bp/p3p3/1p4N1/6Q1/8/PP3PPP/3R2K1 w - - 0 32,g5e6 e7e6 g4e6 e8e6 d1d8 g7f8,957,95,advantage endgame long
+3YTL2,8/5ppk/7p/1Q6/1P2PpK1/4q2P/6P1/8 b - - 6 33,e3e4 b5f5 e4f5 g4f5 f4f3 g2f3,932,99,crushing endgame long queenEndgame
+3YWL9,8/3k1p2/pp4pp/3KP3/PP4PP/8/8/8 b - - 2 42,d7c7 e5e6 f7e6 d5e6,994,100,crushing endgame pawnEndgame short
+3YxB7,5r2/1pp5/2b1k3/2P1P2r/1P3B2/4K1P1/1P1R4/6R1 w - - 7 37,g3g4 h5h3 g1g3 h3g3 f4g3 f8f3,994,91,advantage endgame exposedKing long
+3Z5wy,6k1/5p1p/8/2p1n1p1/4PP2/1R4PP/2r5/5BK1 b - - 0 37,c5c4 b3b8 g8g7 f4e5,918,96,advantage endgame master short
+3ZM88,1Q4k1/1p2r1p1/2p2pq1/3p4/p2P4/P1P5/1P4P1/2KR4 b - - 5 36,g8h7 d1h1 g6h6 h1h6,984,96,advantage endgame short
+3ZOim,8/8/8/p2k3r/P3R3/5K2/8/8 w - - 8 63,f3e3 h5h3 e3f4 h3h4 f4f3 h4e4,959,97,crushing endgame exposedKing long rookEndgame
+3ZPPN,6k1/5bpp/2q5/2p2r2/1Q6/4BP1P/5KP1/2R5 b - - 0 29,c6f3 g2f3 c5b4 c1c8 f7e8 c8e8,955,95,crushing endgame long
+3aKc7,5n2/8/1p1k1p1p/1P2pB2/2K4P/4P3/5P2/8 b - - 0 46,f8d7 f5d7 d6d7 c4d5,962,96,crushing endgame master short
+3aNul,r6k/4P1p1/r2p3p/2p4P/P2n1R2/8/8/2RBK3 b - - 0 37,a8e8 f4f8 h8h7 f8e8,794,99,crushing endgame short
+3ab2D,8/8/5rk1/6pp/8/6KP/4R1P1/8 w - - 0 48,e2f2 h5h4 g3h2 f6f2,922,95,crushing deflection endgame master rookEndgame short
+3actl,8/5p2/1k2p3/3pP1p1/Pp1K2P1/1P5P/8/8 b - - 2 48,b6a5 d4c5 a5a6 c5b4,953,98,crushing endgame pawnEndgame short zugzwang
+3apgJ,8/8/2R1k3/p2r1p2/1p3P2/1P2K3/P7/8 b - - 1 42,d5d6 c6d6 e6d6 e3d4,890,95,crushing defensiveMove endgame rookEndgame short zugzwang
+3bqVA,8/8/4B3/6P1/8/p1p1k3/1bK5/8 b - - 1 54,e3e4 g5g6 e4e5 g6g7 e5e6 g7g8q,987,95,advancedPawn bishopEndgame crushing endgame long promotion
+3cU9L,4k3/5N2/3PP1p1/5p2/4n1r1/8/8/5K2 b - - 2 59,f5f4 d6d7 e8e7 d7d8q,891,100,advancedPawn crushing endgame promotion short
+3ckhJ,8/4k3/5p1p/3KP2P/6P1/8/8/8 b - - 1 48,f6e5 d5e5 e7f7 e5f5,990,99,crushing defensiveMove endgame pawnEndgame short zugzwang
+3dizv,8/6p1/8/6P1/1pk4P/pN2K3/8/8 w - - 1 65,b3a1 b4b3 h4h5 b3b2,995,96,advancedPawn crushing endgame knightEndgame short
+3ePMj,6k1/1p6/2p2p2/3p2n1/rP1P1N1p/4PP2/5K1P/6R1 w - - 0 33,f4e6 a4a2 f2e1 a2a1,956,93,crushing endgame short
+3ef1K,8/8/8/R1p2rkp/P1K5/8/8/8 w - - 0 46,a5c5 f5c5 c4c5 h5h4 a4a5 h4h3 a5a6 h3h2 a6a7 h2h1q,759,99,advancedPawn crushing endgame promotion quietMove rookEndgame veryLong
+3g9R8,8/8/r4pk1/PR5p/5ppP/8/6PK/8 b - - 0 41,f6f5 b5b6 a6b6 a5b6,784,98,crushing endgame rookEndgame short
+3gAjv,3rr1k1/1p3p1p/p4p2/5b2/2P5/2K2N2/PP3PPP/R6R w - - 5 21,b2b4 d8d3 c3b2 e8e2,997,92,crushing endgame short
+3hc6E,1k2r3/p4ppp/1p5q/1Pp5/8/4P3/PP2Q1PP/1K1R4 b - - 0 23,h6e3 d1d8 e8d8 e2e3,991,96,crushing deflection endgame short
+3ieXC,r4k2/1p1n1p2/p2p2p1/2pP4/2P5/PPB1R1PP/6K1/8 b - - 0 27,a8e8 c3g7 f8g7 e3e8,982,95,crushing deflection endgame short
+3ikKf,7r/4Nk1p/n4p2/2p5/3p4/P7/1P3PPP/R5K1 w - - 1 28,a1e1 h8e8 g1f1 e8e7 e1e7 f7e7,967,97,crushing endgame long
+3j0fX,6r1/3p1k2/p1bQpp1p/1p4q1/1P2P3/P4P2/1B4PP/3R2K1 w - - 4 26,g2g3 g5e3 g1g2 e3e2,947,96,crushing endgame kingsideAttack short
+3jRCL,8/8/pk4p1/5p1p/1PK2P1P/6P1/8/8 w - - 1 64,c4d5 b6b5 d5d4 b5b4,985,96,crushing endgame pawnEndgame short
+3jVyk,5R2/1P6/8/6p1/P2KP3/1r4k1/5p2/8 w - - 3 58,b7b8q b3b8 f8b8 f2f1q,954,100,advancedPawn advantage endgame master promotion short
+3kokj,8/4q1kp/8/p4p2/1pQ1n3/4PBP1/5PK1/8 w - - 2 44,f3e4 e7e4 c4e4 f5e4,905,98,crushing endgame master short
+3kwXP,6k1/2p3p1/4q3/p4p2/P2p2N1/1PnP1Q1P/2P2PP1/6K1 w - - 0 31,g4h2 e6e1 h2f1 c3e2 f3e2 e1e2,971,98,crushing endgame long
+3kxfJ,8/8/1P2k3/6p1/K1N1p1Pp/3n3P/8/8 w - - 1 56,b6b7 d3c5 a4b5 c5b7,973,98,crushing endgame knightEndgame short
+3kzNi,4Q3/1p4p1/p1p2r1k/7p/7P/P7/1PP2q2/1KR5 b - - 2 37,f2h4 e8h8 h6g6 c1g1,990,97,advantage endgame master short
+3lsmm,8/7N/1p6/8/1p4P1/k3P2P/4K3/8 w - - 2 41,e2d2 b4b3 h7f6 b3b2 d2c2 a3a2,989,97,advancedPawn crushing defensiveMove endgame knightEndgame long
+3m46D,8/pp6/8/8/1PP5/7k/P5p1/6K1 b - - 0 44,b7b6 c4c5 b6c5 b4c5 h3g4 c5c6 g4f5 c6c7,977,96,advancedPawn crushing endgame pawnEndgame veryLong
+3n3AS,5k2/1p2q1pp/p4p2/3Q4/P1P5/1P5P/6P1/7K w - - 2 43,c4c5 e7e1 h1h2 e1e5 d5e5 f6e5,925,96,advantage endgame long queenEndgame
+3nRWL,1r4k1/6p1/p2q3p/1p6/1P2B1n1/P7/2Q3PP/5RK1 w - - 0 39,c2a2 g8h8 g2g3 d6d4,974,94,crushing defensiveMove endgame short
+3nVoE,8/8/4p1N1/5p1P/pK6/6k1/4n3/8 b - - 0 58,e2f4 g6f4 g3f4 h5h6,956,98,crushing endgame knightEndgame master short
+3om8W,7k/p1p4p/1p2pp2/3p3q/1P1P3N/8/PP3PKP/4RR2 w - - 3 26,h4f3 h5g4 g2h1 g4f3,995,95,advantage deflection endgame short
+3ozIK,8/r7/6p1/P3pP2/K5k1/4R1P1/8/8 b - - 0 47,g6f5 e3e5 f5f4 g3f4,932,96,advantage endgame rookEndgame short
+3pYeM,r7/5p1k/1p2p1p1/1P2Nq1p/P1Q2P1P/6K1/8/8 b - - 2 36,f7f6 c4c7 h7g8 c7f7 g8h8 e5g6 f5g6 f7g6,998,98,crushing endgame veryLong
+3pw2D,8/kpR5/2p5/5P2/8/8/pr4P1/3R2K1 w - - 0 39,d1a1 b2b1 a1b1 a2b1q,914,100,advancedPawn crushing endgame promotion rookEndgame short
+3qoSo,6k1/p1q2pp1/6bp/2pP4/p1P1r3/Q3B2P/5PP1/4R1K1 w - - 10 31,a3c5 c7c5 e3c5 e4e1,996,95,crushing endgame master short
+3rBUF,3r2k1/4R3/6p1/1p1q1p2/2p5/2P1QPP1/7P/6K1 w - - 1 38,e3h6 d5d1 g1g2 d8d2 h6d2 d1d2,900,96,crushing endgame long master
+3rOPV,8/p3b3/3p1k2/3B2p1/8/8/PrP2PK1/4R3 b - - 1 29,b2c2 e1e6 f6f5 e6e7,983,97,advantage deflection endgame short
+3sEIv,8/4p3/3p1k2/3P4/4PpP1/8/4K3/8 b - - 1 53,f6g5 e2f3 g5g6 f3f4,978,95,crushing endgame master masterVsMaster pawnEndgame short zugzwang
+3t90e,8/5pk1/4p1p1/p5Pp/Pp2PP2/1Pr1q1PK/6R1/Q7 b - - 4 36,e3f4 a1c3 b4c3 g3f4,934,99,crushing endgame master short
+3tVpg,8/8/2p1n3/1p1p2k1/pP1P3p/3PK2P/P7/6N1 b - - 5 47,e6f4 g1f3 g5f5 f3h4 f5g5 h4f3,865,96,crushing deflection endgame knightEndgame long
+3tqXd,7k/1r4bp/p2B2p1/5p2/2NP4/Rp2P2P/5PP1/6K1 w - - 2 31,c4a5 b3b2 a5b7 b2b1q,762,98,advancedPawn advantage endgame promotion short
+3ttyG,8/2k5/8/R7/1P2KPp1/6P1/p6r/8 w - - 0 57,e4f5 h2h5 f5g4 h5a5,912,100,crushing endgame master masterVsMaster rookEndgame short
+3u02y,4rR2/6k1/p2K4/2p5/2P3P1/3p4/8/8 w - - 0 43,f8e8 d3d2 d6c5 d2d1q,769,98,advancedPawn crushing endgame promotion rookEndgame short
+3uMSW,8/8/4R3/7r/P1Pk4/1P2p3/4K3/8 w - - 5 50,e6e3 h5h2 e2f3 h2h3 f3f4 h3e3,986,97,crushing endgame exposedKing long rookEndgame
+3uYzF,8/8/3k4/p3p2p/P3Pp1P/3K4/6P1/8 b - - 7 56,d6c6 d3c4 c6d6 c4b5,999,98,crushing endgame pawnEndgame short zugzwang

@@ -1,0 +1,79 @@
+name: irachess
+description: "IraChess: aprende de tus propias partidas de ajedrez."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.14.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.1.0
+
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^3.5.0
+  go_router: ^18.1.4
+  dartchess: ^0.15.0
+  chessground: ^11.1.0
+  multistockfish: ^0.7.0
+  drift: ^2.35.4
+  drift_flutter: ^0.3.1
+  sqlite3: ^3.9.2
+  dio: ^5.11.1
+  fl_chart: ^1.3.1
+  shared_preferences: ^2.5.6
+  file_picker: ^13.4.1
+  share_plus: ^13.3.1
+  intl: ^0.20.3
+  path_provider: ^2.1.6
+  path: ^1.9.1
+  flutter_localizations:
+    sdk: flutter
+  web: ^1.1.2
+  flutter_secure_storage: ^11.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  drift_dev: ^2.35.3
+  build_runner: ^2.17.1
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/openings.tsv
+    - assets/puzzles/
+    - assets/logo.png
+
+hooks:
+  user_defines:
+    sqlite3:
+      # Linux usa la libsqlite3 del sistema; el resto descarga su binario.
+      source:
+        linux: system
+        default: sqlite3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/logo.png
+  remove_alpha_ios: true
+  adaptive_icon_background: "#3B3B98"
+  adaptive_icon_foreground: assets/brand/foreground.png
+  web:
+    generate: true
+    image_path: assets/logo.png
+    background_color: "#3B3B98"
+    theme_color: "#3B3B98"
+  windows:
+    generate: true
+    image_path: assets/logo.png
+  macos:
+    generate: true
+    image_path: assets/logo.png

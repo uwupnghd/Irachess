@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#3B3B98"/>
+  <!-- peón -->
+  <circle cx="246" cy="160" r="54" fill="#FFFFFF"/>
+  <rect x="192" y="214" width="108" height="24" rx="12" fill="#FFFFFF"/>
+  <path d="M214 238 C 214 300 182 336 168 376 L 324 376 C 310 336 278 300 278 238 Z" fill="#FFFFFF"/>
+  <rect x="140" y="368" width="212" height="62" rx="24" fill="#FFFFFF"/>
+  <rect x="140" y="368" width="212" height="16" rx="8" fill="#F2A541"/>
+  <!-- llama (ira) -->
+  <path d="M362 64 C 404 104 414 142 388 178 C 392 152 378 136 368 126 C 370 152 354 166 344 178 C 318 154 318 110 362 64 Z" fill="#F2A541"/>
+</svg>
