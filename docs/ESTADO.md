@@ -16,7 +16,7 @@ Fecha: 2026-11-26. Rama: `claude/focused-albattani-cmxhkn`.
 | Plataforma | Estado |
 |------------|--------|
 | Linux (escritorio) | Compilada y ejecutada aquí: importar PGN → analizar con Stockfish real → tabla, resumen, flechas y explicaciones. |
-| Android | APK de *release* compilado aquí para arm64 (ver «Verificación»). **No probado en un dispositivo real**: falta medir el «< 1 minuto» en un móvil de gama media. |
+| Android | APK de *release* compilado aquí para arm64 (`flutter build apk --release --split-per-abi`): 43,5 MB. **No probado en un dispositivo ni en un emulador** (este entorno no tiene KVM): falta medir el «< 1 minuto» en un móvil de gama media. |
 | Windows / macOS | Mismo código que Linux; no compilados (no hay esos sistemas aquí). Necesitan el ejecutable de Stockfish (README). |
 | iOS | Configurado (nombre, iconos) pero **no compilado** (requiere macOS + Xcode). Revisar el tema legal antes de publicar ([LICENCIAS.md](LICENCIAS.md)). |
 | Web | **Bloqueada por ahora.** `flutter build web --wasm` siempre compila también una versión JavaScript de respaldo, y `dartchess` usa enteros de 64 bits que dart2js no admite. Se aplica la decisión D2: la web queda para cuando Flutter permita compilar solo Wasm o `dartchess` admita JavaScript. Ya están preparados el motor web (`web/engine/`, Stockfish 19 lite) y el canal UCI por Web Worker; faltarían `web/sqlite3.wasm` (descargable de las *releases* de `sqlite3.dart` 3.9.2) y `web/drift_worker.js` (`dart compile js -O4 tool/drift_worker.dart -o web/drift_worker.js`). |
@@ -28,6 +28,19 @@ Fecha: 2026-11-26. Rama: `claude/focused-albattani-cmxhkn`.
 - Stockfish real (Linux): 8 posiciones en 3,3 s con el preset Normal (~0,4 s por posición, 2 hilos) → una partida de 40 jugadas en ~35 s.
 - Importadores probados contra las APIs reales de Lichess y Chess.com (usuarios públicos, usuario inexistente).
 - Sincronización probada con dos bases de datos y un servidor simulado con la semántica de PostgREST: sin duplicados, gana la última escritura y los borrados se propagan. **No probada contra un Supabase real** (no se crearon cuentas ni servicios para no generar gastos).
+
+## Tamaño de instalación (APK arm64 de 43,5 MB)
+
+| Parte | Tamaño |
+|-------|--------|
+| Motor Flutter (`libflutter.so`) | 11,3 MB |
+| Código de la app (`libapp.so`) | 8,9 MB |
+| Piezas y tableros de `chessground` (todos los conjuntos, aunque la app solo ofrece 7) | 13,0 MB |
+| Stockfish: variante *light* (la que se usa) 2,7 MB + variantes *chess* y *variant* que `multistockfish` incluye sin usarse 3,4 MB | 6,1 MB |
+| SQLite | 1,8 MB |
+| Libro ECO + 1.425 problemas | 0,6 MB |
+
+Google Play entrega la descarga comprimida y por arquitectura, así que la descarga real es menor. Reducirlo de verdad exige quitar los recursos de `chessground` y las variantes de Stockfish que no se usan (requiere bifurcar esos paquetes).
 
 ## Decisiones y desviaciones respecto a la propuesta
 
