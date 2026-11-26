@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:dartchess/dartchess.dart';
 import 'package:flutter/services.dart' show rootBundle;
 
@@ -59,7 +61,8 @@ class OpeningBook {
   static OpeningBook parse(String tsv) {
     final named = <String, OpeningName>{};
     final book = <String>{};
-    for (final line in tsv.split('\n')) {
+    // LineSplitter acepta \n y \r\n (Git en Windows convierte los saltos de línea).
+    for (final line in const LineSplitter().convert(tsv)) {
       final cols = line.split('\t');
       if (cols.length < 3) continue;
       Position pos = Chess.initial;

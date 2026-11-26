@@ -44,6 +44,12 @@ void main() {
     expect(b.opening!.name, a.opening!.name);
   });
 
+  test('acepta saltos de línea de Windows (\\r\\n)', () {
+    final crlf = OpeningBook.parse(io.File('assets/openings.tsv').readAsStringSync().replaceAll('\n', '\r\n'));
+    expect(crlf.size, book.size);
+    expect(crlf.identify(line('e2e4 c7c5'.split(' '))).opening!.name, startsWith('Sicilian Defense'));
+  });
+
   test('partida desde FEN no estándar: sin teoría', () {
     final start = positionFromFen('4k3/8/8/8/8/8/4P3/4K3 w - - 0 1');
     final r = book.identify([start, start.play(parseUciMove(start, 'e2e4')!)]);

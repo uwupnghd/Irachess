@@ -1,0 +1,4 @@
+# Datos: sin conversión de saltos de línea (Git para Windows usa CRLF por defecto).
+assets/*.tsv -text
+assets/puzzles/*.csv -text
+puzzle_packs/* -text
