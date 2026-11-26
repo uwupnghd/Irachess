@@ -123,7 +123,7 @@ class _AnalysisViewState extends ConsumerState<_AnalysisView> {
         });
       }
     } catch (e) {
-      if (mounted) setState(() => _error = l.engineUnavailable('$e'));
+      if (mounted) setState(() => _error = l.errorGeneric('$e'));
     } finally {
       if (mounted) {
         setState(() {
